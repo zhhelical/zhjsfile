@@ -1,0 +1,5 @@
+{
+    "image_url":"http://localhost/image",
+    "image_dir":"/data/release/helical/upload",
+    "tmp_dir":"/data/release/helical/imgtmp"
+}
