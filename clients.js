@@ -7,11 +7,10 @@
 
  module.exports = {
      joinEvent: function(person, relation, sqled, cached, cb){
-         for(var who in clientsArray){//for outmind offline issue
-             if(JSON.stringify(clientsArray[who].key)==JSON.stringify(person) || JSON.stringify(clientsArray[who].key).match(JSON.stringify(person))) {
+         for(var who=clientsArray.length-1; who>-1; who--){//for outmind offline issue
+             if(JSON.stringify(clientsArray[who].key)==JSON.stringify(person) || JSON.stringify(JSON.stringify(person)).match(clientsArray[who].key)) {
                  clientsArray[who].relation = null
-                 clientsArray.splice(clientsArray[who], 1)
-                 break
+                 clientsArray.splice(who, 1)
              }
          }
          var that = this
