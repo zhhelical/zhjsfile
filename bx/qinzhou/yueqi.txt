@@ -1,0 +1,500 @@
+<!DOCTYPE html><html><head><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta charset='utf-8'><script id="perf0"></script><link rel='dns-prefetch' href='//file.baixing.net/'><link rel='dns-prefetch' href='//img4.baixing.net/'><link rel='dns-prefetch' href='//img5.baixing.net/'><link rel='dns-prefetch' href='//img6.baixing.net/'><meta name='apple-itunes-app' content='app-id=591540113'><meta property='qc:admins' content='27606217656211016763757'><meta name='renderer' content='webkit'><meta name='applicable-device' content='pc'><title>【钦州二手书网_钦州二手书市场_钦州二手音像制品】 - 钦州百姓网</title><meta name='keywords' content='钦州二手书网,钦州二手书市场'><meta name='description' content='百姓网钦州图书音像频道是钦州本地最大的二手书和二手音像制品交易网，汇集了大量钦州二手图书/教材，二手音像制品信息供您查询，并您可免费发布书籍/音像制品转让信息。'><meta name='location' content='province=广西;city=钦州;coord=108.65414699999996,21.979934'><link rel='alternate' href='http://qinzhou.baixing.com/m/yueqi/' media='handheld' type='application/vnd.wap.xhtml+xml'><meta http-equiv='mobile-agent' content='format=html5; url=http://qinzhou.baixing.com/m/yueqi/'><meta http-equiv='mobile-agent' content='format=wml; url=http://qinzhou.baixing.com/m/yueqi/'><meta http-equiv='mobile-agent' content='format=xhtml; url=http://qinzhou.baixing.com/m/yueqi/'><script> /* 预防吉林铁通篡改百度js删除cookie */ (function() {  var _setInterval = setInterval;  try {   setInterval = function(f) {    var src = f.toString();    if (!/_hao_pg/.test(src)) {     return _setInterval.apply(window, arguments);    }   };  } catch (e) {   /* slient */  } })(); </script><script> document.documentElement.className += ' js' </script><script> void function(){  var a = location.hostname.split('.').slice(-2);  if (a[0] === 'baixing' && (a[1] === 'com' || a[1] === 'cn')) document.domain = a.join('.'); }(); var _defer=[], _taq=[]; </script><script>!function(){"use strict";function e(e){if("object"==typeof e)return n({errMessage:e.message||e.msg,errLine:e.line||e.lineno||e.lineNumber,errFile:e.file||e.filename||e.fileName,errPage:t(location.pathname),percent:e.percent},e.error||e),e.error||e}function t(e){return e.replace(/a\d+\.html$/,"aNNNNNNN.html")}function n(e,t){Math.random()>(e.percent||.1)/100||(t&&t.stack&&(e.stack=t.stack.substring(0,500)),tracker.kLog("fe_error",e))}window.Raven&&Raven.config("//815017857a8b440084898577b6917624@error.baixing.net/3",{dataCallback:function(e){var t=e.exception.values[0];e.message||(e.message=t.type+": "+t.value,e.extra.messageSupported=!1);for(var n=t.stacktrace.frames,o=0;o<n.length;o++)n[o].colno=n[o].colno||0},release:"",shouldSendCallback:function(e){var t=e.exception.values[0];return!/MSIE [567]/.test(navigator.userAgent)&&!/ReferenceError.*?:.*?(?:\$|jQuery|Promise|RongIMLib|webpackJsonp)/.test(e.message||t.type+t.value)},whitelistUrls:[/s\.baixing\.net/]}).install(),window.errorTracker=e,window.reportError=function(){var e={};return function(t,n,o,r,i){if(!t._t){t._t=(new Date).getTime();var a=new Error;e[t._t]=a,a.columnNumber=i,a.fileName=n,a.lineNumber=r,a.message=t.message||t.description,a.name=t.name,a.stack=t.stack||t.name+": "+a.message,setTimeout(function(){delete e[t._t],t._r||window.Raven&&Raven.captureException(a,{extra:{stackSupported:!!t.stack}})},1)}var a=e[t._t];!t.stack&&n&&(a.stack+="\n\tat "+o+" (//s.baixing.net"+n+":"+r+":"+i+")")}}()}();var tracker={lastTimestamp:(new Date).getTime(),referrer:null,city:null,city_name:null,category:null,pagetype:null,trackid:null,adid:null,visitorid:null,userid:"",cv1:"",cv2:"",cv3:"",tk1:"",tk2:"",tk3:"",tk4:"",tk5:"",ic:function(e,t){_taq.push(["ic",e,t?"uv":"pv"])},count:function(e,t){_taq.push(["count",e,t])},timing:function(e,t,n){_taq.push(["timing",e,t,n])},kLog:function(e,t){_taq.push(["klog",e,t])},evt:function(e,t){_taq.push(["evt",e,t])},perf:function(e){_taq.push(["perf",tracker.pageType,e])},ga:function(e,t,n,o){_taq.push(["ga",e,t,n,o])},manageTrack:function(e,t){_taq.push(["manageTrack",e,t])},resErr:function(e){var t;switch(e.nodeName.toLowerCase()){case"link":t=e.href;break;case"script":case"img":case"iframe":t=e.src;break;default:return}"function"==typeof window.errorTracker&&window.errorTracker({msg:"Resource Error",file:t,percent:1})},setCategory:function(e){this.category=e},setCity:function(e){this.city=e},setCityEnglishName:function(e){this.city_name=e},setTrackId:function(e){this.trackid=e},setAdId:function(e){this.adid=e},setVisitorId:function(e){this.visitorid=e},setUserId:function(e){this.userid=e},generateId:function(){var e=(new Date).getTime(),t=Math.random().toString().slice(2)+"-"+e+"-"+(e^this.trackid^parseInt(this.reid,16))+"-"+(e-this.lastTimestamp);if(this.lastTimestamp=e,this.lastPvId=t,window.sessionStorage)try{window.sessionStorage.setItem("bx:pvid",t)}catch(n){}return t},parentId:function(){return this.lastPvId?this.lastPvId:window.sessionStorage?window.sessionStorage.getItem("bx:pvid"):"NA"},consumeLastClick:function(){var e=this.lastClick;return e&&(this.lastClick=null),window.sessionStorage&&(e||(e={target:window.sessionStorage.getItem("bx:click.target"),time:window.sessionStorage.getItem("bx:click.time")}),window.sessionStorage.removeItem("bx:click.target"),window.sessionStorage.removeItem("bx:click.time")),e?new Date-e.time+"$"+e.target:""},pv:function(){var e=new Image;e.id="garyTracker",e.src=["//gary.","baixing.com/arrow.php?"].join("")+"ppvid="+this.parentId()+"&pvid="+this.generateId()+"&click="+encodeURIComponent(this.consumeLastClick())+"&reid="+encodeURIComponent(this.reid)+"&url="+encodeURIComponent(document.location.href.length?document.location.href:"")+"&ref="+encodeURIComponent(this.referrer||(document.referrer.length?document.referrer:""))+"&ct="+encodeURIComponent(this.city)+"&ctn="+encodeURIComponent(this.city_name)+"&cat="+encodeURIComponent(this.category)+"&vid="+encodeURIComponent(this.visitorid)+"&uid="+encodeURIComponent(this.userid)+"&tid="+encodeURIComponent(this.trackid)+"&adid="+encodeURIComponent(this.adid)+"&cv1="+encodeURIComponent(this.cv1)+"&cv2="+encodeURIComponent(this.cv2)+"&cv3="+encodeURIComponent(this.cv3)+"&cv4="+encodeURIComponent(this.cv4)+"&cv5="+encodeURIComponent(this.cv5)+"&tk1="+encodeURIComponent(this.tk1)+"&tk2="+encodeURIComponent(this.tk2)+"&tk3="+encodeURIComponent(this.tk3)+"&tk4="+encodeURIComponent(this.tk4)+"&tk5="+encodeURIComponent(this.tk5)}};!function(e){function t(t){var n=+new Date;t||(t=e.event);var r=o(t.target||t.srcElement);if(e.tracker&&(e.tracker.lastClick={target:r,time:n}),e.sessionStorage)try{e.sessionStorage.setItem("bx:click.target",r),e.sessionStorage.setItem("bx:click.time",n)}catch(i){}}function n(e){for(var t=1,n=e.tagName;e=i(e);)e.tagName===n&&t++;return t}function o(e){var t;if(1!==e.nodeType)t="/*"+e.nodeName+"*/";else{if(t=e.tagName,e.id)return t+"#"+e.id;var r=i(e);if(r){if(r.id)return r.tagName+"#"+r.id+"+"+t;var a=n(e);t+=1===a?":first-of-type":":nth-of-type("+a+")"}else t+=":first-child"}var c=e.parentNode;return c&&1===c.nodeType&&"body"!==c.tagName.toLowerCase()?o(c)+">"+t:t}var r=e.document;r.addEventListener?r.addEventListener("click",t,!1):r.attachEvent?r.attachEvent("onclick",t):r.onclick=t;var i;i=r.documentElement.previousElementSibling!==undefined?function(e){return e.previousElementSibling}:function(e){for(;(e=e.previousSibling)&&1!==e.nodeType;);return e}}(window),function(e){function t(){e.$&&(o(document,"DOMContentLoaded",t),o(e,"load",t),r(),$(document).on("click",i),a())}function n(e,t,n){e.addEventListener?e.addEventListener(t,n,!1):e.attachEvent&&e.attachEvent("on"+t,n)}function o(e,t,n){e.removeEventListener?e.removeEventListener(t,n,!1):e.detachEvent&&e.detachEvent("on"+t,n)}function r(){var t=document.createElement("a");t.href=document.referrer;var n,o,r,i=t.hostname;i.indexOf("baidu.com")>=0&&(r=document.referrer.match(/baidu.+wo?r?d=([^\\&]*)/i))?(n=r[1],o="baidu"):i.indexOf("google.com")>=0&&(r=document.referrer.match(/google.+q=([^\\&]*)/i))?(n=r[1],o="google"):i.indexOf("so.com")>=0&&(r=document.referrer.match(/so.+q=([^\\&]*)/i))?(n=r[1],o="so"):i.indexOf("haosou.com")>=0&&(r=document.referrer.match(/haoso.+q=([^\\&]*)/i))?(n=r[1],o="haosou"):i.indexOf("sm.cn")>=0&&(r=document.referrer.match(/sm.+q=([^\\&]*)/i))&&(n=r[1],o="sm"),o&&(e.landingKeyword=decodeURIComponent(n).replace(/^\s+|\s+$/g,""),e.seoSource=o)}function i(t){var n=t.target;if($.contains(document.body,n)){for(;"A"!=n.nodeName&&"BODY"!=n.nodeName;)n=n.parentNode;if("A"==n.nodeName&&n.hostname){if(!(null!==/(baixing.cn|baixing.com)$/i.exec(n.hostname))){var o=$(n).data();o.href=n.href,e.seoSource&&(o.landing_keyword=e.landingKeyword,o.seo_source=e.seoSource),o.timestamp=Math.floor(Date.now()/1e3),tracker.evt("external_click",o),$("body").trigger("adsense_click",$(t.target).parents(".adsense"))}}}}function a(){function t(){if(n){var t=$("#"+n).data();$.isEmptyObject(t)&&(t.id=$("#"+n).attr("id")),e.seoSource&&(t.landing_keyword=e.landingKeyword,t.seo_source=e.seoSource),t.timestamp=Math.floor(Date.now()/1e3),tracker.evt("external_click",t),$("body").trigger("adsense_click",$("#"+n))}}var n=!1;$(document).on("mouseenter",".iframe-3rd-party,.third-party-wrapper iframe",function(){n=this.id}).on("mouseleave",".iframe-3rd-party,.third-party-wrapper iframe",function(){n=!1,e.focus()}),$(e).on("blur",t)}n(document,"DOMContentLoaded",t),n(e,"load",t)}(window);var ON_PRODUCTION = 1;
+
+tracker.setCategory('yueqi');
+tracker.setCity('777');
+tracker.setCityEnglishName('qinzhou');
+tracker.setAdId('');
+tracker.setUserId('');
+tracker.setTrackId('148963404594544');
+tracker.setVisitorId('');
+
+tracker.tk1 = 'PostService1';
+tracker.tk2 = 'sharp_ranking0';
+tracker.tk3 = '';
+tracker.tk4 = 'fenglin_title_test0';
+tracker.tk5 = '';
+
+tracker.cv1 = '';
+tracker.cv2 = '';
+tracker.cv3 = '';
+tracker.cv4 = '1489634045';
+tracker.cv5 = '148963404594544';
+tracker.reid = '58ca02fdb8da354902';
+tracker.pageType = 'listing';
+</script><!--block ie6to8Style--><!--	include ie6to8style--><link rel='canonical' href='http://qinzhou.baixing.com/yueqi/'><link rel='apple-touch-icon-precomposed' href='//s.baixing.net/img/wap/icon_bx_app_1308.png'><link rel='shortcut icon' href='//s.baixing.net/favicon.ico' type='image/x-icon'><script src="//s.baixing.net/d/refashion-lib/base.re.a75a53a4.js" onerror="tracker.resErr(this)" crossorigin></script><!--[if lt IE 9]><script src='//s.baixing.net/d/shim.0da4e718.js'></script><![endif]--><!--[if lt IE 8]><script src='//s.baixing.net/js/module/json2.min.96bd9bbd.js'></script><![endif]--><script id="perf1"></script><script>
+	/** Start: Google Analytics */
+	(function(i, s, o, g, r, a, m) {i['GoogleAnalyticsObject'] = r;i[r] = i[r] || function() {(i[r].q = i[r].q || []).push(arguments)}, i[r].l = 1 * new Date();a = s.createElement(o),m = s.getElementsByTagName(o)[0];a.async = 1;a.src = g;m.parentNode.insertBefore(a, m)})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+	ga('create', {trackingId: 'UA-6183853-1', cookieDomain: 'baixing.com', 'siteSpeedSampleRate': 100});
+
+</script>
+<script>
+			if (tracker.data) {
+		var city = tracker.data.city_name,
+			category = tracker.data.category,
+			platform = 'wap';
+	} else {
+		var city = tracker.city_name,
+			category = tracker.category,
+			platform = 'web';
+	}
+
+	ga('set', 'dimension1', city);
+	ga('set', 'dimension2', category);
+	ga('set', 'dimension3', 'Listing_Controller');
+	ga('set', 'dimension4', platform);
+
+	(function () {
+		var refer = document.referrer;
+		if (refer && refer.search("http://") > -1) {
+			var domain = refer.match(/:\/\/(.[^/]+)/)[1];
+			if (domain.indexOf("baidu.com") > -1) { //暂时只统计baidu，忽略其他份额小的SE。
+				ga('set', 'dimension5', 'Listing_Controller');
+			}
+		}
+	})();
+
+	ga('send', 'pageview');
+
+	/** End: Google Analytics */
+</script>
+
+
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?5a727f1b4acc5725516637e03b07d3d2";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+<link rel="stylesheet" href="//s.baixing.net/d/refashion-common/index.bb77b71c.css" onerror="tracker.resErr(this)"><link rel='stylesheet' href='//s.baixing.net/font/baicons/baicons2.52bc752a.css'><style media="print">body{background:url(/c/ev/print?_city=qinzhou&_category=yueqi&_tk1=PostService1&_tk2=sharp_ranking0&_tk3=&_tk4=fenglin_title_test0&_tk5=&_tid=148963404594544&_url=http%3A%2F%2Fqinzhou.baixing.com%2Fyueqi%2F%3Fafo%3DGDz&_refer=)}</style><link rel="stylesheet" href="//s.baixing.net/combine/css/d/refashion-listing/index.bfee7f86.css,/css/module/jquery-ui-1.9.1.custom.d3ae8ca1.css" onerror="tracker.resErr(this)"></head><!--[if lt IE 7 ]> <body class="ie6 lt-ie8"> <![endif]--><!--[if IE 7 ]>    <body class="ie7 lt-ie8"> <![endif]--><!--[if IE 8 ]>    <body class="ie8 category-yueqi category-ershou view-item"> <![endif]--><!--[if (gte IE 9)|!(IE)]><!--> <body class="category-yueqi category-ershou view-item"> <!--<![endif]--><header><div><div class='toolbar'><div class='toolbar-link'><i class='icon-mobile'></i><a rel='dialog' href='#promote-weixin-modal' data-toggle='modal'>微信版</a><a href='//www.baixing.com/a/mobile'>手机APP</a><i class='sep'>|</i><a href='//fangchenggang.baixing.com/yueqi/?afo=GDz'>防城港</a><a href='//beihai.baixing.com/yueqi/?afo=GDz'>北海</a><a href='//nanning.baixing.com/yueqi/?afo=GDz'>南宁</a><a href='//china.baixing.com'>全国</a><a href='//www.baixing.com/?changeLocation=yes&amp;return=%2Fyueqi%2F%3Fafo%3DGDz'>[更多城市]</a></div><ul id='user-tools' class='navbar-nav'><li><a href='//www.baixing.com/oz/verify/reg' rel='nofollow' data-toggle='userAuth' data-type='reg'>注册</a></li><li><a href='//www.baixing.com/oz/login' rel='nofollow' data-toggle='userAuth' data-type='login'>登录</a></li><li class='dropdown'><a href='//www.baixing.com/ra/pay?src=topbar#vip' target='_blank'>商户推广<i class='icon-arrow-down'></i></a><ul class='dropdown-menu'><li><a href='//www.baixing.com/ra/pay/?src=header' target='_blank'>付费推广</a></li><li><a href='//vip.baixing.com/job_buy?src=topbar' target='_blank'>VIP会员-招聘版</a></li><li><a href='//vip.baixing.com/auto_buy?src=topbar' target='_blank'>VIP会员-车商版</a></li><li><a href='//vip.baixing.com/house_buy?src=topbar' target='_blank'>VIP会员-房产版</a></li><li><a href='//vip.baixing.com/service_buy?src=topbar' target='_blank'>VIP会员-服务版</a></li><li><a href='//vip.baixing.com/pet_buy?src=topbar' target='_blank'>VIP会员-宠物版</a></li></ul></li><li class='dropdown'><a href='javascript:;'>合作及工具<i class='icon-arrow-down'></i></a><ul class='dropdown-menu'><li><a href='//www.baixing.com/a/bdad/?src=home_topbar' target='_blank'>品牌网络推广</a></li><li><a href='http://api3.baixing.com.cn/?src=home_topbar' target='_blank'>API合作</a></li><li><a href='//www.baixing.com/PublicReview/' target='_blank'>大众评审</a></li><li><a href='//www.baixing.com/mkt/agents/' target='_blank'>诚招代理商</a></li></ul></li><li><a href='//www.baixing.com/help/' target='_blank'>帮助</a></li></ul></div></div><div><div class='location'><span class='breadcrumb'><a href='/' property='v:title' rel='v:url' class='primary-logo'><span class='city-logo'>钦州</span><img alt='百姓网' src='//s.baixing.net/img/refashion/logo_baixing.png' width='95px' height='48px'></a><i class='icon-arrow-right'></i><a href='http://qinzhou.baixing.com' property='v:title' rel='v:url'>钦州</a><i class='icon-arrow-right'></i><a href='/ershou/' property='v:title' rel='v:url'>钦州二手</a><i class='icon-arrow-right'></i><a href='/yueqi/' property='v:title' rel='v:url'>钦州图书音像</a></span><a href='//qinzhou.baixing.com/fabu/yueqi' class='post'>免费发布图书音像信息</a></div></div></header><script id="fold-point">tracker.pv()</script><div class='refashion-listing-banner'></div><div id='listing-fixed-filters'><form><fieldset class='dropdown'><legend data-toggle='dropdown'><span>类型</span><i class='icon-arrow-down'></i></legend><ul class='dropdown-menu'><li><a class='checked'>不限</a></li><li><a href='/yueqi/m178401/'>图书</a></li><li><a href='/yueqi/m178399/'>音像制品</a></li><li><a href='/yueqi/m178402/'>其他</a></li></ul></fieldset><i class='sep'></i><fieldset class='dropdown'><legend data-toggle='dropdown'><span>价格</span><i class='icon-arrow-down'></i></legend><ul class='dropdown-menu'><li><a class='checked'>不限</a></li><li><a href='/yueqi/?%E4%BB%B7%E6%A0%BC%5B0%5D=100&amp;%E4%BB%B7%E6%A0%BC%5B1%5D='>100元以上</a></li></ul></fieldset><i class='sep'></i><fieldset class='dropdown'><legend data-toggle='dropdown'><span>新旧程度</span><i class='icon-arrow-down'></i></legend><ul class='dropdown-menu'><li><a class='checked'>不限</a></li><li><a href='/yueqi/?entities=%E6%96%B0%E6%97%A7%E7%A8%8B%E5%BA%A6_8%E6%88%90%E6%96%B0'>8成新</a></li><li><a href='/yueqi/?entities=%E6%96%B0%E6%97%A7%E7%A8%8B%E5%BA%A6_7%E6%88%90%E6%96%B0%E5%8F%8A%E4%BB%A5%E4%B8%8B'>7成新及以下</a></li><li><a href='/yueqi/?entities=%E6%96%B0%E6%97%A7%E7%A8%8B%E5%BA%A6_9%E6%88%90%E6%96%B0'>9成新</a></li><li><a href='/yueqi/?entities=%E6%96%B0%E6%97%A7%E7%A8%8B%E5%BA%A6_95%E6%88%90%E6%96%B0'>95成新</a></li><li><a href='/yueqi/?entities=%E6%96%B0%E6%97%A7%E7%A8%8B%E5%BA%A6_99%E6%88%90%E6%96%B0'>99成新</a></li><li><a href='/yueqi/?entities=%E6%96%B0%E6%97%A7%E7%A8%8B%E5%BA%A6_%E5%85%A8%E6%96%B0'>全新</a></li></ul></fieldset><i class='sep'></i><fieldset><legend><a href='#listing-filters'>更多筛选</a></legend></fieldset><a href='//qinzhou.baixing.com/fabu/yueqi' class='post'>免费发布图书音像信息</a></form></div><div class='listing-fixed-bottom-promo'><div class='qrcode-container'><img src='//file.baixing.net/201604/043841105da8af0be03accadbc8202a2.png'><a href='javascript:;' class='close pull-right'>&times;</a></div></div><section><form id='listing-filters' action='' class='compact '><fieldset class='expanded'><span class='legend'>地区</span><div class='area links'><a class='checked'>全钦州</a><a href='/yueqi/m5058/'>钦南</a><a href='/yueqi/m5057/'>钦北</a><a href='/yueqi/m5056/'>灵山</a><a href='/yueqi/m5055/'>浦北</a><a href='http://guangxi.baixing.com/yueqi/'>全广西</a><a href='http://china.baixing.com/yueqi/'>全中国</a></div></fieldset><fieldset class='expanded'><span class='legend'>类型</span><div class='links'><a class='checked'>不限</a><a href='/yueqi/m178401/'>图书</a><a href='/yueqi/m178399/'>音像制品</a><a href='/yueqi/m178402/'>其他</a></div></fieldset><fieldset class='expanded'><span class='legend'>价格</span><div class='links'><a class='checked'>不限</a><a href='/yueqi/?%E4%BB%B7%E6%A0%BC%5B0%5D=100&amp;%E4%BB%B7%E6%A0%BC%5B1%5D='>100元以上</a><span class='range'><label>自定义区间：</label><input type='number' min='0' name='价格[0]' value='' class='number'><label>～</label><input type='number' min='0' name='价格[1]' value='' class='number'><label class='unit'>元</label><input type='submit' value='筛选' class='filter-button'></span></div></fieldset><fieldset class='expanded'><span class='legend'>新旧程度</span><div class='links'><a class='checked'>不限</a><a href='/yueqi/?entities=%E6%96%B0%E6%97%A7%E7%A8%8B%E5%BA%A6_8%E6%88%90%E6%96%B0'>8成新</a><a href='/yueqi/?entities=%E6%96%B0%E6%97%A7%E7%A8%8B%E5%BA%A6_7%E6%88%90%E6%96%B0%E5%8F%8A%E4%BB%A5%E4%B8%8B'>7成新及以下</a><a href='/yueqi/?entities=%E6%96%B0%E6%97%A7%E7%A8%8B%E5%BA%A6_9%E6%88%90%E6%96%B0'>9成新</a><a href='/yueqi/?entities=%E6%96%B0%E6%97%A7%E7%A8%8B%E5%BA%A6_95%E6%88%90%E6%96%B0'>95成新</a><a href='/yueqi/?entities=%E6%96%B0%E6%97%A7%E7%A8%8B%E5%BA%A6_99%E6%88%90%E6%96%B0'>99成新</a><a href='/yueqi/?entities=%E6%96%B0%E6%97%A7%E7%A8%8B%E5%BA%A6_%E5%85%A8%E6%96%B0'>全新</a></div></fieldset><fieldset class='search-fieldset'><input name='query' type='search' placeholder='搜图书音像' value='' class='search-query'><a href='javascript:void 0;' class='search-trigger'><i class='icon-search'></i></a><a class='more-options-folding'><span>更多筛选条件</span><i class='icon-arrow-down'></i><i class='icon-minus'></i></a></fieldset></form></section><div id='js-fixed-filter-anchor'></div><section class='container'><aside class='sidebar waterfall-glist'><div class='sidebar-filter subscribe'><div class='title'><i class='icon-xiangguan'></i>信息免费订阅</div><strong>钦州 图书音像</strong><a href='#email-tips' role='button' data-toggle='modal' class='subscribe-button'>有新信息通知我</a></div><div class='rightside-adsense'><script type="text/javascript">
+	(function() {
+		var cpro_id = "u2839315";
+		var s = "_" + Math.random().toString(36).slice(2);
+		document.write('<div style="" id="' + s + '"></div>');
+				(window.slotbydup = window.slotbydup || []).push({
+			container: s,
+			id: cpro_id,
+			scale: '20.3',
+			display: 'inlay-fix'
+		});
+	})();
+</script>
+
+</div><div class='sidebar-filter safe-tip'><div class='title'><i class='icon-tips'></i>安全小贴士</div><p style='text-align:left;margin-top:20px' class='sidebar-filter-block'><a href="http://www.baixing.com/help/feed?id=fd53085" target="_blank">闲置交易里的那些陷阱</a><br /><a href="http://www.baixing.com/help/feed?id=fd53261" target="_blank">识破低价高配的骗局</a><br /><a href="http://www.baixing.com/help/feed?id=fd45830" target="_blank">交易时如何防止上当受骗</a><br /><a href="http://www.baixing.com/help/feed?id=fd53291" target="_blank">快速识别商品虚假信息</a><br /><a href="http://www.baixing.com/help/feed?id=fd53292" target="_blank">交易安全二三事</a></p></div><script type="text/javascript">
+	(function() {
+		var cpro_id = "u2777022";
+		var s = "_" + Math.random().toString(36).slice(2);
+		document.write('<div style="" id="' + s + '"></div>');
+				(window.slotbydup = window.slotbydup || []).push({
+			container: s,
+			id: cpro_id,
+			scale: '20.3',
+			display: 'inlay-fix'
+		});
+	})();
+</script>
+
+<script type="text/javascript">
+	(function() {
+		var cpro_id = "u2777026";
+		var s = "_" + Math.random().toString(36).slice(2);
+		document.write('<div style="" id="' + s + '"></div>');
+				(window.slotbydup = window.slotbydup || []).push({
+			container: s,
+			id: cpro_id,
+			scale: '20.3',
+			display: 'inlay-fix'
+		});
+	})();
+</script>
+
+</aside><div id='weixin-tips' tabindex='-1' role='dialog' class='modal hide'><div class='modal-dialog'><div class='modal-content'><div class='modal-header'><button type='button' data-dismiss='modal' aria-hidden class='close'>×</button><div id='app-download-section' class='clearfix'><div style='margin:0 0 10px 0px;font-size:1.17em;font-weight:bold'>手机App订阅</div><div style='text-align:center'><div><img id='app-download-section-img' src='//file.baixing.net/201410/95967a3f4e7e33eac4b62aa5d802b9d3.png'><div id='app-download-section-qrcode'><img src='//file.baixing.net/201410/d111c4814bdd10412c226474d9290aca.png'></div></div><div id='app-download-section-title'>扫码下载百姓网APP，随时订阅信息，还能私信沟通！</div></div></div><div class='modal-title'>微信订阅</div></div><div class='modal-body'><img id='sub-qr-code' src='//s.baixing.net/img/subscribe/baixing1.jpg'><div id='txtcontent'><p class='hint'><p>打开微信扫一扫二维码，一步轻松订阅！</p><p>订阅后，“钦州 图书音像”有新信息时将通过微信优先通知您。</p></p><p class='other-tips'>没有微信？您可以使用<span href='#email-tips' id='qq-sub' data-toggle='modal' class='btn email-modal'>&nbsp;QQ订阅</span>&nbsp;或&nbsp;<span href='#email-tips' id='email-sub' data-toggle='modal' class='email-modal btn'>邮件订阅 &nbsp;</span></p></div></div></div></div></div><div id='email-tips' tabindex='-1' role='dialog' class='modal hide'><div class='modal-dialog'><div class='modal-content'><div class='modal-header'><button type='button' data-dismiss='modal' aria-hidden class='close'>×</button><div class='modal-title'>手机订阅</div></div><div class='modal-body'><div class='text-line'><span class='icon-weixin'></span><span>扫码关注百姓网公众号，随时订阅信息！</span></div><img src='//file.baixing.net/201604/886cdef3c3645949a974d03e76e20ca3.png' class='tip-img'></div></div></div></div><script> _defer.push(function() {  window.initSidebarModal('', '图书音像 钦州 图书音像') });</script><div class='main'><div class='list-alert-mini'><img src='//s.baixing.net/img/refashion/icon_bullhorn_rtl.png' class='icon-speaker'><div class='list-alert-bubble'><div class='list-alert-content'><div class='list-alert-title'>图书音像类目专区公告栏&nbsp;<i class='toggle-button icon-arrow-down'></i></div><p class='list-alert-details'>读万卷书行万里路，家里是不是有很多读过的书被束之高阁？在这里，为大家提供了一个图书音像的二手交易平台。希望通过这个平台，让大家的闲置宝贝不再闲着，让图书、音像更多的流通起来。<br />&nbsp;<br />【实拍照片】真实、清晰、多角度的闲置照片会吸引更多的关注，一图胜百字。<br />&nbsp;<br />【详细描述】可详细描述宝贝的购买时间、新旧程度、为何转让、交易方式及时间等，让看的人能在联系你前较充分了解，让沟通更高效，成交更快速。&nbsp;<br />&nbsp;<br />【特别通知】因公司战略调整，2016年8月1日起，二手专区将关闭个人用户担保交易功能，如有不便，敬请谅解。<br /><br />【请勿发布】请勿发布微商推广类、淘宝物品推广类、成人用品类、求购类、商家全新类信息。</p></div></div></div><ul role='tablist' class='listing-tab-navi'><li class='active'><h1><a href='/yueqi/'>全部图书音像</a></h1></li><li class=''><h1><a href='/yueqi/posterType_%E4%B8%AA%E4%BA%BA/'>个人</a></h1></li><li class=''><h1><a href='/yueqi/posterType_%E5%95%86%E5%AE%B6/'>商家</a></h1></li></ul><div class='listing-viewtype-switch'><div><label><input type='checkbox' data-target='/yueqi/?imageFlag=1' >只看有图</label></div><div><label><input type='checkbox' data-target='/yueqi/?todayOnly=1' >只看今天发布的信息</label></div><div><label><input type='checkbox' data-target='/yueqi/?sixinOnlineFlag=1' >只看私信在线</label></div><ul class='view-type-list item'><li title='大图模式' class='waterfall'><a href='/yueqi/?view=waterfall'><i class='icon-datu'></i></a></li><li title='图文模式' class='item'><a href='/yueqi/?view=item'><i class='icon-tuwen'></i></a></li><li title='列表模式' class='table'><a href='/yueqi/?view=table'><i class='icon-list'></i></a></li></ul></div><ul class='list-ad-items'></ul><div id='stepback-list'><h3>当前信息较少，我们为您推荐以下信息</h3><ul class='list-ad-items'><li data-aid='1078922953' data-cpm-sign='' data-inorganic='0' class=' item-regular '><a href='http://qinzhou.baixing.com/yueqi/a1078922953.html?sgs=stepback' target='_blank' data-cpc='' class='media-cap '><img src='http://img6.baixing.net/ba6013fb109264e09b4cb464d94ef6e5.jpg_140x140' alt='中华练字王'><span class='figcaption'>11图</span></a><div class='media-body'><div class='media-body-title'><span class='highlight'>39元</span><a href='http://qinzhou.baixing.com/yueqi/a1078922953.html?sgs=stepback' target='_blank' class='ad-title'>中华练字王</a></div><div class='ad-item-detail'>钦州 - G209(呼北线)</div><div class='ad-item-detail'>其他&nbsp;/&nbsp;<time>2月8日</time>&nbsp;&nbsp;来自：<a href='//www.baixing.com/a/mobile/' target='_blank' class='source'>百姓网APP</a></div></div></li></ul></div><div id='suggested-list'><h3>周边城市或地区：<a href='http://fangchenggang.baixing.com/yueqi/'>防城港</a><a href='http://beihai.baixing.com/yueqi/'>北海</a><a href='http://nanning.baixing.com/yueqi/'>南宁</a><a href='http://zhanjiang.baixing.com/yueqi/'>湛江</a><a href='http://chongzuo.baixing.com/yueqi/'>崇左</a></h3><ul class='list-ad-items'><li data-aid='1099964613' data-cpm-sign='' data-inorganic='0' class=' item-regular '><a href='http://nanning.baixing.com/yueqi/a1099964613.html?sgs=extra' target='_blank' data-cpc='' class='media-cap '><img src='http://img5.baixing.net/4178d5ed57dc065b9ba03452ef7e9385.jpg_140x140' alt='转全新摆摊货源'><span class='figcaption'>12图</span></a><div class='media-body'><div class='media-body-title'><span class='highlight'>1元</span><a href='http://nanning.baixing.com/yueqi/a1099964613.html?sgs=extra' target='_blank' class='ad-title'>转全新摆摊货源</a></div><div class='ad-item-detail'>南宁 - 西乡塘 - 西乡塘</div><div class='ad-item-detail'>其他&nbsp;/&nbsp;<time>3月15日</time></div></div></li><li data-aid='1099964208' data-cpm-sign='' data-inorganic='0' class=' item-regular '><a href='http://nanning.baixing.com/yueqi/a1099964208.html?sgs=extra' target='_blank' data-cpc='' class='media-cap '><img src='http://img6.baixing.net/56578779b738ffb900f42b6912ccd0cd.jpg_140x140' alt='转让摆摊货品'><span class='figcaption'>12图</span></a><div class='media-body'><div class='media-body-title'><span class='highlight'>1元</span><a href='http://nanning.baixing.com/yueqi/a1099964208.html?sgs=extra' target='_blank' class='ad-title'>转让摆摊货品</a></div><div class='ad-item-detail'>南宁 - 西乡塘 - 心圩</div><div class='ad-item-detail'>其他&nbsp;/&nbsp;<time>3月15日</time></div></div></li><li data-aid='1099961281' data-cpm-sign='' data-inorganic='0' class=' item-regular '><a href='http://nanning.baixing.com/yueqi/a1099961281.html?sgs=extra' target='_blank' data-cpc='' class='media-cap '><noscript src='http://img4.baixing.net/01136980ad21991b2ad476845cb90fc4.jpg_140x140' alt='转让墙画一批' class='img'><img src='http://img4.baixing.net/01136980ad21991b2ad476845cb90fc4.jpg_140x140' alt='转让墙画一批'></noscript><span class='figcaption'>12图</span></a><div class='media-body'><div class='media-body-title'><span class='highlight'>10元</span><a href='http://nanning.baixing.com/yueqi/a1099961281.html?sgs=extra' target='_blank' class='ad-title'>转让墙画一批</a></div><div class='ad-item-detail'>南宁 - 西乡塘 - 西乡塘 - 大岭村</div><div class='ad-item-detail'>其他&nbsp;/&nbsp;<time>3月15日</time></div></div></li><li data-aid='1099907777' data-cpm-sign='' data-inorganic='0' class=' item-regular '><a href='http://zhanjiang.baixing.com/yueqi/a1099907777.html?sgs=extra' target='_blank' data-cpc='' class='media-cap '><noscript src='http://img6.baixing.net/b8176b8a5aba314843631981ce55bf6c.jpg_140x140' alt='二手原装进口专业鼓咪一套' class='img'><img src='http://img6.baixing.net/b8176b8a5aba314843631981ce55bf6c.jpg_140x140' alt='二手原装进口专业鼓咪一套'></noscript><span class='figcaption'>4图</span></a><div class='media-body'><div class='media-body-title'><span class='highlight'>1800元</span><a href='http://zhanjiang.baixing.com/yueqi/a1099907777.html?sgs=extra' target='_blank' class='ad-title'>二手原装进口专业鼓咪一套</a></div><div class='ad-item-detail'>湛江 - 霞山 - 湛江市霞山区新世纪花园-东北门</div><div class='ad-item-detail'>音像制品&nbsp;/&nbsp;<time>3月15日</time></div></div></li><li data-aid='1089340053' data-cpm-sign='' data-inorganic='0' class=' item-regular '><a href='http://nanning.baixing.com/yueqi/a1089340053.html?sgs=extra' target='_blank' data-cpc='' class='media-cap '><noscript src='http://img6.baixing.net/829fc36e44ac962ffb27654284db508d.jpg_140x140' alt='2017初级会计 东奥和中华网校全部视频百度云分享' class='img'><img src='http://img6.baixing.net/829fc36e44ac962ffb27654284db508d.jpg_140x140' alt='2017初级会计 东奥和中华网校全部视频百度云分享'></noscript><span class='figcaption'>6图</span></a><div class='media-body'><div class='media-body-title'><span class='highlight'>10元</span><a href='http://nanning.baixing.com/yueqi/a1089340053.html?sgs=extra' target='_blank' class='ad-title'>2017初级会计 东奥和中华网校全部视频百度云分享</a></div><div class='ad-item-detail'>南宁 - 石柱岭一路3-1号</div><div class='ad-item-detail'><time>3月14日</time>&nbsp;&nbsp;来自：<a href='//www.baixing.com/a/mobile/' target='_blank' class='source'>百姓网APP</a></div></div></li><li data-aid='1099170242' data-cpm-sign='' data-inorganic='0' class=' item-regular '><a href='http://nanning.baixing.com/yueqi/a1099170242.html?sgs=extra' target='_blank' data-cpc='' class='media-cap '><noscript src='http://img5.baixing.net/1f1f5d4fcdd47f88e762fb084a5e0c81.jpg_140x140' alt='让嫩芽茁壮成长—幼儿园生活指南' class='img'><img src='http://img5.baixing.net/1f1f5d4fcdd47f88e762fb084a5e0c81.jpg_140x140' alt='让嫩芽茁壮成长—幼儿园生活指南'></noscript><span class='figcaption'>2图</span></a><div class='media-body'><div class='media-body-title'><span class='highlight'>35元</span><a href='http://nanning.baixing.com/yueqi/a1099170242.html?sgs=extra' target='_blank' class='ad-title'>让嫩芽茁壮成长—幼儿园生活指南</a></div><div class='ad-item-detail'>南宁 - 青秀 - 南湖 - 园湖南路39号</div><div class='ad-item-detail'>图书&nbsp;/&nbsp;<time>3月13日</time></div></div></li><li data-aid='1085795932' data-cpm-sign='' data-inorganic='0' class=' item-regular '><a href='http://nanning.baixing.com/yueqi/a1085795932.html?sgs=extra' target='_blank' data-cpc='' class='media-cap '><noscript src='http://img6.baixing.net/b504a715b848bb9677060853cb3b2b17.jpg_140x140' alt='转让／交换各种美术类书籍：素描油画国画等+RT艺术' class='img'><img src='http://img6.baixing.net/b504a715b848bb9677060853cb3b2b17.jpg_140x140' alt='转让／交换各种美术类书籍：素描油画国画等+RT艺术'></noscript><span class='figcaption'>7图</span></a><div class='media-body'><div class='media-body-title'><span class='highlight'>88元</span><a href='http://nanning.baixing.com/yueqi/a1085795932.html?sgs=extra' target='_blank' class='ad-title'>转让／交换各种美术类书籍：素描油画国画等+RT艺术</a></div><div class='ad-item-detail'>南宁 - 兴宁 - 安宁 - 香樟林斜对面</div><div class='ad-item-detail'>图书&nbsp;/&nbsp;<time>3月13日</time></div></div></li><li data-aid='1071424157' data-cpm-sign='' data-inorganic='0' class=' item-regular '><a href='http://nanning.baixing.com/yueqi/a1071424157.html?sgs=extra' target='_blank' data-cpc='' class='media-cap '><noscript src='http://img4.baixing.net/0b6d89af9704fc91cd0f70d7894f5a37.jpg_140x140' alt='经济学' class='img'><img src='http://img4.baixing.net/0b6d89af9704fc91cd0f70d7894f5a37.jpg_140x140' alt='经济学'></noscript><span class='figcaption'>1图</span></a><div class='media-body'><div class='media-body-title'><span class='highlight'>15元</span><a href='http://nanning.baixing.com/yueqi/a1071424157.html?sgs=extra' target='_blank' class='ad-title'>经济学</a></div><div class='ad-item-detail'>南宁 - 明秀西路16号</div><div class='ad-item-detail'>图书&nbsp;/&nbsp;<time>3月10日</time>&nbsp;&nbsp;来自：<a href='//www.baixing.com/a/mobile/' target='_blank' class='source'>百姓网APP</a></div></div></li><li data-aid='1057900609' data-cpm-sign='' data-inorganic='0' class=' item-regular '><a href='http://nanning.baixing.com/yueqi/a1057900609.html?sgs=extra' target='_blank' data-cpc='' class='media-cap '><noscript src='http://img6.baixing.net/e234a137db7b05527e82218b4a83963b.jpg_140x140' alt='优惠出售闲置书籍《甘乔嵩传奇》横县民间史记 绝版' class='img'><img src='http://img6.baixing.net/e234a137db7b05527e82218b4a83963b.jpg_140x140' alt='优惠出售闲置书籍《甘乔嵩传奇》横县民间史记 绝版'></noscript><span class='figcaption'>1图</span></a><div class='media-body'><div class='media-body-title'><span class='highlight'>15元</span><a href='http://nanning.baixing.com/yueqi/a1057900609.html?sgs=extra' target='_blank' class='ad-title'>优惠出售闲置书籍《甘乔嵩传奇》横县民间史记 绝版</a></div><div class='ad-item-detail'>南宁 - 横县 - 广西壮族自治区南宁市横县中山南路</div><div class='ad-item-detail'>图书&nbsp;/&nbsp;<time>3月10日</time>&nbsp;&nbsp;来自：<a href='//www.baixing.com/a/mobile/' target='_blank' class='source'>百姓网APP</a></div></div></li><li data-aid='1097771573' data-cpm-sign='' data-inorganic='0' class=' item-regular '><a href='http://nanning.baixing.com/yueqi/a1097771573.html?sgs=extra' target='_blank' data-cpc='' class='media-cap '><noscript src='http://img6.baixing.net/b7fbf30135b45882e0b4788873fe2c54.jpg_140x140' alt='最新上映各大新片 提前看' class='img'><img src='http://img6.baixing.net/b7fbf30135b45882e0b4788873fe2c54.jpg_140x140' alt='最新上映各大新片 提前看'></noscript><span class='figcaption'>5图</span></a><div class='media-body'><div class='media-body-title'><span class='highlight'>13元</span><a href='http://nanning.baixing.com/yueqi/a1097771573.html?sgs=extra' target='_blank' class='ad-title'>最新上映各大新片 提前看</a></div><div class='ad-item-detail'>南宁 - 青秀 - 南湖 - 南湖广场</div><div class='ad-item-detail'>音像制品&nbsp;/&nbsp;<time>3月10日</time></div></div></li><li data-aid='701514192' data-cpm-sign='' data-inorganic='1' class=' item-regular '><a href='http://nanning.baixing.com/yueqi/a701514192.html?sgs=extra' target='_blank' data-cpc='' class='media-cap '><img src='//s.baixing.net/img/refashion/default_ad_img.png' alt='宁厂家直销全自动麻将桌有各种类型的,质量好,均匀'></a><div class='media-body'><div class='media-body-title'><span class='highlight'>1380元</span><a href='http://nanning.baixing.com/yueqi/a701514192.html?sgs=extra' target='_blank' class='ad-title'>宁厂家直销全自动麻将桌有各种类型的,质量好,均匀</a></div><div class='ad-item-detail'>南宁</div><div class='ad-item-detail'>其他&nbsp;/&nbsp;<time>3月9日</time></div></div></li><li data-aid='1097857142' data-cpm-sign='' data-inorganic='0' class=' item-regular '><a href='http://nanning.baixing.com/yueqi/a1097857142.html?sgs=extra' target='_blank' data-cpc='' class='media-cap '><noscript src='http://img5.baixing.net/1dd49bc0baa5b5d6b3f88040249e25a5.jpg_140x140' alt='jvcCD组合' class='img'><img src='http://img5.baixing.net/1dd49bc0baa5b5d6b3f88040249e25a5.jpg_140x140' alt='jvcCD组合'></noscript><span class='figcaption'>4图</span></a><div class='media-body'><div class='media-body-title'><span class='highlight'>580元</span><a href='http://nanning.baixing.com/yueqi/a1097857142.html?sgs=extra' target='_blank' class='ad-title'>jvcCD组合</a></div><div class='ad-item-detail'>南宁 - 兴宁区</div><div class='ad-item-detail'>音像制品&nbsp;/&nbsp;<time>3月9日</time>&nbsp;&nbsp;来自：<a href='//www.baixing.com/a/mobile/' target='_blank' class='source'>百姓网APP</a></div></div></li><li data-aid='1090735031' data-cpm-sign='' data-inorganic='0' class=' item-regular '><a href='http://nanning.baixing.com/yueqi/a1090735031.html?sgs=extra' target='_blank' data-cpc='' class='media-cap '><noscript src='http://img6.baixing.net/e9032e8d114333c46a1781fcf37920bc.jpg_140x140' alt='网页设计制作书籍' class='img'><img src='http://img6.baixing.net/e9032e8d114333c46a1781fcf37920bc.jpg_140x140' alt='网页设计制作书籍'></noscript><span class='figcaption'>2图</span></a><div class='media-body'><div class='media-body-title'><span class='highlight'>12元</span><a href='http://nanning.baixing.com/yueqi/a1090735031.html?sgs=extra' target='_blank' class='ad-title'>网页设计制作书籍</a></div><div class='ad-item-detail'>南宁 - 新民路53-9</div><div class='ad-item-detail'><time>3月4日</time>&nbsp;&nbsp;来自：<a href='//www.baixing.com/a/mobile/' target='_blank' class='source'>百姓网APP</a></div></div></li><li data-aid='1095799851' data-cpm-sign='' data-inorganic='0' class=' item-regular '><a href='http://nanning.baixing.com/yueqi/a1095799851.html?sgs=extra' target='_blank' data-cpc='' class='media-cap '><noscript src='http://img6.baixing.net/8a575321ab53309300faea4df3497910.jpg_140x140' alt='音乐传真a2功放机同城1000自提' class='img'><img src='http://img6.baixing.net/8a575321ab53309300faea4df3497910.jpg_140x140' alt='音乐传真a2功放机同城1000自提'></noscript><span class='figcaption'>6图</span></a><div class='media-body'><div class='media-body-title'><span class='highlight'>1000元</span><a href='http://nanning.baixing.com/yueqi/a1095799851.html?sgs=extra' target='_blank' class='ad-title'>音乐传真a2功放机同城1000自提</a></div><div class='ad-item-detail'>南宁 - 友爱路东5巷-2号</div><div class='ad-item-detail'><time>3月4日</time>&nbsp;&nbsp;来自：<a href='//www.baixing.com/a/mobile/' target='_blank' class='source'>百姓网APP</a></div></div></li><li data-aid='1095037321' data-cpm-sign='' data-inorganic='0' class=' item-regular '><a href='http://nanning.baixing.com/yueqi/a1095037321.html?sgs=extra' target='_blank' data-cpc='' class='media-cap '><noscript src='http://img4.baixing.net/6d7a8fbbe54abaff4ec27c1a4bd4eed1_140x140' alt='网络小说txt' class='img'><img src='http://img4.baixing.net/6d7a8fbbe54abaff4ec27c1a4bd4eed1_140x140' alt='网络小说txt'></noscript><span class='figcaption'>3图</span></a><div class='media-body'><div class='media-body-title'><span class='highlight'>10元</span><a href='http://nanning.baixing.com/yueqi/a1095037321.html?sgs=extra' target='_blank' class='ad-title'>网络小说txt</a></div><div class='ad-item-detail'>南宁 - 宾阳 - 宾阳站</div><div class='ad-item-detail'>图书&nbsp;/&nbsp;<time>3月1日</time></div></div></li><li data-aid='924220602' data-cpm-sign='' data-inorganic='0' class=' item-regular '><a href='http://nanning.baixing.com/yueqi/a924220602.html?sgs=extra' target='_blank' data-cpc='' class='media-cap '><noscript src='http://img5.baixing.net/78408b2b16b542bc722d071729d2d1a1.jpg_140x140' alt='转让老式丝绸缎面相册' class='img'><img src='http://img5.baixing.net/78408b2b16b542bc722d071729d2d1a1.jpg_140x140' alt='转让老式丝绸缎面相册'></noscript><span class='figcaption'>3图</span></a><div class='media-body'><div class='media-body-title'><span class='highlight'>20元</span><a href='http://nanning.baixing.com/yueqi/a924220602.html?sgs=extra' target='_blank' class='ad-title'>转让老式丝绸缎面相册</a></div><div class='ad-item-detail'>南宁 - 兴宁 - 民生</div><div class='ad-item-detail'>其他&nbsp;/&nbsp;<time>3月1日</time></div></div></li><li data-aid='926840957' data-cpm-sign='' data-inorganic='0' class=' item-regular '><a href='http://nanning.baixing.com/yueqi/a926840957.html?sgs=extra' target='_blank' data-cpc='' class='media-cap '><noscript src='http://img4.baixing.net/93c947584e331e3672c4953461647662.jpg_140x140' alt='转让1987年的《海外星云》杂志' class='img'><img src='http://img4.baixing.net/93c947584e331e3672c4953461647662.jpg_140x140' alt='转让1987年的《海外星云》杂志'></noscript><span class='figcaption'>6图</span></a><div class='media-body'><div class='media-body-title'><span class='highlight'>125元</span><a href='http://nanning.baixing.com/yueqi/a926840957.html?sgs=extra' target='_blank' class='ad-title'>转让1987年的《海外星云》杂志</a></div><div class='ad-item-detail'>南宁 - 兴宁 - 民生</div><div class='ad-item-detail'>图书&nbsp;/&nbsp;<time>3月1日</time></div></div></li><li data-aid='721738701' data-cpm-sign='' data-inorganic='1' class=' item-regular '><a href='http://nanning.baixing.com/yueqi/a721738701.html?sgs=extra' target='_blank' data-cpc='' class='media-cap '><noscript src='http://img6.baixing.net/59a84d0ad7b826cfe3c5cb4213ace30d.jpg_140x140' alt='转让《集邮》杂志' class='img'><img src='http://img6.baixing.net/59a84d0ad7b826cfe3c5cb4213ace30d.jpg_140x140' alt='转让《集邮》杂志'></noscript><span class='figcaption'>1图</span></a><div class='media-body'><div class='media-body-title'><span class='highlight'>1600元</span><a href='http://nanning.baixing.com/yueqi/a721738701.html?sgs=extra' target='_blank' class='ad-title'>转让《集邮》杂志</a></div><div class='ad-item-detail'>南宁 - 兴宁 - 民生</div><div class='ad-item-detail'>图书&nbsp;/&nbsp;<time>3月1日</time></div></div></li><li data-aid='977645655' data-cpm-sign='' data-inorganic='0' class=' item-regular '><a href='http://nanning.baixing.com/yueqi/a977645655.html?sgs=extra' target='_blank' data-cpc='' class='media-cap '><noscript src='http://img4.baixing.net/cb72940aa78c5bbadbec46a8e5639780.jpg_140x140' alt='转让不成套的《集邮》杂志' class='img'><img src='http://img4.baixing.net/cb72940aa78c5bbadbec46a8e5639780.jpg_140x140' alt='转让不成套的《集邮》杂志'></noscript><span class='figcaption'>3图</span></a><div class='media-body'><div class='media-body-title'><span class='highlight'>3元</span><a href='http://nanning.baixing.com/yueqi/a977645655.html?sgs=extra' target='_blank' class='ad-title'>转让不成套的《集邮》杂志</a></div><div class='ad-item-detail'>南宁 - 兴宁 - 民生</div><div class='ad-item-detail'>图书&nbsp;/&nbsp;<time>3月1日</time></div></div></li><li data-aid='869168411' data-cpm-sign='' data-inorganic='0' class=' item-regular '><a href='http://nanning.baixing.com/yueqi/a869168411.html?sgs=extra' target='_blank' data-cpc='' class='media-cap '><noscript src='http://img5.baixing.net/a5f0d39aa4c7f77d48c0b9fb776b510e.jpg_140x140' alt='转让文革时期的《人民画报》等出版物' class='img'><img src='http://img5.baixing.net/a5f0d39aa4c7f77d48c0b9fb776b510e.jpg_140x140' alt='转让文革时期的《人民画报》等出版物'></noscript><span class='figcaption'>6图</span></a><div class='media-body'><div class='media-body-title'><span class='highlight'>130元</span><a href='http://nanning.baixing.com/yueqi/a869168411.html?sgs=extra' target='_blank' class='ad-title'>转让文革时期的《人民画报》等出版物</a></div><div class='ad-item-detail'>南宁 - 兴宁 - 民生</div><div class='ad-item-detail'>图书&nbsp;/&nbsp;<time>3月1日</time></div></div></li><li data-aid='977642377' data-cpm-sign='' data-inorganic='0' class=' item-regular '><a href='http://nanning.baixing.com/yueqi/a977642377.html?sgs=extra' target='_blank' data-cpc='' class='media-cap '><noscript src='http://img4.baixing.net/c5afa8ec700eed2f4a64e7624931566b.jpg_140x140' alt='转让《杨开慧》纪念画册' class='img'><img src='http://img4.baixing.net/c5afa8ec700eed2f4a64e7624931566b.jpg_140x140' alt='转让《杨开慧》纪念画册'></noscript><span class='figcaption'>2图</span></a><div class='media-body'><div class='media-body-title'><span class='highlight'>5元</span><a href='http://nanning.baixing.com/yueqi/a977642377.html?sgs=extra' target='_blank' class='ad-title'>转让《杨开慧》纪念画册</a></div><div class='ad-item-detail'>南宁 - 兴宁 - 民生</div><div class='ad-item-detail'>图书&nbsp;/&nbsp;<time>3月1日</time></div></div></li><li data-aid='1094295624' data-cpm-sign='' data-inorganic='0' class=' item-regular '><a href='http://nanning.baixing.com/yueqi/a1094295624.html?sgs=extra' target='_blank' data-cpc='' class='media-cap '><noscript src='http://img5.baixing.net/1cca57b8ea86b3b081f013a4cecfa930_140x140' alt='七折出售南宁书城蓝卡，一共1600元' class='img'><img src='http://img5.baixing.net/1cca57b8ea86b3b081f013a4cecfa930_140x140' alt='七折出售南宁书城蓝卡，一共1600元'></noscript><span class='figcaption'>2图</span></a><div class='media-body'><div class='media-body-title'><span class='highlight'>1120元</span><a href='http://nanning.baixing.com/yueqi/a1094295624.html?sgs=extra' target='_blank' class='ad-title'>七折出售南宁书城蓝卡，一共1600元</a></div><div class='ad-item-detail'>南宁 - 青秀 - 民族大道199号</div><div class='ad-item-detail'>图书&nbsp;/&nbsp;<time>2月27日</time></div></div></li><li data-aid='1094061628' data-cpm-sign='' data-inorganic='0' class=' item-regular '><a href='http://zhanjiang.baixing.com/yueqi/a1094061628.html?sgs=extra' target='_blank' data-cpc='' class='media-cap '><noscript src='http://img5.baixing.net/1c7bc01cc4c59b2c8120259f5cda59af_140x140' alt='666西南大学教育学考研笔记真题练习题，启航政治考' class='img'><img src='http://img5.baixing.net/1c7bc01cc4c59b2c8120259f5cda59af_140x140' alt='666西南大学教育学考研笔记真题练习题，启航政治考'></noscript><span class='figcaption'>2图</span></a><div class='media-body'><div class='media-body-title'><span class='highlight'>250元</span><a href='http://zhanjiang.baixing.com/yueqi/a1094061628.html?sgs=extra' target='_blank' class='ad-title'>666西南大学教育学考研笔记真题练习题，启航政治考</a></div><div class='ad-item-detail'>湛江 - 赤坎</div><div class='ad-item-detail'>图书&nbsp;/&nbsp;<time>2月27日</time></div></div></li><li data-aid='1085793501' data-cpm-sign='' data-inorganic='0' class=' item-regular '><a href='http://nanning.baixing.com/yueqi/a1085793501.html?sgs=extra' target='_blank' data-cpc='' class='media-cap '><noscript src='http://img6.baixing.net/ea7484f7651f9b93781645b253f1aea3.jpg_140x140' alt='索尼发烧碟机' class='img'><img src='http://img6.baixing.net/ea7484f7651f9b93781645b253f1aea3.jpg_140x140' alt='索尼发烧碟机'></noscript><span class='figcaption'>1图</span></a><div class='media-body'><div class='media-body-title'><span class='highlight'>180元</span><a href='http://nanning.baixing.com/yueqi/a1085793501.html?sgs=extra' target='_blank' class='ad-title'>索尼发烧碟机</a></div><div class='ad-item-detail'>南宁 - 兴宁区</div><div class='ad-item-detail'>音像制品&nbsp;/&nbsp;<time>2月26日</time>&nbsp;&nbsp;来自：<a href='//www.baixing.com/a/mobile/' target='_blank' class='source'>百姓网APP</a></div></div></li><li data-aid='1018838930' data-cpm-sign='' data-inorganic='0' class=' item-regular '><a href='http://nanning.baixing.com/yueqi/a1018838930.html?sgs=extra' target='_blank' data-cpc='' class='media-cap '><noscript src='http://img4.baixing.net/033f503fc309e5fdfd4d00a770a3887c_140x140' alt='出售日产车CD带收音机一个' class='img'><img src='http://img4.baixing.net/033f503fc309e5fdfd4d00a770a3887c_140x140' alt='出售日产车CD带收音机一个'></noscript><span class='figcaption'>3图</span></a><div class='media-body'><div class='media-body-title'><span class='highlight'>400元</span><a href='http://nanning.baixing.com/yueqi/a1018838930.html?sgs=extra' target='_blank' class='ad-title'>出售日产车CD带收音机一个</a></div><div class='ad-item-detail'>南宁 - 江南 - 江南 - 江南区</div><div class='ad-item-detail'>音像制品&nbsp;/&nbsp;<time>2月25日</time></div></div></li><div style="padding: 20px 14px 20px 21px; display: inline-block;border-bottom: 1px dotted #cdcdcd"> <script type="text/javascript">
+	(function() {
+		var cpro_id = "u2868792";
+		var s = "_" + Math.random().toString(36).slice(2);
+		document.write('<div style="" id="' + s + '"></div>');
+				(window.slotbydup = window.slotbydup || []).push({
+			container: s,
+			id: cpro_id,
+			scale: '20.3',
+			display: 'inlay-fix'
+		});
+	})();
+</script>
+
+ </div><div style="padding: 20px 14px 20px 0; display: inline-block;border-bottom: 1px dotted #cdcdcd"> <script type="text/javascript">
+	(function() {
+		var cpro_id = "u2868803";
+		var s = "_" + Math.random().toString(36).slice(2);
+		document.write('<div style="" id="' + s + '"></div>');
+				(window.slotbydup = window.slotbydup || []).push({
+			container: s,
+			id: cpro_id,
+			scale: '20.3',
+			display: 'inlay-fix'
+		});
+	})();
+</script>
+
+ </div><li data-aid='1091623345' data-cpm-sign='' data-inorganic='0' class=' item-regular '><a href='http://nanning.baixing.com/yueqi/a1091623345.html?sgs=extra' target='_blank' data-cpc='' class='media-cap '><noscript src='http://img6.baixing.net/eba19cb466d270c2a72c313983e11a98.jpg_140x140' alt='高中英语磁带1-5' class='img'><img src='http://img6.baixing.net/eba19cb466d270c2a72c313983e11a98.jpg_140x140' alt='高中英语磁带1-5'></noscript><span class='figcaption'>1图</span></a><div class='media-body'><div class='media-body-title'><span class='highlight'>20元</span><a href='http://nanning.baixing.com/yueqi/a1091623345.html?sgs=extra' target='_blank' class='ad-title'>高中英语磁带1-5</a></div><div class='ad-item-detail'>南宁 - 新民路53-9</div><div class='ad-item-detail'><time>2月23日</time>&nbsp;&nbsp;来自：<a href='//www.baixing.com/a/mobile/' target='_blank' class='source'>百姓网APP</a></div></div></li><li data-aid='1067397445' data-cpm-sign='' data-inorganic='0' class=' item-regular '><a href='http://nanning.baixing.com/yueqi/a1067397445.html?sgs=extra' target='_blank' data-cpc='' class='media-cap '><noscript src='http://img6.baixing.net/2568bf481e27f31f975080712017788b.png_140x140' alt='樱兰高校全套书转让 99成新' class='img'><img src='http://img6.baixing.net/2568bf481e27f31f975080712017788b.png_140x140' alt='樱兰高校全套书转让 99成新'></noscript><span class='figcaption'>5图</span></a><div class='media-body'><div class='media-body-title'><span class='highlight'>65元</span><a href='http://nanning.baixing.com/yueqi/a1067397445.html?sgs=extra' target='_blank' class='ad-title'>樱兰高校全套书转让 99成新</a></div><div class='ad-item-detail'>南宁 - 西乡塘 - 安吉 - 友爱立交</div><div class='ad-item-detail'>图书&nbsp;/&nbsp;<time>2月19日</time></div></div></li><li data-aid='1062191902' data-cpm-sign='' data-inorganic='0' class=' item-regular '><a href='http://nanning.baixing.com/yueqi/a1062191902.html?sgs=extra' target='_blank' data-cpc='' class='media-cap '><noscript src='http://img4.baixing.net/90c1ad44fc83d34a24a96b8c3433900a.jpg_140x140' alt='全新车载CD' class='img'><img src='http://img4.baixing.net/90c1ad44fc83d34a24a96b8c3433900a.jpg_140x140' alt='全新车载CD'></noscript><span class='figcaption'>3图</span></a><div class='media-body'><div class='media-body-title'><span class='highlight'>50元</span><a href='http://nanning.baixing.com/yueqi/a1062191902.html?sgs=extra' target='_blank' class='ad-title'>全新车载CD</a></div><div class='ad-item-detail'>南宁 - 良庆 - 良庆 - 大沙田</div><div class='ad-item-detail'>音像制品&nbsp;/&nbsp;<time>2月15日</time></div></div></li><li data-aid='1089923085' data-cpm-sign='' data-inorganic='0' class=' item-regular '><a href='http://nanning.baixing.com/yueqi/a1089923085.html?sgs=extra' target='_blank' data-cpc='' class='media-cap '><noscript src='http://img6.baixing.net/2482285e8ec917651505c5cef2390267.JPG_140x140' alt='蓝光碟和发烧cd碟' class='img'><img src='http://img6.baixing.net/2482285e8ec917651505c5cef2390267.JPG_140x140' alt='蓝光碟和发烧cd碟'></noscript><span class='figcaption'>7图</span></a><div class='media-body'><div class='media-body-title'><span class='highlight'>5元</span><a href='http://nanning.baixing.com/yueqi/a1089923085.html?sgs=extra' target='_blank' class='ad-title'>蓝光碟和发烧cd碟</a></div><div class='ad-item-detail'>南宁 - 江南 - 江南 - 大沙田广场</div><div class='ad-item-detail'>音像制品&nbsp;/&nbsp;<time>2月14日</time></div></div></li><li data-aid='726424025' data-cpm-sign='' data-inorganic='1' class=' item-regular '><a href='http://nanning.baixing.com/yueqi/a726424025.html?sgs=extra' target='_blank' data-cpc='' class='media-cap '><img src='//s.baixing.net/img/refashion/default_ad_img.png' alt='宁户外健身器材批发宁小区老人健身器材价格'></a><div class='media-body'><div class='media-body-title'><span class='highlight'>9元</span><a href='http://nanning.baixing.com/yueqi/a726424025.html?sgs=extra' target='_blank' class='ad-title'>宁户外健身器材批发宁小区老人健身器材价格</a></div><div class='ad-item-detail'>南宁</div><div class='ad-item-detail'>其他&nbsp;/&nbsp;<time>2月13日</time></div></div></li><li data-aid='1088231869' data-cpm-sign='' data-inorganic='0' class=' item-regular '><a href='http://nanning.baixing.com/yueqi/a1088231869.html?sgs=extra' target='_blank' data-cpc='' class='media-cap '><noscript src='http://img5.baixing.net/7f285d726b2424caf401f31394a3d184.jpg_140x140' alt='《血战钢锯岭 1080P》 历上最好看的战争片' class='img'><img src='http://img5.baixing.net/7f285d726b2424caf401f31394a3d184.jpg_140x140' alt='《血战钢锯岭 1080P》 历上最好看的战争片'></noscript><span class='figcaption'>5图</span></a><div class='media-body'><div class='media-body-title'><span class='highlight'>5元</span><a href='http://nanning.baixing.com/yueqi/a1088231869.html?sgs=extra' target='_blank' class='ad-title'>《血战钢锯岭 1080P》 历上最好看的战争片</a></div><div class='ad-item-detail'>南宁 - 江南 - 福建园</div><div class='ad-item-detail'>音像制品&nbsp;/&nbsp;<time>2月8日</time></div></div></li><li data-aid='269522270' data-cpm-sign='' data-inorganic='0' class=' item-regular '><a href='http://nanning.baixing.com/yueqi/a269522270.html?sgs=extra' target='_blank' data-cpc='' class='media-cap '><noscript src='http://img6.baixing.net/2b590350fe6c4d99758604c3a0fae9e0.jpg_140x140' alt='1975年出版的《东方红》读物！' class='img'><img src='http://img6.baixing.net/2b590350fe6c4d99758604c3a0fae9e0.jpg_140x140' alt='1975年出版的《东方红》读物！'></noscript><span class='figcaption'>5图</span></a><div class='media-body'><div class='media-body-title'><span class='highlight'>50元</span><a href='http://nanning.baixing.com/yueqi/a269522270.html?sgs=extra' target='_blank' class='ad-title'>1975年出版的《东方红》读物！</a></div><div class='ad-item-detail'>南宁 - 西乡塘</div><div class='ad-item-detail'>图书&nbsp;/&nbsp;<time>2月6日</time></div></div></li><div style="padding: 20px 14px 20px 21px; display: inline-block;border-bottom: 1px dotted #cdcdcd"> <script type="text/javascript">
+	(function() {
+		var cpro_id = "u2868840";
+		var s = "_" + Math.random().toString(36).slice(2);
+		document.write('<div style="" id="' + s + '"></div>');
+				(window.slotbydup = window.slotbydup || []).push({
+			container: s,
+			id: cpro_id,
+			scale: '20.3',
+			display: 'inlay-fix'
+		});
+	})();
+</script>
+
+ </div><div style="padding: 20px 14px 20px 0; display: inline-block;border-bottom: 1px dotted #cdcdcd"> <script type="text/javascript">
+	(function() {
+		var cpro_id = "u2868850";
+		var s = "_" + Math.random().toString(36).slice(2);
+		document.write('<div style="" id="' + s + '"></div>');
+				(window.slotbydup = window.slotbydup || []).push({
+			container: s,
+			id: cpro_id,
+			scale: '20.3',
+			display: 'inlay-fix'
+		});
+	})();
+</script>
+
+ </div><li data-aid='1071214037' data-cpm-sign='' data-inorganic='0' class=' item-regular '><a href='http://nanning.baixing.com/yueqi/a1071214037.html?sgs=extra' target='_blank' data-cpc='' class='media-cap '><noscript src='http://img5.baixing.net/14c8baefff3665669c77b064bef9cf59.JPG_140x140' alt='酱料酸醋制作资料出售' class='img'><img src='http://img5.baixing.net/14c8baefff3665669c77b064bef9cf59.JPG_140x140' alt='酱料酸醋制作资料出售'></noscript><span class='figcaption'>3图</span></a><div class='media-body'><div class='media-body-title'><span class='highlight'>500元</span><a href='http://nanning.baixing.com/yueqi/a1071214037.html?sgs=extra' target='_blank' class='ad-title'>酱料酸醋制作资料出售</a></div><div class='ad-item-detail'>南宁 - 兴宁 - 安宁</div><div class='ad-item-detail'>图书&nbsp;/&nbsp;<time>2月5日</time></div></div></li><li data-aid='1087208515' data-cpm-sign='' data-inorganic='0' class=' item-regular '><a href='http://zhanjiang.baixing.com/yueqi/a1087208515.html?sgs=extra' target='_blank' data-cpc='' class='media-cap '><noscript src='http://img5.baixing.net/1476dbf0f46047bcd04e45683a0e8296.jpg_140x140' alt='出手一批八年级最新版课本' class='img'><img src='http://img5.baixing.net/1476dbf0f46047bcd04e45683a0e8296.jpg_140x140' alt='出手一批八年级最新版课本'></noscript><span class='figcaption'>4图</span></a><div class='media-body'><div class='media-body-title'><span class='highlight'>10元</span><a href='http://zhanjiang.baixing.com/yueqi/a1087208515.html?sgs=extra' target='_blank' class='ad-title'>出手一批八年级最新版课本</a></div><div class='ad-item-detail'>湛江 - 海景路175号</div><div class='ad-item-detail'>图书&nbsp;/&nbsp;<time>2月4日</time>&nbsp;&nbsp;来自：<a href='//www.baixing.com/a/mobile/' target='_blank' class='source'>百姓网APP</a></div></div></li><li data-aid='1086488995' data-cpm-sign='' data-inorganic='0' class=' item-regular '><a href='http://nanning.baixing.com/yueqi/a1086488995.html?sgs=extra' target='_blank' data-cpc='' class='media-cap '><noscript src='http://img4.baixing.net/f9826ed8ee27b0beb35a26cc5fb42910.jpg_140x140' alt='转让几张车载音乐碟' class='img'><img src='http://img4.baixing.net/f9826ed8ee27b0beb35a26cc5fb42910.jpg_140x140' alt='转让几张车载音乐碟'></noscript><span class='figcaption'>2图</span></a><div class='media-body'><div class='media-body-title'><span class='highlight'>10元</span><a href='http://nanning.baixing.com/yueqi/a1086488995.html?sgs=extra' target='_blank' class='ad-title'>转让几张车载音乐碟</a></div><div class='ad-item-detail'>南宁 - 宾阳</div><div class='ad-item-detail'>音像制品&nbsp;/&nbsp;<time>2月1日</time></div></div></li><li data-aid='306836250' data-cpm-sign='' data-inorganic='0' class=' item-regular '><a href='http://nanning.baixing.com/yueqi/a306836250.html?sgs=extra' target='_blank' data-cpc='' class='media-cap '><noscript src='http://img6.baixing.net/82902f1f027fc14edfcbe04100f13b9e.jpg_140x140' alt='忍痛转让UCG《游戏机实用技术》等多年收藏的杂志' class='img'><img src='http://img6.baixing.net/82902f1f027fc14edfcbe04100f13b9e.jpg_140x140' alt='忍痛转让UCG《游戏机实用技术》等多年收藏的杂志'></noscript><span class='figcaption'>1图</span></a><div class='media-body'><div class='media-body-title'><span class='highlight'>5元</span><a href='http://nanning.baixing.com/yueqi/a306836250.html?sgs=extra' target='_blank' class='ad-title'>忍痛转让UCG《游戏机实用技术》等多年收藏的杂志</a></div><div class='ad-item-detail'>南宁 - 兴宁 - 安宁 - 香樟林斜对面</div><div class='ad-item-detail'>图书&nbsp;/&nbsp;<time>1月27日</time></div></div></li><li data-aid='919804778' data-cpm-sign='' data-inorganic='0' class=' item-regular '><a href='http://zhanjiang.baixing.com/yueqi/a919804778.html?sgs=extra' target='_blank' data-cpc='' class='media-cap '><noscript src='http://img5.baixing.net/45e58ac1cd62500107e2657d6a95c277.jpg_140x140' alt='有几本新文献书册转让' class='img'><img src='http://img5.baixing.net/45e58ac1cd62500107e2657d6a95c277.jpg_140x140' alt='有几本新文献书册转让'></noscript><span class='figcaption'>9图</span></a><div class='media-body'><div class='media-body-title'><span class='highlight'>25元</span><a href='http://zhanjiang.baixing.com/yueqi/a919804778.html?sgs=extra' target='_blank' class='ad-title'>有几本新文献书册转让</a></div><div class='ad-item-detail'>湛江 - 廉江 - 廉江横山</div><div class='ad-item-detail'><time>1月24日</time>&nbsp;&nbsp;来自：<a href='//www.baixing.com/a/mobile/' target='_blank' class='source'>百姓网APP</a></div></div></li><li data-aid='1081623586' data-cpm-sign='' data-inorganic='0' class=' item-regular '><a href='http://nanning.baixing.com/yueqi/a1081623586.html?sgs=extra' target='_blank' data-cpc='' class='media-cap '><noscript src='http://img4.baixing.net/f48e9e97120b53814bf9587abea1c7ad.jpg_140x140' alt='天龙avr1610AV功放，带高清接口，全套配件' class='img'><img src='http://img4.baixing.net/f48e9e97120b53814bf9587abea1c7ad.jpg_140x140' alt='天龙avr1610AV功放，带高清接口，全套配件'></noscript><span class='figcaption'>1图</span></a><div class='media-body'><div class='media-body-title'><span class='highlight'>980元</span><a href='http://nanning.baixing.com/yueqi/a1081623586.html?sgs=extra' target='_blank' class='ad-title'>天龙avr1610AV功放，带高清接口，全套配件</a></div><div class='ad-item-detail'>南宁 - 青秀 - 南湖 - 贤宾路1-1号</div><div class='ad-item-detail'>音像制品&nbsp;/&nbsp;<time>1月20日</time></div></div></li><li data-aid='1085603509' data-cpm-sign='' data-inorganic='0' class=' item-regular '><div class='chengjiao'></div><a href='http://nanning.baixing.com/yueqi/a1085603509.html?sgs=extra' target='_blank' data-cpc='' class='media-cap '><noscript src='http://img6.baixing.net/eaa277ce1114924849ca0262069af22a_140x140' alt='【搞定了！】发烧碟' class='img'><img src='http://img6.baixing.net/eaa277ce1114924849ca0262069af22a_140x140' alt='【搞定了！】发烧碟'></noscript><span class='figcaption'>3图</span></a><div class='media-body'><div class='media-body-title'><span class='highlight'>10元</span><a href='http://nanning.baixing.com/yueqi/a1085603509.html?sgs=extra' target='_blank' class='ad-title'>【搞定了！】发烧碟</a></div><div class='ad-item-detail'>南宁 - 江南 - 江南 - 大沙田广场</div><div class='ad-item-detail'>音像制品&nbsp;/&nbsp;<time>1月19日</time></div></div></li></ul></div><div style="padding-left: 15px"><script type="text/javascript" src="//script-bd.baixing.net/gs3a1ecf96ffcdf130db1463c6a3fa79ed54ebc50d35e57fec1a25.js"></script></div><section class='listing-pager-section'><ul class='list-pagination'></ul><div style="background-color:#FFF;padding: 10px 0;border:solid 1px #DDD;margin: 5px 0">
+<script type="text/javascript" src="//script-bd.baixing.net/ea3a1ecf96f3cef238db1463c6a3fa79ed54ebc50d35e57fec1a25.js"></script><script type="text/javascript">
+	(function() {
+		var cpro_id = "u2843567";
+		var s = "_" + Math.random().toString(36).slice(2);
+		document.write('<div style="" id="' + s + '"></div>');
+				(window.slotbydup = window.slotbydup || []).push({
+			container: s,
+			id: cpro_id,
+			scale: '20.3',
+			display: 'inlay-fix'
+		});
+	})();
+</script>
+
+<script type="text/javascript">
+	(function() {
+		var cpro_id = "u2843475";
+		var s = "_" + Math.random().toString(36).slice(2);
+		document.write('<div style="" id="' + s + '"></div>');
+				(window.slotbydup = window.slotbydup || []).push({
+			container: s,
+			id: cpro_id,
+			scale: '20.3',
+			display: 'inlay-fix'
+		});
+	})();
+</script>
+
+</div></section></div></section><section><section class='foot-links-box'><div id='foot-links'><table><tr><th>钦州图书音像相关专题</th><td id='juhe'><a href='http://qinzhou.baixing.com/jh_%E6%88%90%E8%80%83%E4%B8%93%E5%8D%87%E6%9C%AC/' target='_blank' class='selected'>钦州成考专升本</a><a href='http://qinzhou.baixing.com/jh_%E6%88%90%E8%80%83%E6%8A%A5%E5%90%8D%E6%97%B6%E9%97%B4/' target='_blank' class='selected'>钦州成考报名时间</a><a href='http://qinzhou.baixing.com/jh_%E6%BB%9A%E7%AD%92%E6%B4%97%E8%A1%A3%E6%9C%BA%20%E6%B8%85%E6%B4%97/' target='_blank' class='selected'>钦州滚筒洗衣机 清洗</a><a href='http://qinzhou.baixing.com/jh_%E6%A8%B1%E8%8A%B1%E6%B2%B9%E7%83%9F%E6%9C%BA%E4%BB%B7%E6%A0%BC/' target='_blank' class='selected'>钦州樱花油烟机价格</a><a href='http://qinzhou.baixing.com/jh_%E7%87%83%E6%B0%94%E7%81%B6%E7%87%83%E6%B0%94%E7%81%B6%E7%BB%B4%E4%BF%AE/' target='_blank' class='selected'>钦州燃气灶燃气灶维修</a><a href='http://qinzhou.baixing.com/jh_%E6%B5%B7%E5%B0%94%E5%85%A8%E6%96%B0%E6%B4%97%E8%A1%A3%E6%9C%BA/' target='_blank' class='selected'>钦州海尔全新洗衣机</a><a href='http://qinzhou.baixing.com/jh_%E7%86%A8%E6%96%97%E6%8C%82%E7%83%AB%E6%9C%BA/' target='_blank' class='selected'>钦州熨斗挂烫机</a><a href='http://qinzhou.baixing.com/jh_%E5%81%A5%E8%BA%AB%E6%88%BF/' target='_blank' class='selected'>钦州健身房</a><a href='http://qinzhou.baixing.com/jh_%E8%88%9E%E8%B9%88%20%E8%88%9E%E8%B9%88/' target='_blank' class='selected'>钦州舞蹈 舞蹈</a><a href='http://qinzhou.baixing.com/jh_%E4%BB%80%E4%B9%88%E8%88%9E%E8%B9%88/' target='_blank' class='selected'>钦州什么舞蹈</a><a href='http://qinzhou.baixing.com/jh_%E8%88%9E%E8%B9%88%E6%98%AF/' target='_blank' class='selected'>钦州舞蹈是</a><a href='http://qinzhou.baixing.com/jh_%E5%AD%A6%E4%B9%A0/' target='_blank' class='selected'>钦州学习</a><a href='http://qinzhou.baixing.com/jh_%E5%AD%A6%E4%B9%A0%E6%97%A5%E8%AF%AD/' target='_blank' class='selected'>钦州学习日语</a><a href='http://qinzhou.baixing.com/jh_%E4%BC%8A%E8%8E%B1%E5%85%8B%E6%96%AF%E6%B4%97%E8%A1%A3%E6%9C%BA%E6%B8%85%E6%B4%97/' target='_blank' class='selected'>钦州伊莱克斯洗衣机清洗</a><a href='http://qinzhou.baixing.com/jh_%E6%B0%B4%E5%A3%B6%E7%94%B5/' target='_blank' class='selected'>钦州水壶电</a><a href='http://qinzhou.baixing.com/jh_%E8%BF%B7%E4%BD%A0%E7%94%B5%E7%83%AD%E6%B0%B4%E5%A3%B6/' target='_blank' class='selected'>钦州迷你电热水壶</a><a href='http://qinzhou.baixing.com/jh_%E7%94%B5%E7%83%AD%E6%B0%B4%E5%A3%B6%E5%93%81%E7%89%8C/' target='_blank' class='selected'>钦州电热水壶品牌</a><a href='http://qinzhou.baixing.com/jh_%E7%94%B5%E7%83%AD%E6%B0%B4%E5%A3%B6%E9%85%8D%E4%BB%B6/' target='_blank' class='selected'>钦州电热水壶配件</a><a href='http://qinzhou.baixing.com/jh_%E7%BE%8E%E7%9A%84%E7%94%B5%E7%83%AD%E6%B0%B4%E5%A3%B6/' target='_blank' class='selected'>钦州美的电热水壶</a><a href='http://qinzhou.baixing.com/jh_%E9%AB%98%E6%A1%A3%E7%94%B5%E8%A7%86/' target='_blank' class='selected'>钦州高档电视</a><a href='http://qinzhou.baixing.com/jh_%E6%97%A5%E7%AB%8B%20%E5%AE%98%E7%BD%91/' target='_blank' class='selected'>钦州日立 官网</a><a href='http://qinzhou.baixing.com/jh_%E6%97%A5%E7%AB%8B%E6%9C%BA%E5%99%A8/' target='_blank' class='selected'>钦州日立机器</a><a href='http://qinzhou.baixing.com/jh_%E6%97%A5%E7%AB%8B/' target='_blank' class='selected'>钦州日立</a><a href='http://qinzhou.baixing.com/jh_%E7%BB%98%E5%9B%BE/' target='_blank' class='selected'>钦州绘图</a><a href='http://qinzhou.baixing.com/jh_%E9%AB%98%E8%80%83%E6%95%99%E6%9D%90/' target='_blank' class='selected'>钦州高考教材</a><a href='http://qinzhou.baixing.com/jh_%E4%B8%89%E6%B4%8B%E9%9F%B3%E5%93%8D/' target='_blank' class='selected'>钦州三洋音响</a><a href='http://qinzhou.baixing.com/jh_%E5%81%A5%E8%BA%AB%E9%A6%86%E5%81%A5%E8%BA%AB/' target='_blank' class='selected'>钦州健身馆健身</a><a href='http://qinzhou.baixing.com/jh_%E6%88%90%E4%BA%BA%E9%AB%98%E8%80%83%E4%B8%93%E4%B8%9A/' target='_blank' class='selected'>钦州成人高考专业</a><a href='http://qinzhou.baixing.com/jh_%E6%88%90%E4%BA%BA%E9%AB%98%E8%80%83%E7%BD%91%E7%AB%99/' target='_blank' class='selected'>钦州成人高考网站</a><a href='http://qinzhou.baixing.com/jh_lg%E6%B4%97%E8%A1%A3%E6%9C%BA%E6%B8%85%E6%B4%97/' target='_blank' class='selected'>钦州lg洗衣机清洗</a><a href='http://qinzhou.baixing.com/jh_%E7%AF%AE%E7%90%83%E5%9C%BA%E5%9C%B0%E5%9D%AA%E6%96%BD%E5%B7%A5/' target='_blank' class='selected'>钦州篮球场地坪施工</a><a href='http://qinzhou.baixing.com/jh_%E5%AD%A6%E5%8E%86%E6%95%99%E8%82%B2%E4%B8%8E%E5%9F%B9%E8%AE%AD/' target='_blank' class='selected'>钦州学历教育与培训</a><a href='http://qinzhou.baixing.com/jh_%E8%80%83%E7%A0%94%E5%9F%B9%E8%AE%AD/' target='_blank' class='selected'>钦州考研培训</a><a href='http://qinzhou.baixing.com/jh_%E8%80%83%E5%8D%9A%E8%BE%85%E5%AF%BC/' target='_blank' class='selected'>钦州考博辅导</a><a href='http://qinzhou.baixing.com/jh_%E5%9C%A8%E8%81%8C%E8%80%83%E7%A0%94/' target='_blank' class='selected'>钦州在职考研</a><a href='http://qinzhou.baixing.com/jh_%E6%8A%BD%E6%B2%B9%E7%83%9F%E6%9C%BA%E5%AE%89%E8%A3%85/' target='_blank' class='selected'>钦州抽油烟机安装</a><a href='http://qinzhou.baixing.com/jh_%E6%8A%BD%E6%B2%B9%E7%83%9F%E6%9C%BA%E6%B8%85%E6%B4%97%E4%BB%B7%E6%A0%BC/' target='_blank' class='selected'>钦州抽油烟机清洗价格</a><a href='http://qinzhou.baixing.com/jh_%E7%87%83%E6%B0%94%E7%81%B6%20%E7%BB%B4%E4%BF%AE%E7%94%B5%E8%AF%9D/' target='_blank' class='selected'>钦州燃气灶 维修电话</a><a href='http://qinzhou.baixing.com/jh_%E4%BF%AE%E7%87%83%E6%B0%94%E7%81%B6/' target='_blank' class='selected'>钦州修燃气灶</a><a href='http://qinzhou.baixing.com/jh_%E5%8D%8E%E5%B8%9D%20%E7%83%AD%E6%B0%B4%E5%99%A8%20%E7%BB%B4%E4%BF%AE/' target='_blank' class='selected'>钦州华帝 热水器 维修</a><a href='http://qinzhou.baixing.com/jh_%E7%A9%BA%E8%B0%83%E5%A4%A73p/' target='_blank' class='selected'>钦州空调大3p</a><a href='http://qinzhou.baixing.com/jh_%E6%A0%BC%E5%85%B0%E4%BB%953p%E7%A9%BA%E8%B0%83/' target='_blank' class='selected'>钦州格兰仕3p空调</a><a href='http://qinzhou.baixing.com/jh_%E6%AD%A3%E5%93%81%E4%B9%9D%E9%98%B3%E8%B1%86%E6%B5%86%E6%9C%BA/' target='_blank' class='selected'>钦州正品九阳豆浆机</a><a href='http://qinzhou.baixing.com/jh_%E5%AE%B6%E7%94%A8%E4%B9%9D%E9%98%B3%E8%B1%86%E6%B5%86%E6%9C%BA/' target='_blank' class='selected'>钦州家用九阳豆浆机</a><a href='http://qinzhou.baixing.com/jh_%E6%A6%A8%E6%B1%81%E6%9C%BA%E8%B1%86%E6%B5%86%E6%9C%BA/' target='_blank' class='selected'>钦州榨汁机豆浆机</a><a href='http://qinzhou.baixing.com/jh_%E8%B1%86%E6%B5%86%E6%9C%BA%E7%BE%8E%E7%9A%84/' target='_blank' class='selected'>钦州豆浆机美的</a><a href='http://qinzhou.baixing.com/jh_%E4%BD%8E%E4%BB%B7%E8%B1%86%E6%B5%86%E6%9C%BA/' target='_blank' class='selected'>钦州低价豆浆机</a><a href='http://qinzhou.baixing.com/jh_%E4%B9%9D%E9%98%B3%E8%B1%86%E6%B5%86%E6%9C%BA%E5%AE%B6%E7%94%A8/' target='_blank' class='selected'>钦州九阳豆浆机家用</a><a href='http://qinzhou.baixing.com/jh_3p%E7%9A%84%E7%A9%BA%E8%B0%83/' target='_blank' class='selected'>钦州3p的空调</a><a href='http://qinzhou.baixing.com/jh_3p/' target='_blank' class='selected'>钦州3p</a><a href='/jh_yueqi/?parent=root' target='_blank' class='selected'>更多图书音像专题</a><a href='/cwjh/' target='_blank' class='selected'>优质信息</a></td></tr><tr><th>钦州图书音像类目介绍</th><td id='intro'><div>百姓网钦州图书音像频道是钦州本地最大的二手书和二手音像制品交易网，汇集了大量钦州二手图书/教材，二手音像制品信息供您查询，并您可免费发布书籍/音像制品转让信息。</div></td></tr><tr><th>钦州图书音像转让</th><td id='ershouType'><a href='/yueqi/m178401/' target='_blank' class='selected'>图书转让</a><a href='/yueqi/m178399/' target='_blank' class='selected'>音像制品转让</a></td></tr><tr><th>钦州图书音像热门城市</th><td id='hotCities'><a href='http://shanghai.baixing.com/yueqi/' target='_blank' class='selected'>上海二手书网</a><a href='http://beijing.baixing.com/yueqi/' target='_blank' class='selected'>北京二手书网</a><a href='http://guangzhou.baixing.com/yueqi/' target='_blank' class='selected'>广州二手书网</a><a href='http://suzhou.baixing.com/yueqi/' target='_blank' class='selected'>苏州二手书网</a><a href='http://shenzhen.baixing.com/yueqi/' target='_blank' class='selected'>深圳二手书网</a><a href='http://shenyang.baixing.com/yueqi/' target='_blank' class='selected'>沈阳二手书网</a><a href='http://zhengzhou.baixing.com/yueqi/' target='_blank' class='selected'>郑州二手书网</a><a href='http://wuxi.baixing.com/yueqi/' target='_blank' class='selected'>无锡二手书网</a><a href='http://dalian.baixing.com/yueqi/' target='_blank' class='selected'>大连二手书网</a><a href='http://dongguan.baixing.com/yueqi/' target='_blank' class='selected'>东莞二手书网</a><a href='http://hangzhou.baixing.com/yueqi/' target='_blank' class='selected'>杭州二手书网</a><a href='http://xian.baixing.com/yueqi/' target='_blank' class='selected'>西安二手书网</a><a href='http://nanning.baixing.com/yueqi/' target='_blank' class='selected'>南宁二手书网</a><a href='http://chengdu.baixing.com/yueqi/' target='_blank' class='selected'>成都二手书网</a><a href='http://qingdao.baixing.com/yueqi/' target='_blank' class='selected'>青岛二手书网</a><a href='http://wuhan.baixing.com/yueqi/' target='_blank' class='selected'>武汉二手书网</a><a href='http://nanjing.baixing.com/yueqi/' target='_blank' class='selected'>南京二手书网</a><a href='http://jinan.baixing.com/yueqi/' target='_blank' class='selected'>济南二手书网</a><a href='http://shijiazhuang.baixing.com/yueqi/' target='_blank' class='selected'>石家庄二手书网</a><a href='http://tianjin.baixing.com/yueqi/' target='_blank' class='selected'>天津二手书网</a><a href='http://ningbo.baixing.com/yueqi/' target='_blank' class='selected'>宁波二手书网</a><a href='http://hefei.baixing.com/yueqi/' target='_blank' class='selected'>合肥二手书网</a><a href='http://chongqing.baixing.com/yueqi/' target='_blank' class='selected'>重庆二手书网</a><a href='http://changchun.baixing.com/yueqi/' target='_blank' class='selected'>长春二手书网</a><a href='http://xiamen.baixing.com/yueqi/' target='_blank' class='selected'>厦门二手书网</a><a href='http://fuzhou.baixing.com/yueqi/' target='_blank' class='selected'>福州二手书网</a><a href='http://changsha.baixing.com/yueqi/' target='_blank' class='selected'>长沙二手书网</a><a href='http://haerbin.baixing.com/yueqi/' target='_blank' class='selected'>哈尔滨二手书网</a><a href='http://zhuhai.baixing.com/yueqi/' target='_blank' class='selected'>珠海二手书网</a><a href='http://taiyuan.baixing.com/yueqi/' target='_blank' class='selected'>太原二手书网</a><a href='http://shantou.baixing.com/yueqi/' target='_blank' class='selected'>汕头二手书网</a><a href='http://kunming.baixing.com/yueqi/' target='_blank' class='selected'>昆明二手书网</a><a href='http://wulumuqi.baixing.com/yueqi/' target='_blank' class='selected'>乌鲁木齐二手书网</a><a href='http://lanzhou.baixing.com/yueqi/' target='_blank' class='selected'>兰州二手书网</a><a href='http://nanchang.baixing.com/yueqi/' target='_blank' class='selected'>南昌二手书网</a><a href='http://guiyang.baixing.com/yueqi/' target='_blank' class='selected'>贵阳二手书网</a><a href='http://haikou.baixing.com/yueqi/' target='_blank' class='selected'>海口二手书网</a><a href='http://huhehaote.baixing.com/yueqi/' target='_blank' class='selected'>呼和浩特二手书网</a></td></tr><tr><th>钦州图书音像周边城市</th><td id='around'><a href='http://fangchenggang.baixing.com/yueqi/' target='_blank' class='selected'>防城港二手书网</a><a href='http://beihai.baixing.com/yueqi/' target='_blank' class='selected'>北海二手书网</a><a href='http://nanning.baixing.com/yueqi/' target='_blank' class='selected'>南宁二手书网</a><a href='http://zhanjiang.baixing.com/yueqi/' target='_blank' class='selected'>湛江二手书网</a><a href='http://chongzuo.baixing.com/yueqi/' target='_blank' class='selected'>崇左二手书网</a><a href='http://www.baixing.com/yueqi/' target='_blank' class='selected'>二手书网</a></td></tr><tr><th>钦州优质信息</th><td id='hqErshou'><a href='/hq_shouji_sanxingG5308W/' target='_blank' class='selected'>三星 G5308W</a><a href='/hq_shouji_sanxingG5309W/' target='_blank' class='selected'>三星 G5309W</a><a href='/hq_shouji_sanxingG6100/' target='_blank' class='selected'>三星 G6100</a><a href='/hq_shouji_sanxingG70/' target='_blank' class='selected'>三星 G70</a><a href='/hq_shouji_sanxingG7106/' target='_blank' class='selected'>三星 G7106</a><a href='/hq_shouji_sanxingG7108/' target='_blank' class='selected'>三星 G7108</a><a href='/hq_shouji_sanxingG7108V/' target='_blank' class='selected'>三星 G7108V</a><a href='/hq_shouji_sanxingG7109/' target='_blank' class='selected'>三星 G7109</a><a href='/hq_shouji_sanxingG7200/' target='_blank' class='selected'>三星 G7200</a><a href='/hq_shouji_sanxingG720NO/' target='_blank' class='selected'>三星 G720NO</a><a href='/hq_shouji_sanxingG7508Q/' target='_blank' class='selected'>三星 G7508Q</a><a href='/hq_shouji_sanxingG7509/' target='_blank' class='selected'>三星 G7509</a><a href='/hq_shouji_sanxingG9006V/' target='_blank' class='selected'>三星 G9006V</a><a href='/hq_shouji_sanxingG9006W/' target='_blank' class='selected'>三星 G9006W</a><a href='/hq_shouji_sanxingG9008V/' target='_blank' class='selected'>三星 G9008V</a><a href='/hq_shouji_sanxingG9008W/' target='_blank' class='selected'>三星 G9008W</a><a href='/hq_shouji_sanxingG9009D/' target='_blank' class='selected'>三星 G9009D</a><a href='/hq_shouji_sanxingG9009W/' target='_blank' class='selected'>三星 G9009W</a><a href='/hq_shouji_sanxingG9092/' target='_blank' class='selected'>三星 G9092</a><a href='/hq_shouji_sanxingG9098/' target='_blank' class='selected'>三星 G9098</a><a href='/hq_shouji_sanxingGALAXYA3dianxin4G/' target='_blank' class='selected'>三星 GALAXY A3 电信4G</a><a href='/hq_shouji_sanxingGALAXYA3shuang4G/' target='_blank' class='selected'>三星 GALAXY A3 双4G</a><a href='/hq_shouji_sanxingGALAXYA5dianxin4G/' target='_blank' class='selected'>三星 GALAXY A5 电信4G</a><a href='/hq_shouji_sanxingGALAXYA5shuang4G/' target='_blank' class='selected'>三星 GALAXY A5 双4G</a><a href='/hq_shouji_sanxingGALAXYA7/' target='_blank' class='selected'>三星 GALAXY A7</a><a href='/hq_shouji_sanxingGALAXYA7dianxin4G/' target='_blank' class='selected'>三星 GALAXY A7 电信4G</a><a href='/hq_shouji_sanxingGALAXYA8/' target='_blank' class='selected'>三星 GALAXY A8</a><a href='/hq_shouji_sanxingGALAXYC5/' target='_blank' class='selected'>三星 GALAXY C5</a><a href='/hq_shouji_sanxingGALAXYC7/' target='_blank' class='selected'>三星 GALAXY C7</a><a href='/hq_shouji_sanxingGALAXYC9Pro/' target='_blank' class='selected'>三星 GALAXY C9 Pro</a><a href='/hq_shouji_sanxingGALAXYDiscover/' target='_blank' class='selected'>三星 GALAXY Discover</a><a href='/hq_shouji_sanxingGALAXYE5/' target='_blank' class='selected'>三星 GALAXY E5</a><a href='/hq_shouji_sanxingGALAXYE7shuang4G/' target='_blank' class='selected'>三星 GALAXY E7 双4G</a><a href='/hq_shouji_sanxingGALAXYJ3/' target='_blank' class='selected'>三星 GALAXY J3</a><a href='/hq_shouji_sanxingGALAXYJ5/' target='_blank' class='selected'>三星 GALAXY J5</a><a href='/hq_shouji_sanxingGALAXYJ7/' target='_blank' class='selected'>三星 GALAXY J7</a><a href='/hq_shouji_sanxingGALAXYKZoomC1158/' target='_blank' class='selected'>三星 GALAXY K Zoom C1158</a><a href='/hq_shouji_sanxingGALAXYKzoomC1116/' target='_blank' class='selected'>三星 GALAXY K zoom C1116</a><a href='/hq_shouji_sanxingGALAXYMPro/' target='_blank' class='selected'>三星 GALAXY M Pro</a><a href='/hq_shouji_sanxingGALAXYMusicDUOS/' target='_blank' class='selected'>三星 GALAXY Music DUOS</a><a href='/hq_shouji_sanxingGALAXYNeo/' target='_blank' class='selected'>三星 GALAXY Neo</a><a href='/hq_shouji_sanxingGALAXYNexus/' target='_blank' class='selected'>三星 GALAXY Nexus</a><a href='/hq_shouji_sanxingGALAXYNote/' target='_blank' class='selected'>三星 GALAXY Note</a><a href='/hq_shouji_sanxingGALAXYNote3/' target='_blank' class='selected'>三星 GALAXY Note 3</a><a href='/hq_shouji_sanxingGALAXYNote4/' target='_blank' class='selected'>三星 GALAXY Note 4</a><a href='/hq_shouji_sanxingGALAXYNote4dianxinban/' target='_blank' class='selected'>三星 GALAXY Note 4电信版</a><a href='/hq_shouji_sanxingGALAXYNote4liantongban/' target='_blank' class='selected'>三星 GALAXY Note 4联通版</a><a href='/hq_shouji_sanxingGALAXYNote4yidongban/' target='_blank' class='selected'>三星 GALAXY Note 4移动版</a><a href='/hq_shouji_sanxingGALAXYNote5/' target='_blank' class='selected'>三星 GALAXY Note 5</a><a href='/hq_shouji_sanxingGALAXYNote7/' target='_blank' class='selected'>三星 GALAXY Note 7</a><a href='http://shanghai.baixing.com/cw_esyueqic_menggongyuanxianzhi' target='_blank' class='selected'>梦公园闲置</a><a href='http://shanghai.baixing.com/cw_esyueqih_changfenggongyuanxianzhichuli' target='_blank' class='selected'>长风公园闲置处理</a><a href='http://shanghai.baixing.com/cw_esyueqih_changfenggongyuanxianzhi' target='_blank' class='selected'>长风公园闲置</a><a href='http://shanghai.baixing.com/cw_esyueqic_menggongyuanxianzhiwupin' target='_blank' class='selected'>梦公园闲置物品</a></td></tr><tr><th>移动触屏版</th><td id='mobile'><a href='http://qinzhou.baixing.com/m/yueqi/' target='_blank' class='selected'>钦州二手书网</a></td></tr></table></div></section></section><style> .tip-container {  margin-bottom: 30px; } .tip {  margin-left: 75px;  font-size: 12px;  color: grey; } .red {  color: red; } #feedback-refashion {  position: relative;  margin-left: 510px;  margin-bottom: -30px; }</style><link rel="stylesheet" href="//s.baixing.net/combine/css/d/refashion-listing/index.bfee7f86.css,/css/module/jquery-ui-1.9.1.custom.d3ae8ca1.css" onerror="tracker.resErr(this)"><div id='hint' class='modal fade'><div class='modal-dialog'><div class='modal-content'><div class='modal-header'><button type='button' data-dismiss='modal' aria-label='Close' class='close'><span aria-hidden>&times;</span></button><h4 class='modal-title'>提示</h4></div><div class='modal-body'><img alt='担保交易提示' src='//file.baixing.net/201608/349321fb8d920677ac6feec67dd41363.png' width='100%'></div><div class='tip-container'><div class='p-line tip'>*请保证在百姓网平台上进行支付，以便让百姓网保证您的交易安全</div><div class='p-line tip'>关于百姓网“担保交易”的更多问题，<span><a href='//www.baixing.com/help/feed?id=fd53263' class='red'>点击查看</a></span></div></div></div></div></div><script> _defer.push(function () {  $('.tag-gtrade').on('click', function () {   $('#hint').modal('show');  }); })</script><footer><div><a href='//www.baixing.com/a/bangui/' target='_blank' rel='nofollow'>百姓网公约</a><i class='sep'>|</i><a href='//www.baixing.com/ra/pay/?src=footer' target='_blank' rel='nofollow'>付费推广</a><i class='sep'>|</i><a href='//www.baixing.com/a/company?src=bottom' target='_blank'>客户合作</a><i class='sep'>|</i><a href='//www.baixing.com/xiangyang/post/daoyong/?src=footer' target='_blank' rel='nofollow'>号码被冒用</a><i class='sep'>|</i><a href='//www.baixing.com/help/' target='_blank' data-toggle='tracker' data-source='footer'>联系我们</a><i class='sep'>|</i><a href='http://api.baixing.com.cn/' target='_blank' rel='nofollow'>开放API</a><i class='sep'>|</i><a href='//www.baixing.com/mkt/agents/' target='_blank' rel='nofollow'>诚招代理商</a><i class='sep'>|</i><a href='//www.baixing.com/a/bdad/' target='_blank'>品牌网络推广</a><i class='sep'>|</i><a href='//www.baixing.com/help/feed?id=fd53284' target='_blank'>诚信建设</a><i class='sep'>|</i><a href='//www.baixing.com/v/mobile' rel='nofollow'>手机版</a></div><div><span class='copyright'>&copy; 2017 百姓网股份有限公司 (上海市广元西路55号浩然高科技大厦1808室) 客服电话：400-036-3650或021-61300110（周一至周日，9:00-18:00）</span></div><div><a target='_blank' rel='nofollow' href='http://shwg.dianping.com/index.html'><img height='30' alt='网购大家评' src='http://file.baixing.net/201604/8fa27c5945f2ec31155a36e4a03cc841.png'></a><a target='_blank' rel='nofollow' href='http://www.shjbzx.cn'><img height='30' alt='上海市互联网举报平台' src='//file.baixing.net/201703/b795b51d45c5297739d0add5d4b87475.jpg'></a><a target='_blank' rel='nofollow' href='http://www.sgs.gov.cn/lz/licenseLink.do?method=licenceView&entyId=20111025095406671'><img width='30' alt='上海工商' src='//s.baixing.net/d/refashion-home/images/icon_footer02.png'></a><a target='_blank' rel='nofollow' href='http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31010402000116'><img height='30' alt='网络社会征信网' src='//s.baixing.net/d/refashion-home/images/icon_footer01.png'><span class='beian'>沪公网安备31010402000116号</span></a><span class='at-haojing'>6&nbsp;G:25&nbsp;GM:51</span></div></footer><div id='sidebar-buttons'><a id='weixin-qrcode-login' href='#' title='手机百姓'><i class='icon-side-qrscan'></i></a><a id='feedback-button' href='#' title='我要反馈' class='feedback'><i class='icon-side-feedback'></i></a><a id='back-to-top' href='#' title='返回顶部'><i class='icon-arrow-up'></i></a><div class='qrcode-login-dialog in left fade'><img src='//file.baixing.net/201607/5f583b56bc0d435f0f67c8e67d0a8a96.png'><img src='//file.baixing.net/201607/02b008f4f9a924687e129852191867e4.png'></div><a id='chat-button' href='#' title='系统消息' class='chat-button'><i class='icon-tieba'></i></a></div><div id='feedback-refashion'></div><script id='user-3rd-tag'> window.__is3rdUser = ""; </script><script src="//s.baixing.net/combine/js/d/refashion-libs.min.c15a5d41.js,/d/refashion-common/index.re.2d4b4af4.js,/app/convert/app-download.web.17be6ff0.js,/js/module/banner-track.c1cd96f7.js" onerror="tracker.resErr(this)" crossorigin></script><!--[if (gte IE 9)|!(IE)]><!--><script src="//s.baixing.net/combine/js/js/global/easyXDM.min.f0549ee3.js,/js/module/rongcloud/chat-host.481066e4.js" onerror="tracker.resErr(this)" crossorigin></script><!--<![endif]--><script> window.__isSuperMan = ""; window.__city = "钦州"; </script><script src="//s.baixing.net/combine/js/js/module/jquery-ui-1.9.1.custom.50550ec4.js,/d/refashion-listing/index.re.6e238027.js" onerror="tracker.resErr(this)"></script><div id='xiangyang-feedback-modal' role='dialog' tabindex='-1' class='modal feedback-modal'><div class='modal-dialog'><div class='modal-content'><div class='modal-header'><button type='button' data-dismiss='modal' aria-label='Close' class='close'><span aria-hidden>×</span></button><h4 class='modal-title'>反馈建议</h4></div><div class='modal-body'><form novalidate><span id='desc'></span><input type='hidden' name='labels' value='helpcenter'><div class='p-line'></div><div class='p-line'><label class='p-label'>描述：</label><span class='p-value'><textarea type='text' maxlength='500' name='post[content]' required='required' data-parent='.p-line' value='' placeholder='请尽可能详细地输入您的问题，我们将尽快帮您解决。' style='overflow: hidden; word-wrap: break-word; resize: none; width: 400px;' class='input input-5'></textarea><br><span style='padding-left:0;' class='p-error-empty'>请填写描述</span></span></div><div class='p-line'><label class='p-label'>手机号：</label><span class='p-value'><input name='post[mobile]' maxlength='11' required='required' data-parent='.p-line' type='mobile' value='' class='input'><input id='feedback_ad' name='ad' type='hidden' value=''><input id='feedback_type' name='type' type='hidden' value=''><input id='feedback_bangui' name='bangui' type='hidden' value=''><input id='feedback_source' name='source' type='hidden' value=''><input id='feedback_survey' name='survey_fid' type='hidden' value=''><span class='p-error'>请填写手机号</span><span class='p-error-empty'>请填写手机号</span></span></div><div class='p-line'><label class='p-label'>上传图片：</label><span id='feedback_picture' class='p-value'></span></div><div class='p-line'><label class='p-label'></label><span class='p-value'><input type='submit' value='提交反馈' class='button'><a href='/PublicReview/?src=feedback' target='_blank' class='public-review link'>邀请您参加大众评审</a></span></div></form></div></div></div></div><script> var imageConfig = {"uploadUrl":"http:\/\/v0.api.upyun.com\/bximg\/","uploadParams":{"policy":"eyJidWNrZXQiOiJieGltZyIsInNhdmUta2V5IjoiL3tmaWxlbWQ1fXsuc3VmZml4fSIsImNvbnRlbnQtc2VjcmV0Ijoib3JpZ2luYWwiLCJjb250ZW50LWxlbmd0aC1yYW5nZSI6IjAsMTA0ODU3NjAiLCJ4LWdta2VybC10eXBlIjoiZml4X21heCIsIngtZ21rZXJsLXZhbHVlIjoiNjQwIiwieC1nbWtlcmwtbm9pY2MiOiJ0cnVlIiwieC1nbWtlcmwtcXVhbGl0eSI6Ijc1IiwieC1nbWtlcmwtcm90YXRlIjoiYXV0byIsIngtZ21rZXJsLWV4aWYtc3dpdGNoIjoidHJ1ZSIsIm5vdGlmeS11cmwiOiJodHRwOi8vY2FsbGJhY2suaW1nLmJhaXhpbmcubmV0L3VweXVuLnBocD9idWNrZXQ9YnhpbWciLCJleHBpcmF0aW9uIjoxNDg5NjM3NjQ2fQ==","signature":"682fea998f6069bf7c7da73f09fbd2f6"},"vendorName":"upyun","imageSuffix":"#up","fileKey":"file","imageHost":null}; _defer.push(["//s.baixing.net/js/guandu/uploader.824150a3.js", function () {  if ( GuanduUploader.isSupported() === true) {   GuanduUploader.init('#feedback_picture', 'bximg')  } else {   $('#feedback_picture').closest('.p-line').remove();  }; }]); _defer.push(["//s.baixing.net/js/module/validator.1d066c49.js", function () {   $('.feedback-modal').validator({   isErrorOnParent: true,   after: function(e) {    var modal = $('.feedback-modal');    e.preventDefault();    var pictures = [];    GuanduUploader.upload({     complete : function (res, fileUrl) {      pictures.push(res.url.slice(1) + imageConfig.imageSuffix);     },     allComplete : function () {      var data = $(e.target).serialize();      if (pictures.length > 0) {       data =  data + '&pictures=' + encodeURIComponent(pictures.join(','));      }      $.post('/xiangyang/post/web?ajax=1', data, function(resp) {       var type = $('#feedback_type').val();       var typeNames = {"feedback":"\u53cd\u9988","jubao":"\u4e3e\u62a5","shensu":"\u7533\u8bc9","tuiguang":"\u63a8\u5e7f","weiquan":"\u7ef4\u6743","chat":"\u79c1\u4fe1","baozhang":"\u4fdd\u969c","lekongkong":"\u4e50\u7a7a\u7a7a","report":"\u4e3e\u62a5\u7533\u8bf7","yinshou":"\u8425\u6536"};       var typeName = '反馈';       $.each(typeNames, function(key, value) {        if (type == key) typeName = value;       });              var modalBody = "谢谢您的反馈！<br />我们将在1个工作日内处理并以电话/短信/站内信方式给您回复。（工作时间：9:00—18:00）<br />您可以在<a href='/w/feedback/'>用户中心——我的反馈</a>中查看问题回复进度";       if (type == 'shensu') {        modalBody = resp == 'true' ? '您的' + typeName + '已提交成功，我们将在24小时内核实处理！' : resp;       }       modal.find('.modal-body').html('<p>' + modalBody + '</p>');       switch (type) {        case 'shensu' :         setTimeout(function() {          window.location.reload();         } ,1500);         break;        default :         setTimeout(function() {          $('.feedback-modal').modal('hide');         } ,3000);       }      });     }    });   }  }); }]); </script><script> feedback("qinzhou", "yueqi")</script><div id='promote-weixin-modal' class='fade hide in modal'><div class='modal-dialog'><div class='modal-content'><div class='modal-header'><button type='button' data-dismiss='modal' aria-label='Close' class='close'><span aria-hidden>×</span></button><div class='modal-title'>扫码使用百姓微信公众号</div></div><div class='modal-body'><p>打开微信，扫一扫右侧二维码，即可完成绑定 --></p><img id='promoQrcode' src='//s.baixing.net/img/subscribe/baixing1.jpg' style='float:right;'><div class='promoteWeixinContent'><p>绑定后，您可以：</p><p>1. 立即在手机上收到用户给您的留言</p><p>2. 使用手机快速完成付费推广的续费动作</p><p>3. 第一时间了解到百姓网付费推广最新的促销活动，以及享受微信端独特的促销活动</p><p>4. 更快速地将信息通过微信分享给好友、同事、朋友圈</p><p>5. 如果您是招聘类目用户，还能够第一时间接收到新简历通知</p></div></div></div></div></div><script src='//s.baixing.net/js/global/defer.9fe29b86.js'></script><script type="text/html" id="item_adsense_top_tmpl">
+<li class="media clearfix adsense adsense-oneline">
+	<a class="media-body" target="_blank" href="#{url}" style="text-decoration:none;display:block;" data-act_type="listing-insert" data-hintword="#{hintword}" data-keyword="#{keyword}" data-billing_name="#{billing_name}" data-index="#{index}" data-top="1">
+		<div class="media-body-title">
+		<span>#{line1}</span>
+		</div>
+		<div class="media-body-des">#{line2}</div>
+		<small class="pull-right">广告</small>
+	</a>
+</li>
+</script>
+<script type="text/html" id="item_adsense_tmpl">
+<li class="media clearfix adsense" id="s_i_ad#{index}">
+	<a href="#{url}" target="_blank" class="media-cap" data-act_type="listing-insert" data-hintword="#{hintword}" data-keyword="#{keyword}" data-billing_name="#{billing_name}">
+	<img src="#{imgUrl}" alt="#{line1}">
+	</a>
+	<a class="media-body" target="_blank" href="#{url}" style="text-decoration:none;display:block;" data-act_type="listing-insert" data-hintword="#{hintword}" data-keyword="#{keyword}" data-billing_name="#{billing_name}" data-index="#{index}">
+		<div class="media-body-title">
+			<small class="adsense-label">广告</small>
+			<span>#{line1}</span>
+		</div>
+		<div class="ad-item-detail">#{line2}</div>
+		<div class="ad-item-detail">#{visible_url}</div>
+	</a>
+</li>
+</script>
+
+<script type="text/html" id="table_adsense_tmpl">
+<li class="clearfix table-adsense-item table-view-item adsense">
+	<a target="_blank" href="#{url}" data-act_type="listing-insert" data-hintword="#{hintword}" data-keyword="#{keyword}" data-billing_name="#{billing_name}" data-index="#{index}">
+		<span class="table-view-body">
+			#{line1}
+		</span>
+		<div class="table-view-block">#{line2}</div>
+		<div class="table-view-cap">广告</div>
+	</a>
+</li>
+</script>
+<script type="text/javascript">
+	var totalAds = $('.item-pinned').length + $('.item-regular').length;
+	var viewType = 'item';
+	var keyword = '乐器';
+	var insertSize2 = 18;
+	var insertSize = totalAds > 50 ? 7 : 5; // 当ad不足50条是，每隔5条出一个广告
+	var adSize = 5;
+	// var divide = +tracker.lastPvId.split('-')[0].substr(-4)%6;
+	var divide = 0;
+	var showTopItems = 1;
+	var hardcodeAds = [
+		{
+			tit: '一分钟线上申请，低息快速轻松贷款',
+			desc: '简单快速搞的定',
+			surl: 'jinrong.baixing.com',
+			curl: 'http://jinrong.baixing.com/?src=web-listing-insert5',
+			imgUrl: '//file.baixing.net/201702/f708b98b10406238858ce05c58813f03.png'
+		},
+		{
+			tit: '节后缺钱怎么办？上百姓金融一分钟申请，半天放款',
+			desc: '简单快速搞的定',
+			surl: 'jinrong.baixing.com',
+			curl: 'http://jinrong.baixing.com/?src=web-listing-insert6',
+			imgUrl: '//file.baixing.net/201702/f708b98b10406238858ce05c58813f03.png'
+		}
+	];
+
+	var cproRenderer = function (_ads) {
+		var ads = []
+
+		if (_ads) {
+			for(var i = 0; i < _ads.length; i++) {
+				if (_ads[i].surl.indexOf('58.com') === -1) {
+					ads.push(_ads[i])
+				}
+			}
+		}
+
+		var doubleAds = ads.concat(ads) // 双倍展现
+		if (doubleAds.length > 6) {
+			doubleAds[6] = hardcodeAds[0]
+			doubleAds[7] = hardcodeAds[1]
+		} else {
+			doubleAds = doubleAds.concat(hardcodeAds)
+		}
+
+		$list = viewType == 'item' ? $('.list-ad-items').not('.list-no-ads') : $('.table-view').not('.list-no-ads');
+		$firstList = $list.first();
+		$lastList = $list.last();
+
+		render(doubleAds);
+		if($('.youlanMoreBtn')) {
+			$('.hide + .table-adsense-item').addClass('hide')
+		}
+		function isRealPinned($tags) {
+			var isReal = false;
+			var classes = ['tag-ace','tag-huoji','tag-ding'];
+			$tags.each(function(){
+				var tagName = $(this).attr('class').split(/\s+/)[1];
+				if (classes.indexOf(tagName) != -1) isReal = true;
+			});
+			return isReal;
+		}
+		function render(ads) {
+			var index = 1;
+			if (showTopItems) {
+				if (viewType=='item') {
+					for (var i = 2; i > 0; i--) {
+						$firstList.prepend(renderAd(ads.shift(),'#item_adsense_top_tmpl'));
+					}
+				} else {
+					$list.prepend(renderAd(ads.shift(),'#'+viewType+'_adsense_tmpl'));
+				}
+			}
+
+			var regularItems = $lastList.find('.item-regular').get();
+			var pinnedItems = $lastList.find('.item-pinned:not(.item-youlan)').get();
+
+			var pinnedItemsSize = 0;
+			$(pinnedItems).each(function() {
+				var $tags = $(this).find('.tag');
+				if (isRealPinned($tags)) pinnedItemsSize++;
+			});
+			var vipItems = pinnedItems.splice(pinnedItemsSize,pinnedItems.length-pinnedItemsSize);
+			regularItems = vipItems.concat(regularItems);
+			var $regularItems = $(regularItems);
+
+			var i = 0;
+			var insertIndex = 0;
+			var insertNum = 2;
+			for (; i < ads.length; i++) {
+				insertIndex += (i % insertNum)^1;
+				if (insertIndex > divide) insertNum = 1;
+				if (insertIndex <= divide) {
+					var insertPlace = insertSize2 * insertIndex;
+				} else {
+					var insertPlace = insertSize2 * divide + (insertIndex-divide) * insertSize;
+				}
+				var content = renderAd(ads[i],'#'+viewType+'_adsense_tmpl');
+				var insertNode = $regularItems.eq(insertPlace);
+
+				if (!insertNode.length) break;
+				insertNode.before(content);
+			};
+			// 打点一下展现量
+			if(Math.random() < 0.01) {
+				window.tracker.evt('search_ad_show', {
+					num: $('.clearfix.adsense').length,
+					ad1: !!$('#s_i_ad1').length,
+					ad3: !!$('#s_i_ad3').length,
+					ad5: !!$('#s_i_ad5').length,
+				})
+			}
+						var extra_max = 10;
+			for (; i < ads.length && extra_max>0; i++, extra_max--) {
+				$list.append(renderAd(ads[i],'#'+viewType+'_adsense_tmpl'));
+			}
+						function renderAd(ad, templateHolder) {
+				if (!ad) return;
+				var template = $(templateHolder).html();
+				return $.renderAdsense({
+					url: ad.curl,
+					line1: ad.tit,
+					line2: ad.desc,
+					visible_url: ad.surl,
+					hintword: ad.bid,
+					keyword: keyword,
+					billing_name: '30024088_11_cpr',
+					index: index++,
+					imgUrl: ad.imgUrl || '//file.baixing.net/201508/7e396f2e318dcf731b1d62b615e6b76a.png',
+				},template);
+			}
+		}
+	}
+	var $cproIdRandom = parseInt(Math.random() * 10000);
+	var arrBaiduCproConfig = {};
+
+	arrBaiduCproConfig['n'] = '30024088_11_cpr'; //计费名
+	arrBaiduCproConfig['template'] = 'baiduDEFINE';
+	arrBaiduCproConfig['wn'] = adSize;   //横向广告条数
+	arrBaiduCproConfig['hn'] = 1;   //纵向广告条数
+	arrBaiduCproConfig['tm'] = 30;  //标题长度
+	arrBaiduCproConfig['cm'] = 40;  //描述长度
+	arrBaiduCproConfig['um'] = 28;  //url长度
+	arrBaiduCproConfig['define'] = 'cproRenderer';
+	arrBaiduCproConfig['charset'] = 'utf8';
+	arrBaiduCproConfig['rad'] = 0;  //是否出不相关广告
+	arrBaiduCproConfig['uap'] = 0;  //是否出cpa广告
+	arrBaiduCproConfig['cad'] = 0;  //是否显示公益广告
+	arrBaiduCproConfig['nfr'] = 0;  //是否飘红. 0表示飘红，1表示不飘红。描述不会飘红
+	arrBaiduCproConfig['bu'] = 0;   //是否展现show url
+	arrBaiduCproConfig['channel'] = '1';   //渠道值
+	arrBaiduCproConfig['k'] = '乐器';
+</script>
+<script src="//cpro.baidustatic.com/cpro/ui/ui.js" type="text/javascript"></script>
+<script src="//s.baixing.net/js/module/cookie.81431fea.js"></script>
+<script>
+/* taq 处理 */
+$(document).ready(function () {
+	var data = [];
+	if (_taq.length) {
+		data = _taq;
+	}
+	_taq = {
+		push : function(data) {
+			switch (data[0]) {
+				case 'evt' :
+					var attribute = $.extend({
+						"_pvid": tracker.lastPvId
+						, "_reid": tracker.reid
+						, "_city": tracker.city_name
+						, "_category": tracker.category
+						, "_ad": tracker.adid
+						, "_url": document.location.href.length ? document.location.href.substr(0, 4000) : ''
+						, "_bnid": Cookie.read('kjj_trace_banner_id')
+						, "_clid": Cookie.read('kjj_trace_click_id_new')
+						, "_prof": Cookie.read('kjj_trace_profile_new')
+						, "_refer": document.referrer.length ? document.referrer : ''
+					}, data[2]);
+					$.get('/c/ev/' + encodeURIComponent(data[1]), attribute);
+					break;
+				case 'ic' :
+					$.get( '/c/ic/' + encodeURIComponent(data[1]));
+					break;
+				case 'count' :
+					$.get( '/c/mc/' + encodeURIComponent(data[1]) + '.' + encodeURIComponent(data[2]));
+					break;
+				case 'timing' :
+					$.get('/c/tm/' + encodeURIComponent(data[1]) + '.' + encodeURIComponent(data[2]) +
+					'.' + encodeURIComponent(data[3]))
+					break;
+				case 'klog' :
+					$.get( '/c/klog/' + encodeURIComponent(data[1]), data[2]);
+					break;
+				case 'perf' :
+					$.get('/c/perf/' + encodeURIComponent(data[1]), data[2]);
+					break;
+				case 'manageTrack' :
+					$.get('/c/mt/' + encodeURIComponent(data[1]), data[2]);
+					break;
+			}
+		}
+	};
+	while (data.length) {
+		_taq.push(data.shift());
+	}
+});
+</script>
+<script id="perf2"></script><script id="perflog"></script><script class='collector-bar'></script><script type='text/javascript'>
+(function() {
+	function b64EncodeUnicode(str) {
+		return btoa(encodeURIComponent(str).replace(/%([0-9A-F]{2})/g, function(match, p1) {
+			return String.fromCharCode('0x' + p1);
+		}));
+	}
+
+	$('.ex_re').on('click', function(e) {
+		var $el = $(e.target)
+		var link = $el.attr('href')
+
+		if(!$el.data('url')) $el.data('url', link)
+
+		var extra = { url: $el.data('url'), href: window.location.href }
+		var encodeLink = b64EncodeUnicode($.param({url: link, eventType: 'external_redirect', eventValue: extra})).toString()
+		var redirectUrl = 'http://www.baixing.com/redirect/index?r=' + encodeLink.replace('+', '-').replace('_', '/').replace('=', ',')
+
+		$el.attr('href', redirectUrl)
+	})
+})();
+</script><script type='text/javascript'>
+(function() {
+	var clickedAdsense = []
+
+	$('body').on('adsense_click', function(event, data) {
+		if(!data || !data.id) return false
+
+		var id = '#' + data.id
+		if(clickedAdsense.indexOf(id) === -1) {
+			clickedAdsense.push(id)
+		} else {
+			setTimeout(function() {
+				$(id).remove()
+			}, 1000)
+		}
+	})
+
+	// 暂时检测一下搜索广告点击状况，就不取全量了
+	if (Math.random() < 0.1) {
+		$('body').on('click', '.media.clearfix.adsense', function(e) {
+			var offset = $(e.target).parents('.adsense').offset()
+			var posY = offset.top - $(window).scrollTop()
+			var posX = offset.left - $(window).scrollLeft()
+
+			var result = {
+				x: e.screenX - posX,
+				y: e.screenY - posY - 120
+			}
+
+			tracker.evt('search_ad_click_position', result)
+		})
+	}
+})();
+</script>
+</body></html>
