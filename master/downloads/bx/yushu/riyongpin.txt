@@ -1,0 +1,453 @@
+<!DOCTYPE html><html><head><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta charset='utf-8'><script id="perf0"></script><link rel='dns-prefetch' href='//file.baixing.net/'><link rel='dns-prefetch' href='//img4.baixing.net/'><link rel='dns-prefetch' href='//img5.baixing.net/'><link rel='dns-prefetch' href='//img6.baixing.net/'><meta name='apple-itunes-app' content='app-id=591540113'><meta property='qc:admins' content='27606217656211016763757'><meta name='renderer' content='webkit'><meta name='applicable-device' content='pc'><title>【玉树二手日常用品转让_玉树日常用品批发_玉树家具日用品网】 - 玉树百姓网</title><meta name='keywords' content='玉树二手日常用品转让,玉树日常用品批发'><meta name='description' content='百姓网玉树日用品频道是玉树本地最大的二手日用品转让与求购信息免费查询和发布平台，包括等信息，是广大网友网上寻找玉树日用品，日用品批发公司，日用品批发交易市场信息的首选网站。'><meta name='location' content='province=青海;city=玉树;coord=97.00663600000007,33.005822'><link rel='alternate' href='http://yushu.baixing.com/m/riyongpin/' media='handheld' type='application/vnd.wap.xhtml+xml'><meta http-equiv='mobile-agent' content='format=html5; url=http://yushu.baixing.com/m/riyongpin/'><meta http-equiv='mobile-agent' content='format=wml; url=http://yushu.baixing.com/m/riyongpin/'><meta http-equiv='mobile-agent' content='format=xhtml; url=http://yushu.baixing.com/m/riyongpin/'><script> /* 预防吉林铁通篡改百度js删除cookie */ (function() {  var _setInterval = setInterval;  try {   setInterval = function(f) {    var src = f.toString();    if (!/_hao_pg/.test(src)) {     return _setInterval.apply(window, arguments);    }   };  } catch (e) {   /* slient */  } })(); </script><script> document.documentElement.className += ' js' </script><script> void function(){  var a = location.hostname.split('.').slice(-2);  if (a[0] === 'baixing' && (a[1] === 'com' || a[1] === 'cn')) document.domain = a.join('.'); }(); var _defer=[], _taq=[]; </script><script>var sentryReleaseVersion="2017-03-13 00:21:53";!function(){"use strict";function e(e){if("object"==typeof e){var o={errMessage:e.message||e.msg,errLine:e.line||e.lineno||e.lineNumber,errFile:e.file||e.filename||e.fileName,errPage:t(location.pathname),percent:e.percent};return n(o,e.error||e),e.error||e}}function t(e){return e.replace(/a\d+\.html$/,"aNNNNNNN.html")}function n(e,t){Math.random()>(e.percent||.1)/100||(t&&t.stack&&(e.stack=t.stack.substring(0,500)),tracker.kLog("fe_error",e))}window.Raven&&Raven.config("//815017857a8b440084898577b6917624@error.baixing.net/3",{dataCallback:function(e){var t=e.exception.values[0];e.message||(e.message=t.type+": "+t.value,e.extra.messageSupported=!1);for(var n=t.stacktrace.frames,o=0;o<n.length;o++)n[o].colno=n[o].colno||0},release:sentryReleaseVersion,shouldSendCallback:function(e){var t=e.exception.values[0];return!/MSIE [567]/.test(navigator.userAgent)&&!/ReferenceError.*?:.*?(?:\$|jQuery|Promise|RongIMLib|webpackJsonp)/.test(e.message||t.type+t.value)},whitelistUrls:[/s\.baixing\.net/]}).install(),window.errorTracker=e,window.reportError=function(){var e={};return function(t,n,o,r,i){if(!t._t){t._t=(new Date).getTime();var a=new Error;e[t._t]=a,a.columnNumber=i,a.fileName=n,a.lineNumber=r,a.message=t.message||t.description,a.name=t.name,a.stack=t.stack||t.name+": "+a.message,setTimeout(function(){delete e[t._t],t._r||window.Raven&&Raven.captureException(a,{extra:{stackSupported:!!t.stack}})},1)}var a=e[t._t];!t.stack&&n&&(a.stack+="\n\tat "+o+" (//s.baixing.net"+n+":"+r+":"+i+")")}}()}();var tracker={lastTimestamp:(new Date).getTime(),referrer:null,city:null,city_name:null,category:null,pagetype:null,trackid:null,adid:null,visitorid:null,userid:"",cv1:"",cv2:"",cv3:"",tk1:"",tk2:"",tk3:"",tk4:"",tk5:"",ic:function(e,t){_taq.push(["ic",e,t?"uv":"pv"])},count:function(e,t){_taq.push(["count",e,t])},timing:function(e,t,n){_taq.push(["timing",e,t,n])},kLog:function(e,t){_taq.push(["klog",e,t])},evt:function(e,t){_taq.push(["evt",e,t])},perf:function(e){_taq.push(["perf",tracker.pageType,e])},ga:function(e,t,n,o){_taq.push(["ga",e,t,n,o])},manageTrack:function(e,t){_taq.push(["manageTrack",e,t])},resErr:function(e){var t,n=e.nodeName.toLowerCase();switch(n){case"link":t=e.href;break;case"script":case"img":case"iframe":t=e.src;break;default:return}"function"==typeof window.errorTracker&&window.errorTracker({msg:"Resource Error",file:t,percent:1})},setCategory:function(e){this.category=e},setCity:function(e){this.city=e},setCityEnglishName:function(e){this.city_name=e},setTrackId:function(e){this.trackid=e},setAdId:function(e){this.adid=e},setVisitorId:function(e){this.visitorid=e},setUserId:function(e){this.userid=e},generateId:function(){var e=(new Date).getTime(),t=Math.random().toString().slice(2)+"-"+e+"-"+(e^this.trackid^parseInt(this.reid,16))+"-"+(e-this.lastTimestamp);if(this.lastTimestamp=e,this.lastPvId=t,window.sessionStorage)try{window.sessionStorage.setItem("bx:pvid",t)}catch(n){}return t},parentId:function(){return this.lastPvId?this.lastPvId:window.sessionStorage?window.sessionStorage.getItem("bx:pvid"):"NA"},consumeLastClick:function(){var e=this.lastClick;return e&&(this.lastClick=null),window.sessionStorage&&(e||(e={target:window.sessionStorage.getItem("bx:click.target"),time:window.sessionStorage.getItem("bx:click.time")}),window.sessionStorage.removeItem("bx:click.target"),window.sessionStorage.removeItem("bx:click.time")),e?new Date-e.time+"$"+e.target:""},pv:function(){var e=new Image;e.id="garyTracker",e.src=["//gary.","baixing.com/arrow.php?"].join("")+"ppvid="+this.parentId()+"&pvid="+this.generateId()+"&click="+encodeURIComponent(this.consumeLastClick())+"&reid="+encodeURIComponent(this.reid)+"&url="+encodeURIComponent(document.location.href.length?document.location.href:"")+"&ref="+encodeURIComponent(this.referrer||(document.referrer.length?document.referrer:""))+"&ct="+encodeURIComponent(this.city)+"&ctn="+encodeURIComponent(this.city_name)+"&cat="+encodeURIComponent(this.category)+"&vid="+encodeURIComponent(this.visitorid)+"&uid="+encodeURIComponent(this.userid)+"&tid="+encodeURIComponent(this.trackid)+"&adid="+encodeURIComponent(this.adid)+"&cv1="+encodeURIComponent(this.cv1)+"&cv2="+encodeURIComponent(this.cv2)+"&cv3="+encodeURIComponent(this.cv3)+"&cv4="+encodeURIComponent(this.cv4)+"&cv5="+encodeURIComponent(this.cv5)+"&tk1="+encodeURIComponent(this.tk1)+"&tk2="+encodeURIComponent(this.tk2)+"&tk3="+encodeURIComponent(this.tk3)+"&tk4="+encodeURIComponent(this.tk4)+"&tk5="+encodeURIComponent(this.tk5)}};void function(e){function t(t){var n=+new Date;t||(t=e.event);var r=o(t.target||t.srcElement);if(e.tracker&&(e.tracker.lastClick={target:r,time:n}),e.sessionStorage)try{e.sessionStorage.setItem("bx:click.target",r),e.sessionStorage.setItem("bx:click.time",n)}catch(i){}}function n(e){for(var t=1,n=e.tagName;e=i(e);)e.tagName===n&&t++;return t}function o(e){var t;if(1!==e.nodeType)t="/*"+e.nodeName+"*/";else{if(t=e.tagName,e.id)return t+"#"+e.id;var r=i(e);if(r){if(r.id)return r.tagName+"#"+r.id+"+"+t;var a=n(e);t+=1===a?":first-of-type":":nth-of-type("+a+")"}else t+=":first-child"}var c=e.parentNode;return c&&1===c.nodeType&&"body"!==c.tagName.toLowerCase()?o(c)+">"+t:t}var r=e.document;r.addEventListener?r.addEventListener("click",t,!1):r.attachEvent?r.attachEvent("onclick",t):r.onclick=t;var i;i=void 0!==r.documentElement.previousElementSibling?function(e){return e.previousElementSibling}:function(e){for(;(e=e.previousSibling)&&1!==e.nodeType;);return e}}(window),void function(e){function t(){e.$&&(o(document,"DOMContentLoaded",t),o(e,"load",t),r(),$(document).on("click",i),a())}function n(e,t,n){e.addEventListener?e.addEventListener(t,n,!1):e.attachEvent&&e.attachEvent("on"+t,n)}function o(e,t,n){e.removeEventListener?e.removeEventListener(t,n,!1):e.detachEvent&&e.detachEvent("on"+t,n)}function r(){var t=document.createElement("a");t.href=document.referrer;var n,o,r,i=t.hostname;i.indexOf("baidu.com")>=0&&(r=document.referrer.match(/baidu.+wo?r?d=([^\\&]*)/i))?(n=r[1],o="baidu"):i.indexOf("google.com")>=0&&(r=document.referrer.match(/google.+q=([^\\&]*)/i))?(n=r[1],o="google"):i.indexOf("so.com")>=0&&(r=document.referrer.match(/so.+q=([^\\&]*)/i))?(n=r[1],o="so"):i.indexOf("haosou.com")>=0&&(r=document.referrer.match(/haoso.+q=([^\\&]*)/i))?(n=r[1],o="haosou"):i.indexOf("sm.cn")>=0&&(r=document.referrer.match(/sm.+q=([^\\&]*)/i))&&(n=r[1],o="sm"),o&&(e.landingKeyword=decodeURIComponent(n).replace(/^\s+|\s+$/g,""),e.seoSource=o)}function i(t){var n=t.target;if($.contains(document.body,n)){for(;"A"!=n.nodeName&&"BODY"!=n.nodeName;)n=n.parentNode;if("A"==n.nodeName&&n.hostname){var o=null!==/(baixing.cn|baixing.com)$/i.exec(n.hostname);if(!o){var r=$(n).data();r.href=n.href,e.seoSource&&(r.landing_keyword=e.landingKeyword,r.seo_source=e.seoSource),r.timestamp=Math.floor(Date.now()/1e3),tracker.evt("external_click",r),$("body").trigger("adsense_click",$(t.target).parents(".adsense"))}}}}function a(){function t(){if(n){var t=$("#"+n).data();$.isEmptyObject(t)&&(t.id=$("#"+n).attr("id")),e.seoSource&&(t.landing_keyword=e.landingKeyword,t.seo_source=e.seoSource),t.timestamp=Math.floor(Date.now()/1e3),tracker.evt("external_click",t),$("body").trigger("adsense_click",$("#"+n))}}var n=!1;$(document).on("mouseenter",".iframe-3rd-party,.third-party-wrapper iframe",function(){n=this.id}).on("mouseleave",".iframe-3rd-party,.third-party-wrapper iframe",function(){n=!1,e.focus()}),$(e).on("blur",t)}n(document,"DOMContentLoaded",t),n(e,"load",t)}(window);var ON_PRODUCTION = 1;
+
+tracker.setCategory('riyongpin');
+tracker.setCity('976');
+tracker.setCityEnglishName('yushu');
+tracker.setAdId('');
+tracker.setUserId('');
+tracker.setTrackId('148934634686368');
+tracker.setVisitorId('');
+
+tracker.tk1 = 'PostService0';
+tracker.tk2 = 'sharp_ranking0';
+tracker.tk3 = '';
+tracker.tk4 = 'fenglin_title_test1';
+tracker.tk5 = '';
+
+tracker.cv1 = '';
+tracker.cv2 = '';
+tracker.cv3 = '';
+tracker.cv4 = '1489346346';
+tracker.cv5 = '148934634686368';
+tracker.reid = '58c59f2ad0b1b67623';
+tracker.pageType = 'listing';
+</script><!--block ie6to8Style--><!--	include ie6to8style--><link rel='canonical' href='http://yushu.baixing.com/riyongpin/'><link rel='apple-touch-icon-precomposed' href='//s.baixing.net/img/wap/icon_bx_app_1308.png'><link rel='shortcut icon' href='//s.baixing.net/favicon.ico' type='image/x-icon'><script src="//s.baixing.net/d/refashion-lib/base.re.a75a53a4.js" onerror="tracker.resErr(this)" crossorigin></script><!--[if lt IE 9]><script src='//s.baixing.net/d/shim.0da4e718.js'></script><![endif]--><!--[if lt IE 8]><script src='//s.baixing.net/js/module/json2.min.96bd9bbd.js'></script><![endif]--><script id="perf1"></script><script>
+	/** Start: Google Analytics */
+	(function(i, s, o, g, r, a, m) {i['GoogleAnalyticsObject'] = r;i[r] = i[r] || function() {(i[r].q = i[r].q || []).push(arguments)}, i[r].l = 1 * new Date();a = s.createElement(o),m = s.getElementsByTagName(o)[0];a.async = 1;a.src = g;m.parentNode.insertBefore(a, m)})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+	ga('create', {trackingId: 'UA-6183853-1', cookieDomain: 'baixing.com', 'siteSpeedSampleRate': 100});
+
+</script>
+<script>
+			if (tracker.data) {
+		var city = tracker.data.city_name,
+			category = tracker.data.category,
+			platform = 'wap';
+	} else {
+		var city = tracker.city_name,
+			category = tracker.category,
+			platform = 'web';
+	}
+
+	ga('set', 'dimension1', city);
+	ga('set', 'dimension2', category);
+	ga('set', 'dimension3', 'Listing_Controller');
+	ga('set', 'dimension4', platform);
+
+	(function () {
+		var refer = document.referrer;
+		if (refer && refer.search("http://") > -1) {
+			var domain = refer.match(/:\/\/(.[^/]+)/)[1];
+			if (domain.indexOf("baidu.com") > -1) { //暂时只统计baidu，忽略其他份额小的SE。
+				ga('set', 'dimension5', 'Listing_Controller');
+			}
+		}
+	})();
+
+	ga('send', 'pageview');
+
+	/** End: Google Analytics */
+</script>
+
+
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?5a727f1b4acc5725516637e03b07d3d2";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+<link rel="stylesheet" href="//s.baixing.net/d/refashion-common/index.bb77b71c.css" onerror="tracker.resErr(this)"><link rel='stylesheet' href='//s.baixing.net/font/baicons/baicons2.a250ac9f.css'><style media="print">body{background:url(/c/ev/print?_city=yushu&_category=riyongpin&_tk1=PostService0&_tk2=sharp_ranking0&_tk3=&_tk4=fenglin_title_test1&_tk5=&_tid=148934634686368&_url=http%3A%2F%2Fyushu.baixing.com%2Friyongpin%2F%3Fafo%3DuXB&_refer=)}</style><link rel="stylesheet" href="//s.baixing.net/combine/css/d/refashion-listing/index.bfee7f86.css,/css/module/jquery-ui-1.9.1.custom.d3ae8ca1.css" onerror="tracker.resErr(this)"></head><!--[if lt IE 7 ]> <body class="ie6 lt-ie8"> <![endif]--><!--[if IE 7 ]>    <body class="ie7 lt-ie8"> <![endif]--><!--[if IE 8 ]>    <body class="ie8 category-riyongpin category-ershou view-item"> <![endif]--><!--[if (gte IE 9)|!(IE)]><!--> <body class="category-riyongpin category-ershou view-item"> <!--<![endif]--><header><div><div class='toolbar'><div class='toolbar-link'><i class='icon-mobile'></i><a rel='dialog' href='#promote-weixin-modal' data-toggle='modal'>微信版</a><a href='//www.baixing.com/a/mobile'>手机APP</a><i class='sep'>|</i><a href='//changdu.baixing.com/riyongpin/?afo=uXB'>昌都</a><a href='//ganzi.baixing.com/riyongpin/?afo=uXB'>甘孜</a><a href='//guoluo.baixing.com/riyongpin/?afo=uXB'>果洛</a><a href='//china.baixing.com'>全国</a><a href='//www.baixing.com/?changeLocation=yes&amp;return=%2Friyongpin%2F%3Fafo%3DuXB'>[更多城市]</a></div><ul id='user-tools' class='navbar-nav'><li><a href='//www.baixing.com/oz/verify/reg' rel='nofollow' data-toggle='userAuth' data-type='reg'>注册</a></li><li><a href='//www.baixing.com/oz/login' rel='nofollow' data-toggle='userAuth' data-type='login'>登录</a></li><li class='dropdown'><a href='//www.baixing.com/ra/pay?src=topbar#vip' target='_blank'>商户推广<i class='icon-arrow-down'></i></a><ul class='dropdown-menu'><li><a href='//www.baixing.com/ra/pay/?src=header' target='_blank'>付费推广</a></li><li><a href='//vip.baixing.com/job_buy?src=topbar' target='_blank'>VIP会员-招聘版</a></li><li><a href='//vip.baixing.com/auto_buy?src=topbar' target='_blank'>VIP会员-车商版</a></li><li><a href='//vip.baixing.com/house_buy?src=topbar' target='_blank'>VIP会员-房产版</a></li><li><a href='//vip.baixing.com/service_buy?src=topbar' target='_blank'>VIP会员-服务版</a></li><li><a href='//vip.baixing.com/pet_buy?src=topbar' target='_blank'>VIP会员-宠物版</a></li></ul></li><li class='dropdown'><a href='javascript:;'>合作及工具<i class='icon-arrow-down'></i></a><ul class='dropdown-menu'><li><a href='//www.baixing.com/a/bdad/?src=home_topbar' target='_blank'>品牌网络推广</a></li><li><a href='http://api3.baixing.com.cn/?src=home_topbar' target='_blank'>API合作</a></li><li><a href='//www.baixing.com/PublicReview/' target='_blank'>大众评审</a></li><li><a href='//www.baixing.com/mkt/agents/' target='_blank'>诚招代理商</a></li></ul></li><li><a href='//www.baixing.com/help/' target='_blank'>帮助</a></li></ul></div></div><div><div class='location'><span class='breadcrumb'><a href='/' property='v:title' rel='v:url' class='primary-logo'><span class='city-logo'>玉树</span><img alt='百姓网' src='//s.baixing.net/img/refashion/logo_baixing.png' width='95px' height='48px'></a><i class='icon-arrow-right'></i><a href='http://yushu.baixing.com' property='v:title' rel='v:url'>玉树</a><i class='icon-arrow-right'></i><a href='/ershou/' property='v:title' rel='v:url'>玉树二手</a><i class='icon-arrow-right'></i><a href='/riyongpin/' property='v:title' rel='v:url'>玉树家居日用</a><span class='post-total-count'>（23 条信息）</span></span><a href='//yushu.baixing.com/fabu/riyongpin' class='post'>免费发布家居日用信息</a></div></div></header><script id="fold-point">tracker.pv()</script><div class='refashion-listing-banner'></div><div id='listing-fixed-filters'><form><fieldset class='dropdown'><legend data-toggle='dropdown'><span>类型</span><i class='icon-arrow-down'></i></legend><ul class='dropdown-menu'><li><a class='checked'>不限</a></li><li><a href='/riyongpin/m178495/'>洗护用品</a></li><li><a href='/riyongpin/m178599/'>彩妆</a></li><li><a href='/riyongpin/m178564/'>香水</a></li><li><a href='/riyongpin/m178601/'>护肤品</a></li><li><a href='/riyongpin/m178606/'>保健器械</a></li><li><a href='/riyongpin/m178615/'>床上用品</a></li><li><a href='/riyongpin/m178512/'>纤体/美体</a></li><li><a href='/riyongpin/m178499/'>美甲用品</a></li><li><a href='/riyongpin/m178480/'>灯具照明</a></li><li><a href='/riyongpin/m178481/'>洗衣熨烫</a></li><li><a href='/riyongpin/m178482/'>装饰摆设</a></li><li><a href='/riyongpin/m18629/'>厨卫用品</a></li><li><a href='/riyongpin/m177841/'>布艺饰品</a></li><li><a href='/riyongpin/m177253/'>其他</a></li></ul></fieldset><i class='sep'></i><fieldset class='dropdown'><legend data-toggle='dropdown'><span>价格</span><i class='icon-arrow-down'></i></legend><ul class='dropdown-menu'><li><a class='checked'>不限</a></li><li><a href='/riyongpin/?%E4%BB%B7%E6%A0%BC%5B0%5D=0&amp;%E4%BB%B7%E6%A0%BC%5B1%5D=50'>50元以下</a></li><li><a href='/riyongpin/?%E4%BB%B7%E6%A0%BC%5B0%5D=50&amp;%E4%BB%B7%E6%A0%BC%5B1%5D=150'>50-150元</a></li><li><a href='/riyongpin/?%E4%BB%B7%E6%A0%BC%5B0%5D=150&amp;%E4%BB%B7%E6%A0%BC%5B1%5D=1300'>150-1300元</a></li><li><a href='/riyongpin/?%E4%BB%B7%E6%A0%BC%5B0%5D=1300&amp;%E4%BB%B7%E6%A0%BC%5B1%5D='>1300元以上</a></li></ul></fieldset><i class='sep'></i><fieldset class='dropdown'><legend data-toggle='dropdown'><span>新旧程度</span><i class='icon-arrow-down'></i></legend><ul class='dropdown-menu'><li><a class='checked'>不限</a></li><li><a href='/riyongpin/?entities=%E6%96%B0%E6%97%A7%E7%A8%8B%E5%BA%A6_8%E6%88%90%E6%96%B0'>8成新</a></li><li><a href='/riyongpin/?entities=%E6%96%B0%E6%97%A7%E7%A8%8B%E5%BA%A6_7%E6%88%90%E6%96%B0%E5%8F%8A%E4%BB%A5%E4%B8%8B'>7成新及以下</a></li><li><a href='/riyongpin/?entities=%E6%96%B0%E6%97%A7%E7%A8%8B%E5%BA%A6_9%E6%88%90%E6%96%B0'>9成新</a></li><li><a href='/riyongpin/?entities=%E6%96%B0%E6%97%A7%E7%A8%8B%E5%BA%A6_95%E6%88%90%E6%96%B0'>95成新</a></li><li><a href='/riyongpin/?entities=%E6%96%B0%E6%97%A7%E7%A8%8B%E5%BA%A6_99%E6%88%90%E6%96%B0'>99成新</a></li><li><a href='/riyongpin/?entities=%E6%96%B0%E6%97%A7%E7%A8%8B%E5%BA%A6_%E5%85%A8%E6%96%B0'>全新</a></li></ul></fieldset><i class='sep'></i><fieldset><legend><a href='#listing-filters'>更多筛选</a></legend></fieldset><a href='//yushu.baixing.com/fabu/riyongpin' class='post'>免费发布家居日用信息</a></form></div><div class='listing-fixed-bottom-promo'><div class='qrcode-container'><img src='//file.baixing.net/201604/043841105da8af0be03accadbc8202a2.png'><a href='javascript:;' class='close pull-right'>&times;</a></div></div><section><form id='listing-filters' action='' class='compact '><fieldset class='expanded'><span class='legend'>地区</span><div class='area links'><a class='checked'>全玉树</a><a href='/riyongpin/m4242/'>玉树县</a><a href='/riyongpin/m4241/'>杂多</a><a href='/riyongpin/m4239/'>治多</a><a href='/riyongpin/m4237/'>曲麻莱</a><a href='/riyongpin/m4238/'>囊谦</a><a href='/riyongpin/m4240/'>称多</a><a href='http://qinghai.baixing.com/riyongpin/'>全青海</a><a href='http://china.baixing.com/riyongpin/'>全中国</a></div></fieldset><fieldset class='expanded'><span class='legend'>类型</span><div class='links'><a class='checked'>不限</a><a href='/riyongpin/m178495/'>洗护用品</a><a href='/riyongpin/m178599/'>彩妆</a><a href='/riyongpin/m178564/'>香水</a><a href='/riyongpin/m178601/'>护肤品</a><a href='/riyongpin/m178606/'>保健器械</a><a href='/riyongpin/m178615/'>床上用品</a><a href='/riyongpin/m178512/'>纤体/美体</a><a href='/riyongpin/m178499/'>美甲用品</a><a href='/riyongpin/m178480/'>灯具照明</a><a href='/riyongpin/m178481/'>洗衣熨烫</a><a href='/riyongpin/m178482/'>装饰摆设</a><a href='/riyongpin/m18629/'>厨卫用品</a><a href='/riyongpin/m177841/'>布艺饰品</a><a href='/riyongpin/m177253/'>其他</a></div></fieldset><fieldset class='expanded'><span class='legend'>价格</span><div class='links'><a class='checked'>不限</a><a href='/riyongpin/?%E4%BB%B7%E6%A0%BC%5B0%5D=0&amp;%E4%BB%B7%E6%A0%BC%5B1%5D=50'>50元以下</a><a href='/riyongpin/?%E4%BB%B7%E6%A0%BC%5B0%5D=50&amp;%E4%BB%B7%E6%A0%BC%5B1%5D=150'>50-150元</a><a href='/riyongpin/?%E4%BB%B7%E6%A0%BC%5B0%5D=150&amp;%E4%BB%B7%E6%A0%BC%5B1%5D=1300'>150-1300元</a><a href='/riyongpin/?%E4%BB%B7%E6%A0%BC%5B0%5D=1300&amp;%E4%BB%B7%E6%A0%BC%5B1%5D='>1300元以上</a><span class='range'><label>自定义区间：</label><input type='number' min='0' name='价格[0]' value='' class='number'><label>～</label><input type='number' min='0' name='价格[1]' value='' class='number'><label class='unit'>元</label><input type='submit' value='筛选' class='filter-button'></span></div></fieldset><fieldset class='expanded'><span class='legend'>新旧程度</span><div class='links'><a class='checked'>不限</a><a href='/riyongpin/?entities=%E6%96%B0%E6%97%A7%E7%A8%8B%E5%BA%A6_8%E6%88%90%E6%96%B0'>8成新</a><a href='/riyongpin/?entities=%E6%96%B0%E6%97%A7%E7%A8%8B%E5%BA%A6_7%E6%88%90%E6%96%B0%E5%8F%8A%E4%BB%A5%E4%B8%8B'>7成新及以下</a><a href='/riyongpin/?entities=%E6%96%B0%E6%97%A7%E7%A8%8B%E5%BA%A6_9%E6%88%90%E6%96%B0'>9成新</a><a href='/riyongpin/?entities=%E6%96%B0%E6%97%A7%E7%A8%8B%E5%BA%A6_95%E6%88%90%E6%96%B0'>95成新</a><a href='/riyongpin/?entities=%E6%96%B0%E6%97%A7%E7%A8%8B%E5%BA%A6_99%E6%88%90%E6%96%B0'>99成新</a><a href='/riyongpin/?entities=%E6%96%B0%E6%97%A7%E7%A8%8B%E5%BA%A6_%E5%85%A8%E6%96%B0'>全新</a></div></fieldset><fieldset class='search-fieldset'><input name='query' type='search' placeholder='搜家居日用' value='' class='search-query'><a href='javascript:void 0;' class='search-trigger'><i class='icon-search'></i></a><a class='more-options-folding'><span>更多筛选条件</span><i class='icon-arrow-down'></i><i class='icon-minus'></i></a></fieldset></form></section><div id='js-fixed-filter-anchor'></div><section class='container'><aside class='sidebar waterfall-glist'><div class='sidebar-filter subscribe'><div class='title'><i class='icon-xiangguan'></i>信息免费订阅</div><strong>玉树 家居日用</strong><a href='#email-tips' role='button' data-toggle='modal' class='subscribe-button'>有新信息通知我</a></div><div class='rightside-adsense'><script type="text/javascript">
+	(function() {
+		var cpro_id = "u2839315";
+		var s = "_" + Math.random().toString(36).slice(2);
+		document.write('<div style="" id="' + s + '"></div>');
+				(window.slotbydup = window.slotbydup || []).push({
+			container: s,
+			id: cpro_id,
+			scale: '20.3',
+			display: 'inlay-fix'
+		});
+	})();
+</script>
+
+</div><div class='sidebar-filter related-category'><div class='title'><i class='icon-link'></i>相关类目</div><div class='sidebar-filter-block'><a href='http://yushu.baixing.com/bangongyongpin/#rc' target='_blank'>玉树办公经营设备</a><a href='http://yushu.baixing.com/qitazhuanrang/#rc' target='_blank'>玉树其他物品</a><a href='http://yushu.baixing.com/yundongqicai/#rc' target='_blank'>玉树运动/图书/乐器</a><a href='http://yushu.baixing.com/yinger/#rc' target='_blank'>玉树母婴/玩具</a><a href='http://yushu.baixing.com/jiaju/#rc' target='_blank'>玉树家具/办公家具</a><a href='http://yushu.baixing.com/nongchanpin/#rc' target='_blank'>玉树食品/农产品</a><a href='http://yushu.baixing.com/qiumai/#rc' target='_blank'>玉树物品回收</a><a href='http://yushu.baixing.com/fushi/#rc' target='_blank'>玉树服装/配饰/鞋包</a></div></div><div class='sidebar-filter safe-tip'><div class='title'><i class='icon-tips'></i>安全小贴士</div><p style='text-align:left;margin-top:20px' class='sidebar-filter-block'><a href="http://www.baixing.com/help/feed?id=fd53085" target="_blank">闲置交易里的那些陷阱</a><br /><a href="http://www.baixing.com/help/feed?id=fd53261" target="_blank">识破低价高配的骗局</a><br /><a href="http://www.baixing.com/help/feed?id=fd45830" target="_blank">交易时如何防止上当受骗</a><br /><a href="http://www.baixing.com/help/feed?id=fd53291" target="_blank">快速识别商品虚假信息</a><br /><a href="http://www.baixing.com/help/feed?id=fd53292" target="_blank">交易安全二三事</a></p></div><script type="text/javascript" src="//script-bd.baixing.net/ir3a1ecf94f0c8f33adb1463c6a3fa79ed54ebc50d35e57fec1a25.js"></script><iframe style="height:200px;width:200px;overflow:hidden;margin-left:auto;margin-right:auto;" frameborder="0" scrolling="no" src="//s.baixing.net/adsense/baidu_union.php?cpro_id=u2868783" class="iframe-3rd-party" id="union_iframe_u2868783" data-act_type="baidu_union" data-id="u2868783"></iframe><script type="text/javascript">
+	(function() {
+		var cpro_id = "u2868828";
+		var s = "_" + Math.random().toString(36).slice(2);
+		document.write('<div style="" id="' + s + '"></div>');
+				(window.slotbydup = window.slotbydup || []).push({
+			container: s,
+			id: cpro_id,
+			scale: '20.3',
+			display: 'inlay-fix'
+		});
+	})();
+</script>
+
+<div style="margin: 15px 0" class="media-box third-party-wrapper"> <iframe style="height:400px;width:200px;overflow:hidden;margin-left:auto;margin-right:auto;" frameborder="0" scrolling="no" src="//s.baixing.net/adsense/baidu_union.php?cpro_id=u2868775" class="iframe-3rd-party" id="union_iframe_u2868775" data-act_type="baidu_union" data-id="u2868775"></iframe> </div><div class="media-box-fixed" style="width:200px;">
+<script type="text/javascript" src="//script-bd.baixing.net/bw3a1ecf96f3cef33fdb1463c6a3fa79ed54ebc50d35e57fec1a25.js"></script><div style="margin: 15px 0" class="media-box third-party-wrapper"> <script type="text/javascript">
+	(function() {
+		var cpro_id = "u2868810";
+		var s = "_" + Math.random().toString(36).slice(2);
+		document.write('<div style="" id="' + s + '"></div>');
+				(window.slotbydup = window.slotbydup || []).push({
+			container: s,
+			id: cpro_id,
+			scale: '20.3',
+			display: 'inlay-fix'
+		});
+	})();
+</script>
+
+ </div><div style="margin: 15px 0" class="media-box third-party-wrapper"> <script type="text/javascript">
+	(function() {
+		var cpro_id = "u2868860";
+		var s = "_" + Math.random().toString(36).slice(2);
+		document.write('<div style="" id="' + s + '"></div>');
+				(window.slotbydup = window.slotbydup || []).push({
+			container: s,
+			id: cpro_id,
+			scale: '20.3',
+			display: 'inlay-fix'
+		});
+	})();
+</script>
+
+ </div></div>
+<script type="text/javascript">
+_defer.push(function() {
+	var $sticky = $('.media-box-fixed');
+	if ($(document).height() > 7000) {
+		var _top = $sticky.offset().top - 45;
+		var _offset = $('.foot-links-box').offset();
+		var _bottom = _offset ? $(document).height() - _offset.top : 20;
+		$sticky.affix({
+			offset: {
+				top: function (){
+					// 由于广告是异步加载的，_top的值在加载完成后可能会变大，这里取到这个最后的值做为affix插件的数据
+					// 注意：由于affix插件的特性，在变成affix-bottom之后, $sticky.offset().top会被覆盖，这里的判断条件过滤了这种情况
+					_top = $sticky.offset().top - 45 > _top && $sticky.hasClass('affix-top') ?$sticky.offset().top - 45: _top;
+					return _top;
+				},
+				bottom: _bottom
+			}
+		});
+	}
+});
+</script>
+</aside><div id='weixin-tips' tabindex='-1' role='dialog' class='modal hide'><div class='modal-dialog'><div class='modal-content'><div class='modal-header'><button type='button' data-dismiss='modal' aria-hidden class='close'>×</button><div id='app-download-section' class='clearfix'><div style='margin:0 0 10px 0px;font-size:1.17em;font-weight:bold'>手机App订阅</div><div style='text-align:center'><div><img id='app-download-section-img' src='//file.baixing.net/201410/95967a3f4e7e33eac4b62aa5d802b9d3.png'><div id='app-download-section-qrcode'><img src='//file.baixing.net/201410/d111c4814bdd10412c226474d9290aca.png'></div></div><div id='app-download-section-title'>扫码下载百姓网APP，随时订阅信息，还能私信沟通！</div></div></div><div class='modal-title'>微信订阅</div></div><div class='modal-body'><img id='sub-qr-code' src='//s.baixing.net/img/subscribe/baixing1.jpg'><div id='txtcontent'><p class='hint'><p>打开微信扫一扫二维码，一步轻松订阅！</p><p>订阅后，“玉树 家居日用”有新信息时将通过微信优先通知您。</p></p><p class='other-tips'>没有微信？您可以使用<span href='#email-tips' id='qq-sub' data-toggle='modal' class='btn email-modal'>&nbsp;QQ订阅</span>&nbsp;或&nbsp;<span href='#email-tips' id='email-sub' data-toggle='modal' class='email-modal btn'>邮件订阅 &nbsp;</span></p></div></div></div></div></div><div id='email-tips' tabindex='-1' role='dialog' class='modal hide'><div class='modal-dialog'><div class='modal-content'><div class='modal-header'><button type='button' data-dismiss='modal' aria-hidden class='close'>×</button><div class='modal-title'>手机订阅</div></div><div class='modal-body'><div class='text-line'><span class='icon-weixin'></span><span>扫码关注百姓网公众号，随时订阅信息！</span></div><img src='//file.baixing.net/201604/886cdef3c3645949a974d03e76e20ca3.png' class='tip-img'></div></div></div></div><script> _defer.push(function() {  window.initSidebarModal('', '家居日用 玉树 家居日用') });</script><div class='main'><div class='list-alert-mini'><img src='//s.baixing.net/img/refashion/icon_bullhorn_rtl.png' class='icon-speaker'><div class='list-alert-bubble'><div class='list-alert-content'><div class='list-alert-title'>家居日用类目专区公告栏&nbsp;<i class='toggle-button icon-arrow-down'></i></div><p class='list-alert-details'>家里是不是总有那么些闲置的日常用品？扔了可惜，不处理又占地方，送朋友又不合适，在这里，为大家提供了一个日常用品的二手交易平台。希望通过这个平台，让大家的闲置宝贝不再闲着。<br />&nbsp;<br />【实拍照片】真实、清晰、多角度的闲置照片会吸引更多的关注，一图胜百字。<br />&nbsp;<br />【详细描述】可详细描述闲置宝贝的购买时间、新旧程度、为何转让、交易方式及时间等，让看的人能在联系你前较充分了解，让沟通更高效，成交更快速。&nbsp;<br />&nbsp;<br />【免费上首页】如果你对自己的信息质量够自信，可联系我将你的信息免费展示在首页。<a href="http://www.baixing.com/help/feed?id=fd53240#fd53240" target="_blank">点此查看如何免费上首页</a><br /><br />【特别通知】因公司战略调整，2016年8月1日起，二手专区将关闭个人用户担保交易功能，如有不便，敬请谅解。<br />&nbsp;<br />【请勿发布】请勿发布微商推广类、淘宝物品推广类、成人用品类、求购类、商家全新类信息。&nbsp;<br /><br />大家对于这个类目有任何意见、建议或问题，欢迎随时点击右侧小编联系我，让我们一起把家居日用类目越做越好！</p></div></div></div><ul role='tablist' class='listing-tab-navi'><li class='active'><h1><a href='/riyongpin/'>全部家居日用</a></h1></li><li class=''><h1><a href='/riyongpin/posterType_%E4%B8%AA%E4%BA%BA/'>个人</a></h1></li><li class=''><h1><a href='/riyongpin/posterType_%E5%95%86%E5%AE%B6/'>商家</a></h1></li></ul><div class='listing-viewtype-switch'><div><label><input type='checkbox' data-target='/riyongpin/?imageFlag=1' >只看有图</label></div><div><label><input type='checkbox' data-target='/riyongpin/?todayOnly=1' >只看今天发布的信息</label></div><div><label><input type='checkbox' data-target='/riyongpin/?sixinOnlineFlag=1' >只看私信在线</label></div><ul class='view-type-list item'><li title='大图模式' class='waterfall'><a href='/riyongpin/?view=waterfall'><i class='icon-datu'></i></a></li><li title='图文模式' class='item'><a href='/riyongpin/?view=item'><i class='icon-tuwen'></i></a></li><li title='列表模式' class='table'><a href='/riyongpin/?view=table'><i class='icon-list'></i></a></li></ul></div><ul class='list-ad-items'><li data-aid='801461372' data-cpm-sign='' data-inorganic='1' class=' item-regular '><a href='http://yushu.baixing.com/riyongpin/a801461372.html' target='_blank' data-cpc='' class='media-cap '><img src='//s.baixing.net/img/refashion/default_ad_img.png' alt='盆老桩开花玉树'></a><div class='media-body'><div class='media-body-title'><span class='highlight'>3000元</span><a href='http://yushu.baixing.com/riyongpin/a801461372.html' target='_blank' class='ad-title'>盆老桩开花玉树</a></div><div class='ad-item-detail'>玉树县</div><div class='ad-item-detail'>其他&nbsp;/&nbsp;<time>15年7月21日</time></div></div></li><li data-aid='758582776' data-cpm-sign='' data-inorganic='1' class=' item-regular '><a href='http://yushu.baixing.com/riyongpin/a758582776.html' target='_blank' data-cpc='' class='media-cap '><img src='//s.baixing.net/img/refashion/default_ad_img.png' alt='畜牧养殖场售小尾寒羊、波尔山羊、杜泊绵羊、黄牛肉牛'></a><div class='media-body'><div class='media-body-title'><span class='highlight'>400元</span><a href='http://yushu.baixing.com/riyongpin/a758582776.html' target='_blank' class='ad-title'>畜牧养殖场售小尾寒羊、波尔山羊、杜泊绵羊、黄牛肉牛</a></div><div class='ad-item-detail'>玉树县</div><div class='ad-item-detail'>其他&nbsp;/&nbsp;<time>15年6月7日</time></div></div></li><li data-aid='754867507' data-cpm-sign='' data-inorganic='1' class=' item-regular '><a href='http://yushu.baixing.com/riyongpin/a754867507.html' target='_blank' data-cpc='' class='media-cap '><img src='//s.baixing.net/img/refashion/default_ad_img.png' alt='树冬虫夏草'></a><div class='media-body'><div class='media-body-title'><span class='highlight'>80元</span><a href='http://yushu.baixing.com/riyongpin/a754867507.html' target='_blank' class='ad-title'>树冬虫夏草</a></div><div class='ad-item-detail'>玉树县</div><div class='ad-item-detail'>彩妆&nbsp;/&nbsp;<time>15年6月2日</time></div></div></li><li data-aid='729672140' data-cpm-sign='' data-inorganic='1' class=' item-regular '><a href='http://yushu.baixing.com/riyongpin/a729672140.html' target='_blank' data-cpc='' class='media-cap '><img src='//s.baixing.net/img/refashion/default_ad_img.png' alt='小本生意、让你不再为钱而烦恼、、、'></a><div class='media-body'><div class='media-body-title'><span class='highlight'>价格：20元</span><a href='http://yushu.baixing.com/riyongpin/a729672140.html' target='_blank' class='ad-title'>小本生意、让你不再为钱而烦恼、、、</a></div><div class='ad-item-detail'>玉树县</div><div class='ad-item-detail'>其他&nbsp;/&nbsp;<time>15年5月10日</time></div></div></li><li data-aid='726116809' data-cpm-sign='' data-inorganic='1' class=' item-regular '><a href='http://yushu.baixing.com/riyongpin/a726116809.html' target='_blank' data-cpc='' class='media-cap '><img src='//s.baixing.net/img/refashion/default_ad_img.png' alt='5-想换0本色磨光镜面席子竹席凉席1-想换8米2-'></a><div class='media-body'><div class='media-body-title'><span class='highlight'>165元</span><a href='http://yushu.baixing.com/riyongpin/a726116809.html' target='_blank' class='ad-title'>5-想换0本色磨光镜面席子竹席凉席1-想换8米2-</a></div><div class='ad-item-detail'>玉树县</div><div class='ad-item-detail'>其他&nbsp;/&nbsp;<time>15年5月7日</time></div></div></li><li data-aid='682723820' data-cpm-sign='' data-inorganic='1' class=' item-regular '><a href='http://yushu.baixing.com/riyongpin/a682723820.html' target='_blank' data-cpc='' class='media-cap '><img src='//s.baixing.net/img/refashion/default_ad_img.png' alt='美妃黛儿刺五加紧致活肤精华乳'></a><div class='media-body'><div class='media-body-title'><span class='highlight'>98元</span><a href='http://yushu.baixing.com/riyongpin/a682723820.html' target='_blank' class='ad-title'>美妃黛儿刺五加紧致活肤精华乳</a></div><div class='ad-item-detail'>玉树县</div><div class='ad-item-detail'>其他&nbsp;/&nbsp;<time>15年4月2日</time></div></div></li><li data-aid='682724692' data-cpm-sign='' data-inorganic='1' class=' item-regular '><a href='http://yushu.baixing.com/riyongpin/a682724692.html' target='_blank' data-cpc='' class='media-cap '><img src='//s.baixing.net/img/refashion/default_ad_img.png' alt='美妃黛儿刺五加紧致活肤多效精华液'></a><div class='media-body'><div class='media-body-title'><span class='highlight'>168元</span><a href='http://yushu.baixing.com/riyongpin/a682724692.html' target='_blank' class='ad-title'>美妃黛儿刺五加紧致活肤多效精华液</a></div><div class='ad-item-detail'>玉树县</div><div class='ad-item-detail'>其他&nbsp;/&nbsp;<time>15年4月2日</time></div></div></li><li data-aid='682723741' data-cpm-sign='' data-inorganic='1' class=' item-regular '><a href='http://yushu.baixing.com/riyongpin/a682723741.html' target='_blank' data-cpc='' class='media-cap '><img src='//s.baixing.net/img/refashion/default_ad_img.png' alt='美妃黛儿刺五加紧致活肤柔肤水'></a><div class='media-body'><div class='media-body-title'><span class='highlight'>85元</span><a href='http://yushu.baixing.com/riyongpin/a682723741.html' target='_blank' class='ad-title'>美妃黛儿刺五加紧致活肤柔肤水</a></div><div class='ad-item-detail'>玉树县</div><div class='ad-item-detail'>其他&nbsp;/&nbsp;<time>15年4月2日</time></div></div></li><li data-aid='682723705' data-cpm-sign='' data-inorganic='1' class=' item-regular '><a href='http://yushu.baixing.com/riyongpin/a682723705.html' target='_blank' data-cpc='' class='media-cap '><img src='//s.baixing.net/img/refashion/default_ad_img.png' alt='浪漫爱心抱枕-想换30元'></a><div class='media-body'><div class='media-body-title'><span class='highlight'>30元</span><a href='http://yushu.baixing.com/riyongpin/a682723705.html' target='_blank' class='ad-title'>浪漫爱心抱枕-想换30元</a></div><div class='ad-item-detail'>玉树县</div><div class='ad-item-detail'>其他&nbsp;/&nbsp;<time>15年4月2日</time></div></div></li><li data-aid='671207280' data-cpm-sign='' data-inorganic='1' class=' item-regular '><a href='http://yushu.baixing.com/riyongpin/a671207280.html' target='_blank' data-cpc='' class='media-cap '><noscript src='http://img6.baixing.net/b8e52caa85c88cc100303eaef2cb69e9.jpeg_140x140' alt='美妃黛儿刺五加柔润紧致身体乳' class='img'><img src='http://img6.baixing.net/b8e52caa85c88cc100303eaef2cb69e9.jpeg_140x140' alt='美妃黛儿刺五加柔润紧致身体乳'></noscript><span class='figcaption'>2图</span></a><div class='media-body'><div class='media-body-title'><span class='highlight'>59元</span><a href='http://yushu.baixing.com/riyongpin/a671207280.html' target='_blank' class='ad-title'>美妃黛儿刺五加柔润紧致身体乳</a></div><div class='ad-item-detail'>玉树县</div><div class='ad-item-detail'>洗护用品&nbsp;/&nbsp;<time>15年3月24日</time></div></div></li><li data-aid='671209132' data-cpm-sign='' data-inorganic='1' class=' item-regular '><a href='http://yushu.baixing.com/riyongpin/a671209132.html' target='_blank' data-cpc='' class='media-cap '><noscript src='http://img4.baixing.net/6855c38210a4a016a4eb81fd0f880efb.jpeg_140x140' alt='美妃黛儿刺五加紧致活肤多效精华液' class='img'><img src='http://img4.baixing.net/6855c38210a4a016a4eb81fd0f880efb.jpeg_140x140' alt='美妃黛儿刺五加紧致活肤多效精华液'></noscript><span class='figcaption'>2图</span></a><div class='media-body'><div class='media-body-title'><span class='highlight'>168元</span><a href='http://yushu.baixing.com/riyongpin/a671209132.html' target='_blank' class='ad-title'>美妃黛儿刺五加紧致活肤多效精华液</a></div><div class='ad-item-detail'>玉树县</div><div class='ad-item-detail'>其他&nbsp;/&nbsp;<time>15年3月24日</time></div></div></li><li data-aid='671206617' data-cpm-sign='' data-inorganic='1' class=' item-regular '><a href='http://yushu.baixing.com/riyongpin/a671206617.html' target='_blank' data-cpc='' class='media-cap '><noscript src='http://img4.baixing.net/f8f42b538090fe885be1f63a679abbc5.jpeg_140x140' alt='美妃黛儿刺五加紧致活肤柔肤水' class='img'><img src='http://img4.baixing.net/f8f42b538090fe885be1f63a679abbc5.jpeg_140x140' alt='美妃黛儿刺五加紧致活肤柔肤水'></noscript><span class='figcaption'>2图</span></a><div class='media-body'><div class='media-body-title'><span class='highlight'>85元</span><a href='http://yushu.baixing.com/riyongpin/a671206617.html' target='_blank' class='ad-title'>美妃黛儿刺五加紧致活肤柔肤水</a></div><div class='ad-item-detail'>玉树县</div><div class='ad-item-detail'>其他&nbsp;/&nbsp;<time>15年3月24日</time></div></div></li><li data-aid='671169554' data-cpm-sign='' data-inorganic='1' class=' item-regular '><a href='http://yushu.baixing.com/riyongpin/a671169554.html' target='_blank' data-cpc='' class='media-cap '><noscript src='http://img6.baixing.net/ba6c858528a565a70c9e9c2ff72d0150.jpeg_140x140' alt='美妃黛儿刺五加紧致活肤营养霜' class='img'><img src='http://img6.baixing.net/ba6c858528a565a70c9e9c2ff72d0150.jpeg_140x140' alt='美妃黛儿刺五加紧致活肤营养霜'></noscript><span class='figcaption'>2图</span></a><div class='media-body'><div class='media-body-title'><span class='highlight'>115元</span><a href='http://yushu.baixing.com/riyongpin/a671169554.html' target='_blank' class='ad-title'>美妃黛儿刺五加紧致活肤营养霜</a></div><div class='ad-item-detail'>玉树县</div><div class='ad-item-detail'>其他&nbsp;/&nbsp;<time>15年3月24日</time></div></div></li><li data-aid='671169524' data-cpm-sign='' data-inorganic='1' class=' item-regular '><a href='http://yushu.baixing.com/riyongpin/a671169524.html' target='_blank' data-cpc='' class='media-cap '><noscript src='http://img6.baixing.net/bff3500e99749fcb320e32af6a1a55a0.jpeg_140x140' alt='美妃黛儿刺五加紧致活肤精华乳' class='img'><img src='http://img6.baixing.net/bff3500e99749fcb320e32af6a1a55a0.jpeg_140x140' alt='美妃黛儿刺五加紧致活肤精华乳'></noscript><span class='figcaption'>2图</span></a><div class='media-body'><div class='media-body-title'><span class='highlight'>98元</span><a href='http://yushu.baixing.com/riyongpin/a671169524.html' target='_blank' class='ad-title'>美妃黛儿刺五加紧致活肤精华乳</a></div><div class='ad-item-detail'>玉树县</div><div class='ad-item-detail'>其他&nbsp;/&nbsp;<time>15年3月24日</time></div></div></li><li data-aid='578897198' data-cpm-sign='' data-inorganic='1' class=' item-regular '><a href='http://yushu.baixing.com/riyongpin/a578897198.html' target='_blank' data-cpc='' class='media-cap '><img src='//s.baixing.net/img/refashion/default_ad_img.png' alt='浪漫爱心抱枕-想换30元'></a><div class='media-body'><div class='media-body-title'><span class='highlight'>30元</span><a href='http://yushu.baixing.com/riyongpin/a578897198.html' target='_blank' class='ad-title'>浪漫爱心抱枕-想换30元</a></div><div class='ad-item-detail'>玉树县</div><div class='ad-item-detail'>其他&nbsp;/&nbsp;<time>15年1月8日</time></div></div></li><li data-aid='516220928' data-cpm-sign='' data-inorganic='1' class=' item-regular '><a href='http://yushu.baixing.com/riyongpin/a516220928.html' target='_blank' data-cpc='' class='media-cap '><noscript src='http://img5.baixing.net/750bf999ef0ba12bc09788d56b68ddd7.jpeg_140x140' alt='纯中药肚脐贴' class='img'><img src='http://img5.baixing.net/750bf999ef0ba12bc09788d56b68ddd7.jpeg_140x140' alt='纯中药肚脐贴'></noscript><span class='figcaption'>8图</span></a><div class='media-body'><div class='media-body-title'><span class='highlight'>100元元</span><a href='http://yushu.baixing.com/riyongpin/a516220928.html' target='_blank' class='ad-title'>纯中药肚脐贴</a></div><div class='ad-item-detail'></div><div class='ad-item-detail'><time>14年11月27日</time></div></div></li><li data-aid='497112498' data-cpm-sign='' data-inorganic='1' class=' item-regular '><a href='http://yushu.baixing.com/riyongpin/a497112498.html' target='_blank' data-cpc='' class='media-cap '><img src='//s.baixing.net/img/refashion/default_ad_img.png' alt='全国免费送货 胸贴 丰胸 美国联邦真优美'></a><div class='media-body'><div class='media-body-title'><span class='highlight'>320元</span><a href='http://yushu.baixing.com/riyongpin/a497112498.html' target='_blank' class='ad-title'>全国免费送货 胸贴 丰胸 美国联邦真优美</a></div><div class='ad-item-detail'></div><div class='ad-item-detail'><time>14年11月14日</time></div></div></li><li data-aid='494102731' data-cpm-sign='' data-inorganic='1' class=' item-regular '><a href='http://yushu.baixing.com/riyongpin/a494102731.html' target='_blank' data-cpc='' class='media-cap '><img src='//s.baixing.net/img/refashion/default_ad_img.png' alt='每天健走1小时一周减重2KG'></a><div class='media-body'><div class='media-body-title'><span class='highlight'>0元元</span><a href='http://yushu.baixing.com/riyongpin/a494102731.html' target='_blank' class='ad-title'>每天健走1小时一周减重2KG</a></div><div class='ad-item-detail'></div><div class='ad-item-detail'>洗护用品&nbsp;/&nbsp;<time>14年11月13日</time></div></div></li><li data-aid='494392047' data-cpm-sign='' data-inorganic='1' class=' item-regular '><a href='http://yushu.baixing.com/riyongpin/a494392047.html' target='_blank' data-cpc='' class='media-cap '><img src='//s.baixing.net/img/refashion/default_ad_img.png' alt='儿童推车，坐车，睡车'></a><div class='media-body'><div class='media-body-title'><span class='highlight'>100 元参考价格：50-49…</span><a href='http://yushu.baixing.com/riyongpin/a494392047.html' target='_blank' class='ad-title'>儿童推车，坐车，睡车</a></div><div class='ad-item-detail'></div><div class='ad-item-detail'><time>14年11月13日</time></div></div></li><li data-aid='494102726' data-cpm-sign='' data-inorganic='1' class=' item-regular '><a href='http://yushu.baixing.com/riyongpin/a494102726.html' target='_blank' data-cpc='' class='media-cap '><img src='//s.baixing.net/img/refashion/default_ad_img.png' alt='白色16Gihone4成色新价格可议'></a><div class='media-body'><div class='media-body-title'><span class='highlight'>2391 元元</span><a href='http://yushu.baixing.com/riyongpin/a494102726.html' target='_blank' class='ad-title'>白色16Gihone4成色新价格可议</a></div><div class='ad-item-detail'></div><div class='ad-item-detail'><time>14年11月13日</time></div></div></li><li data-aid='494102730' data-cpm-sign='' data-inorganic='1' class=' item-regular '><a href='http://yushu.baixing.com/riyongpin/a494102730.html' target='_blank' data-cpc='' class='media-cap '><img src='//s.baixing.net/img/refashion/default_ad_img.png' alt='丰胸 丰乳美国联邦真优美 怎么样'></a><div class='media-body'><div class='media-body-title'><span class='highlight'>220 元元</span><a href='http://yushu.baixing.com/riyongpin/a494102730.html' target='_blank' class='ad-title'>丰胸 丰乳美国联邦真优美 怎么样</a></div><div class='ad-item-detail'></div><div class='ad-item-detail'><time>14年11月13日</time></div></div></li><li data-aid='439947434' data-cpm-sign='' data-inorganic='1' class=' item-regular '><a href='http://yushu.baixing.com/riyongpin/a439947434.html' target='_blank' data-cpc='' class='media-cap '><img src='//s.baixing.net/img/refashion/default_ad_img.png' alt='9成新索尼st25i'></a><div class='media-body'><div class='media-body-title'><span class='highlight'>1300元</span><a href='http://yushu.baixing.com/riyongpin/a439947434.html' target='_blank' class='ad-title'>9成新索尼st25i</a></div><div class='ad-item-detail'>囊谦</div><div class='ad-item-detail'><time>14年9月28日</time></div></div></li><li data-aid='439948330' data-cpm-sign='' data-inorganic='1' class=' item-regular '><a href='http://yushu.baixing.com/riyongpin/a439948330.html' target='_blank' data-cpc='' class='media-cap '><img src='//s.baixing.net/img/refashion/default_ad_img.png' alt='周末玉树临峰修理小家电'></a><div class='media-body'><div class='media-body-title'><span class='highlight'>10元</span><a href='http://yushu.baixing.com/riyongpin/a439948330.html' target='_blank' class='ad-title'>周末玉树临峰修理小家电</a></div><div class='ad-item-detail'>玉树县</div><div class='ad-item-detail'><time>14年9月28日</time></div></div></li></ul><div id='suggested-list'><h3>周边城市或地区：<a href='http://changdu.baixing.com/riyongpin/'>昌都</a><a href='http://ganzi.baixing.com/riyongpin/'>甘孜</a><a href='http://guoluo.baixing.com/riyongpin/'>果洛</a><a href='http://hainan.baixing.com/riyongpin/'>海南</a><a href='http://haibei.baixing.com/riyongpin/'>海北</a></h3><ul class='list-ad-items'><li data-aid='765705012' data-cpm-sign='' data-inorganic='1' class=' item-regular '><a href='http://hainan.baixing.com/riyongpin/a765705012.html?sgs=extra' target='_blank' data-cpc='' class='media-cap '><img src='http://img7.baixing.net/FmLBD46Bm77nmvZpBYtoIWWLuZWg_140x140' alt='真空大吸力挂勾 可挂14斤'><span class='figcaption'>1图</span></a><div class='media-body'><div class='media-body-title'><span class='highlight'>2元</span><a href='http://hainan.baixing.com/riyongpin/a765705012.html?sgs=extra' target='_blank' class='ad-title'>真空大吸力挂勾 可挂14斤</a></div><div class='ad-item-detail'>海南</div><div class='ad-item-detail'>床上用品&nbsp;/&nbsp;<time>15年6月16日</time></div></div></li></ul></div><div style="padding-left: 15px"><script type="text/javascript" src="//script-bd.baixing.net/gs3a1ecf96ffcdf130db1463c6a3fa79ed54ebc50d35e57fec1a25.js"></script></div><section class='listing-pager-section'><ul class='list-pagination'><li class='active'><span>1</span></li></ul><div style="background-color:#FFF;padding: 10px 0;border:solid 1px #DDD;margin: 5px 0">
+<script type="text/javascript" src="//script-bd.baixing.net/ea3a1ecf96f3cef238db1463c6a3fa79ed54ebc50d35e57fec1a25.js"></script></div></section></div></section><section><section class='foot-links-box'><div id='foot-links'><table><tr><th>玉树家居日用相关专题</th><td id='juhe'><a href='http://yushu.baixing.com/jh_%E9%80%81qq%E5%8F%B7/' target='_blank' class='selected'>玉树送qq号</a><a href='http://yushu.baixing.com/jh_%E6%B0%B4%E5%A3%B6%E7%94%B5/' target='_blank' class='selected'>玉树水壶电</a><a href='http://yushu.baixing.com/jh_%E7%94%B5%E6%B0%B4%E5%A3%B6%E4%BB%B7%E6%A0%BC/' target='_blank' class='selected'>玉树电水壶价格</a><a href='http://yushu.baixing.com/jh_%E5%B1%95%E7%A4%BA%E5%B1%95%E6%9F%9C/' target='_blank' class='selected'>玉树展示展柜</a><a href='http://yushu.baixing.com/jh_%E7%94%B5%E8%A7%86%E9%94%80%E5%94%AE/' target='_blank' class='selected'>玉树电视销售</a><a href='http://yushu.baixing.com/jh_%E6%97%A5%E7%AB%8B%20%E5%AE%98%E7%BD%91/' target='_blank' class='selected'>玉树日立 官网</a><a href='http://yushu.baixing.com/jh_%E6%97%A5%E7%AB%8B%E6%9C%BA%E5%99%A8/' target='_blank' class='selected'>玉树日立机器</a><a href='http://yushu.baixing.com/jh_%E6%97%A5%E7%AB%8B/' target='_blank' class='selected'>玉树日立</a><a href='http://yushu.baixing.com/jh_%E7%8E%A9%E5%85%B7%E8%BD%AC%E8%AE%A9/' target='_blank' class='selected'>玉树玩具转让</a><a href='http://yushu.baixing.com/jh_%E6%A1%8C%E6%A1%8C/' target='_blank' class='selected'>玉树桌桌</a><a href='http://yushu.baixing.com/jh_%E7%BE%8E%E5%AE%B9%E7%BE%8E%E5%8F%91%E7%BE%8E%E5%AE%B9/' target='_blank' class='selected'>玉树美容美发美容</a><a href='http://yushu.baixing.com/jh_%E7%BB%B4%E4%BF%AE%E6%9A%96%E6%B0%94/' target='_blank' class='selected'>玉树维修暖气</a><a href='http://yushu.baixing.com/jh_%E7%87%83%E6%B0%94%E7%81%B6%20%E7%BB%B4%E4%BF%AE%E7%94%B5%E8%AF%9D/' target='_blank' class='selected'>玉树燃气灶 维修电话</a><a href='http://yushu.baixing.com/jh_%E4%BF%AE%E7%87%83%E6%B0%94%E7%81%B6/' target='_blank' class='selected'>玉树修燃气灶</a><a href='http://yushu.baixing.com/jh_%E7%85%A4%E6%B0%94%E7%81%B6%20%E7%BB%B4%E4%BF%AE/' target='_blank' class='selected'>玉树煤气灶 维修</a><a href='http://yushu.baixing.com/jh_%E7%85%A4%E6%B0%94%E7%81%B6%E7%9A%84%E7%BB%B4%E4%BF%AE/' target='_blank' class='selected'>玉树煤气灶的维修</a><a href='http://yushu.baixing.com/jh_%E5%A4%AA%E9%98%B3%E8%83%BD%20%E7%BB%B4%E4%BF%AE/' target='_blank' class='selected'>玉树太阳能 维修</a><a href='http://yushu.baixing.com/jh_%E4%BF%AE%E7%83%AD%E6%B0%B4%E5%99%A8%E7%BB%B4%E4%BF%AE/' target='_blank' class='selected'>玉树修热水器维修</a><a href='http://yushu.baixing.com/jh_%E4%B9%B0%E8%BD%A6%E7%BD%91%E7%AB%99/' target='_blank' class='selected'>玉树买车网站</a><a href='http://yushu.baixing.com/jh_%E9%80%81%E4%B9%A6%E7%94%B5%E8%AF%9D/' target='_blank' class='selected'>玉树送书电话</a><a href='http://yushu.baixing.com/jh_%E9%80%81%E4%BA%86/' target='_blank' class='selected'>玉树送了</a><a href='http://yushu.baixing.com/jh_%E9%80%81%E5%8D%A1%E5%8C%85/' target='_blank' class='selected'>玉树送卡包</a><a href='http://yushu.baixing.com/jh_%E8%B5%A0%E9%80%81%E6%89%8B%E6%9C%BA/' target='_blank' class='selected'>玉树赠送手机</a><a href='http://yushu.baixing.com/jh_%E9%80%81%E5%8F%B7/' target='_blank' class='selected'>玉树送号</a><a href='http://yushu.baixing.com/jh_%E5%92%96%E5%95%A1%E5%92%96%E5%95%A1/' target='_blank' class='selected'>玉树咖啡咖啡</a><a href='http://yushu.baixing.com/jh_%E6%B0%B4%E5%A3%B6%E7%9A%84%E4%BB%B7%E6%A0%BC/' target='_blank' class='selected'>玉树水壶的价格</a><a href='http://yushu.baixing.com/jh_%E8%B5%9B%E8%BD%A6%E6%B8%B8%E6%88%8F%E6%9C%BA/' target='_blank' class='selected'>玉树赛车游戏机</a><a href='http://yushu.baixing.com/jh_%E6%B8%B8%E6%88%8F%E6%9C%BA%E5%93%81%E7%89%8C/' target='_blank' class='selected'>玉树游戏机品牌</a><a href='http://yushu.baixing.com/jh_%E5%AD%A6%E6%AD%A5%E8%BD%A6%E7%9A%84/' target='_blank' class='selected'>玉树学步车的</a><a href='http://yushu.baixing.com/jh_qq%E5%85%8D%E8%B4%B9%E9%80%81%E5%8F%B7/' target='_blank' class='selected'>玉树qq免费送号</a><a href='http://yushu.baixing.com/jh_qq%E5%8F%B7%E5%85%8D%E8%B4%B9%E9%80%81/' target='_blank' class='selected'>玉树qq号免费送</a><a href='http://yushu.baixing.com/jh_%E5%AE%B6%E7%94%B5%E7%BB%B4%E4%BF%AE%E5%AE%B6%E7%94%B5%E7%BB%B4%E4%BF%AE/' target='_blank' class='selected'>玉树家电维修家电维修</a><a href='http://yushu.baixing.com/jh_%E7%83%AD%E6%B0%B4%E5%99%A8%E4%B8%93%E4%B8%9A%E7%BB%B4%E4%BF%AE/' target='_blank' class='selected'>玉树热水器专业维修</a><a href='http://yushu.baixing.com/jh_%E6%8E%A8%E8%BD%A6%E6%8E%A8%E8%BD%A6/' target='_blank' class='selected'>玉树推车推车</a><a href='http://yushu.baixing.com/jh_%E9%98%B2%E4%B9%B3%E5%9E%AB/' target='_blank' class='selected'>玉树防乳垫</a><a href='http://yushu.baixing.com/jh_%E9%98%B2%E4%B9%B3%E6%BA%A2%E5%9E%AB/' target='_blank' class='selected'>玉树防乳溢垫</a><a href='http://yushu.baixing.com/jh_%E7%94%A8%E9%98%B2%E6%BA%A2%E4%B9%B3%E5%9E%AB/' target='_blank' class='selected'>玉树用防溢乳垫</a><a href='http://yushu.baixing.com/jh_%E9%98%B2%E6%BA%A2%E4%B9%B3%E5%9E%AB/' target='_blank' class='selected'>玉树防溢乳垫</a><a href='http://yushu.baixing.com/jh_%E5%9E%AB%E4%B9%B3/' target='_blank' class='selected'>玉树垫乳</a><a href='http://yushu.baixing.com/jh_%E4%BF%AE%E7%87%83%E6%B0%94%E7%81%B6%E7%94%B5%E8%AF%9D/' target='_blank' class='selected'>玉树修燃气灶电话</a><a href='http://yushu.baixing.com/jh_%E5%93%81%E7%89%8C%E7%87%83%E6%B0%94%E7%81%B6/' target='_blank' class='selected'>玉树品牌燃气灶</a><a href='http://yushu.baixing.com/jh_%E6%80%8E%E4%B9%88%E9%80%81%E5%AE%A0%E7%89%A9/' target='_blank' class='selected'>玉树怎么送宠物</a><a href='http://yushu.baixing.com/jh_%E5%85%A8%E6%96%B0%E7%8E%A9%E5%85%B7/' target='_blank' class='selected'>玉树全新玩具</a><a href='http://yushu.baixing.com/jh_%E5%85%8D%E8%B4%B9%E9%80%81qq%E5%8F%B7/' target='_blank' class='selected'>玉树免费送qq号</a><a href='http://yushu.baixing.com/jh_%E7%83%AD%E6%B0%B4%E5%99%A8%E7%BB%B4%E4%BF%AE%E5%85%AC%E5%8F%B8/' target='_blank' class='selected'>玉树热水器维修公司</a><a href='http://yushu.baixing.com/jh_%E6%91%A9%E6%89%98%E8%BD%A6%E5%93%81%E7%89%8C/' target='_blank' class='selected'>玉树摩托车品牌</a><a href='http://yushu.baixing.com/jh_%E6%91%A9%E6%89%98%E8%BD%A6%E5%8F%8A%E9%85%8D%E4%BB%B6/' target='_blank' class='selected'>玉树摩托车及配件</a><a href='http://yushu.baixing.com/jh_200%E6%91%A9%E6%89%98%E8%BD%A6/' target='_blank' class='selected'>玉树200摩托车</a><a href='http://yushu.baixing.com/jh_%E8%B4%AD%E4%B9%B0%E6%91%A9%E6%89%98%E8%BD%A6/' target='_blank' class='selected'>玉树购买摩托车</a><a href='http://yushu.baixing.com/jh_%E5%A9%B4%E5%84%BF%E6%8E%A8%E8%BD%A6/' target='_blank' class='selected'>玉树婴儿推车</a><a href='/jh_riyongpin/?parent=root' target='_blank' class='selected'>更多家居日用专题</a><a href='/cwjh/' target='_blank' class='selected'>优质信息</a></td></tr><tr><th>玉树家居日用类目介绍</th><td id='intro'><div>百姓网玉树日用品频道是玉树本地最大的二手日用品转让与求购信息免费查询和发布平台，包括等信息，是广大网友网上寻找玉树日用品，日用品批发公司，日用品批发交易市场信息的首选网站。</div></td></tr><tr><th>玉树家居日用转让</th><td id='ershouType'><a href='/riyongpin/m178495/' target='_blank' class='selected'>洗护用品转让</a><a href='/riyongpin/m178599/' target='_blank' class='selected'>彩妆转让</a><a href='/riyongpin/m178564/' target='_blank' class='selected'>香水转让</a><a href='/riyongpin/m178601/' target='_blank' class='selected'>护肤品转让</a><a href='/riyongpin/m178606/' target='_blank' class='selected'>保健器械转让</a><a href='/riyongpin/m178615/' target='_blank' class='selected'>床上用品转让</a><a href='/riyongpin/m178512/' target='_blank' class='selected'>纤体/美体转让</a><a href='/riyongpin/m178499/' target='_blank' class='selected'>美甲用品转让</a><a href='/riyongpin/m178480/' target='_blank' class='selected'>灯具照明转让</a><a href='/riyongpin/m178481/' target='_blank' class='selected'>洗衣熨烫转让</a><a href='/riyongpin/m178482/' target='_blank' class='selected'>装饰摆设转让</a><a href='/riyongpin/m18629/' target='_blank' class='selected'>厨卫用品转让</a><a href='/riyongpin/m177841/' target='_blank' class='selected'>布艺饰品转让</a></td></tr><tr><th>玉树家居日用热门城市</th><td id='hotCities'><a href='http://shanghai.baixing.com/riyongpin/' target='_blank' class='selected'>上海二手日常用品转让</a><a href='http://beijing.baixing.com/riyongpin/' target='_blank' class='selected'>北京二手日常用品转让</a><a href='http://guangzhou.baixing.com/riyongpin/' target='_blank' class='selected'>广州二手日常用品转让</a><a href='http://suzhou.baixing.com/riyongpin/' target='_blank' class='selected'>苏州二手日常用品转让</a><a href='http://shenzhen.baixing.com/riyongpin/' target='_blank' class='selected'>深圳二手日常用品转让</a><a href='http://shenyang.baixing.com/riyongpin/' target='_blank' class='selected'>沈阳二手日常用品转让</a><a href='http://zhengzhou.baixing.com/riyongpin/' target='_blank' class='selected'>郑州二手日常用品转让</a><a href='http://wuxi.baixing.com/riyongpin/' target='_blank' class='selected'>无锡二手日常用品转让</a><a href='http://dalian.baixing.com/riyongpin/' target='_blank' class='selected'>大连二手日常用品转让</a><a href='http://dongguan.baixing.com/riyongpin/' target='_blank' class='selected'>东莞二手日常用品转让</a><a href='http://hangzhou.baixing.com/riyongpin/' target='_blank' class='selected'>杭州二手日常用品转让</a><a href='http://xian.baixing.com/riyongpin/' target='_blank' class='selected'>西安二手日常用品转让</a><a href='http://nanning.baixing.com/riyongpin/' target='_blank' class='selected'>南宁二手日常用品转让</a><a href='http://chengdu.baixing.com/riyongpin/' target='_blank' class='selected'>成都二手日常用品转让</a><a href='http://qingdao.baixing.com/riyongpin/' target='_blank' class='selected'>青岛二手日常用品转让</a><a href='http://wuhan.baixing.com/riyongpin/' target='_blank' class='selected'>武汉二手日常用品转让</a><a href='http://nanjing.baixing.com/riyongpin/' target='_blank' class='selected'>南京二手日常用品转让</a><a href='http://jinan.baixing.com/riyongpin/' target='_blank' class='selected'>济南二手日常用品转让</a><a href='http://shijiazhuang.baixing.com/riyongpin/' target='_blank' class='selected'>石家庄二手日常用品转让</a><a href='http://tianjin.baixing.com/riyongpin/' target='_blank' class='selected'>天津二手日常用品转让</a><a href='http://ningbo.baixing.com/riyongpin/' target='_blank' class='selected'>宁波二手日常用品转让</a><a href='http://hefei.baixing.com/riyongpin/' target='_blank' class='selected'>合肥二手日常用品转让</a><a href='http://chongqing.baixing.com/riyongpin/' target='_blank' class='selected'>重庆二手日常用品转让</a><a href='http://changchun.baixing.com/riyongpin/' target='_blank' class='selected'>长春二手日常用品转让</a><a href='http://xiamen.baixing.com/riyongpin/' target='_blank' class='selected'>厦门二手日常用品转让</a><a href='http://fuzhou.baixing.com/riyongpin/' target='_blank' class='selected'>福州二手日常用品转让</a><a href='http://changsha.baixing.com/riyongpin/' target='_blank' class='selected'>长沙二手日常用品转让</a><a href='http://haerbin.baixing.com/riyongpin/' target='_blank' class='selected'>哈尔滨二手日常用品转让</a><a href='http://zhuhai.baixing.com/riyongpin/' target='_blank' class='selected'>珠海二手日常用品转让</a><a href='http://taiyuan.baixing.com/riyongpin/' target='_blank' class='selected'>太原二手日常用品转让</a><a href='http://shantou.baixing.com/riyongpin/' target='_blank' class='selected'>汕头二手日常用品转让</a><a href='http://kunming.baixing.com/riyongpin/' target='_blank' class='selected'>昆明二手日常用品转让</a><a href='http://wulumuqi.baixing.com/riyongpin/' target='_blank' class='selected'>乌鲁木齐二手日常用品转让</a><a href='http://lanzhou.baixing.com/riyongpin/' target='_blank' class='selected'>兰州二手日常用品转让</a><a href='http://nanchang.baixing.com/riyongpin/' target='_blank' class='selected'>南昌二手日常用品转让</a><a href='http://guiyang.baixing.com/riyongpin/' target='_blank' class='selected'>贵阳二手日常用品转让</a><a href='http://haikou.baixing.com/riyongpin/' target='_blank' class='selected'>海口二手日常用品转让</a><a href='http://huhehaote.baixing.com/riyongpin/' target='_blank' class='selected'>呼和浩特二手日常用品转让</a></td></tr><tr><th>玉树家居日用周边城市</th><td id='around'><a href='http://changdu.baixing.com/riyongpin/' target='_blank' class='selected'>昌都二手日常用品转让</a><a href='http://ganzi.baixing.com/riyongpin/' target='_blank' class='selected'>甘孜二手日常用品转让</a><a href='http://guoluo.baixing.com/riyongpin/' target='_blank' class='selected'>果洛二手日常用品转让</a><a href='http://hainan.baixing.com/riyongpin/' target='_blank' class='selected'>海南二手日常用品转让</a><a href='http://haibei.baixing.com/riyongpin/' target='_blank' class='selected'>海北二手日常用品转让</a><a href='http://www.baixing.com/riyongpin/' target='_blank' class='selected'>二手日常用品转让</a></td></tr><tr><th>玉树优质信息</th><td id='hqErshou'><a href='/hq_shouji_TCLJ730U/' target='_blank' class='selected'>TCL J730U</a><a href='/hq_shouji_TCLJ920/' target='_blank' class='selected'>TCL J920</a><a href='/hq_shouji_TCLJ926T/' target='_blank' class='selected'>TCL J926T</a><a href='/hq_shouji_TCLJ928/' target='_blank' class='selected'>TCL J928</a><a href='/hq_shouji_TCLJ929L/' target='_blank' class='selected'>TCL J929L</a><a href='/hq_shouji_TCLJ936D/' target='_blank' class='selected'>TCL J936D</a><a href='/hq_shouji_TCLJ938M/' target='_blank' class='selected'>TCL J938M</a><a href='/hq_shouji_TCLP301C/' target='_blank' class='selected'>TCL P301C</a><a href='/hq_shouji_TCLP301M/' target='_blank' class='selected'>TCL P301M</a><a href='/hq_shouji_TCLP306C/' target='_blank' class='selected'>TCL P306C</a><a href='/hq_shouji_TCLP308Ldianxin4G/' target='_blank' class='selected'>TCL P308L 电信4G</a><a href='/hq_shouji_TCLP308M/' target='_blank' class='selected'>TCL P308M</a><a href='/hq_shouji_TCLP316L/' target='_blank' class='selected'>TCL P316L</a><a href='/hq_shouji_TCLP331M/' target='_blank' class='selected'>TCL P331M</a><a href='/hq_shouji_TCLP332U/' target='_blank' class='selected'>TCL P332U</a><a href='/hq_shouji_TCLP335M/' target='_blank' class='selected'>TCL P335M</a><a href='/hq_shouji_TCLP360W/' target='_blank' class='selected'>TCL P360W</a><a href='/hq_shouji_TCLP500M/' target='_blank' class='selected'>TCL P500M</a><a href='/hq_shouji_TCLP501M/' target='_blank' class='selected'>TCL P501M</a><a href='/hq_shouji_TCLP502U/' target='_blank' class='selected'>TCL P502U</a><a href='/hq_shouji_TCLP516L/' target='_blank' class='selected'>TCL P516L</a><a href='/hq_shouji_TCLP518L/' target='_blank' class='selected'>TCL P518L</a><a href='/hq_shouji_TCLP520L/' target='_blank' class='selected'>TCL P520L</a><a href='/hq_shouji_TCLP550U/' target='_blank' class='selected'>TCL P550U</a><a href='/hq_shouji_TCLP560M/' target='_blank' class='selected'>TCL P560M</a><a href='/hq_shouji_TCLP561U/' target='_blank' class='selected'>TCL P561U</a><a href='/hq_shouji_TCLP588L/' target='_blank' class='selected'>TCL P588L</a><a href='/hq_shouji_TCLP618L/' target='_blank' class='selected'>TCL P618L</a><a href='/hq_shouji_TCLP620M/' target='_blank' class='selected'>TCL P620M</a><a href='/hq_shouji_TCLP631M/' target='_blank' class='selected'>TCL P631M</a><a href='/hq_shouji_TCLP688L/' target='_blank' class='selected'>TCL P688L</a><a href='/hq_shouji_TCLP689L/' target='_blank' class='selected'>TCL P689L</a><a href='/hq_shouji_TCLP728M/' target='_blank' class='selected'>TCL P728M</a><a href='/hq_shouji_TCLS720/' target='_blank' class='selected'>TCL S720</a><a href='/hq_shouji_TCLS720T/' target='_blank' class='selected'>TCL S720T</a><a href='/hq_shouji_TCLS725T/' target='_blank' class='selected'>TCL S725T</a><a href='/hq_shouji_TCLS830U/' target='_blank' class='selected'>TCL S830U</a><a href='/hq_shouji_TCLS838M/' target='_blank' class='selected'>TCL S838M</a><a href='/hq_shouji_TCLS850/' target='_blank' class='selected'>TCL S850</a><a href='/hq_shouji_TCLS850L/' target='_blank' class='selected'>TCL S850L</a><a href='/hq_shouji_TCLS860/' target='_blank' class='selected'>TCL S860</a><a href='/hq_shouji_TCLS900/' target='_blank' class='selected'>TCL S900</a><a href='/hq_shouji_TCLS950/' target='_blank' class='selected'>TCL S950</a><a href='/hq_shouji_TCLS950T/' target='_blank' class='selected'>TCL S950T</a><a href='/hq_shouji_TCLS960/' target='_blank' class='selected'>TCL S960</a><a href='/hq_shouji_TCLS960T/' target='_blank' class='selected'>TCL S960T</a><a href='/hq_shouji_TCLU699/' target='_blank' class='selected'>TCL U699</a><a href='/hq_shouji_TCLY710/' target='_blank' class='selected'>TCL Y710</a><a href='/hq_shouji_TCLY910t/' target='_blank' class='selected'>TCL Y910t</a><a href='/hq_shouji_TCLf210/' target='_blank' class='selected'>TCL f210</a></td></tr><tr><th>移动触屏版</th><td id='mobile'><a href='http://yushu.baixing.com/m/riyongpin/' target='_blank' class='selected'>玉树二手日常用品转让</a></td></tr></table></div></section></section><style> .tip-container {  margin-bottom: 30px; } .tip {  margin-left: 75px;  font-size: 12px;  color: grey; } .red {  color: red; } #feedback-refashion {  position: relative;  margin-left: 510px;  margin-bottom: -30px; }</style><link rel="stylesheet" href="//s.baixing.net/combine/css/d/refashion-listing/index.bfee7f86.css,/css/module/jquery-ui-1.9.1.custom.d3ae8ca1.css" onerror="tracker.resErr(this)"><div id='hint' class='modal fade'><div class='modal-dialog'><div class='modal-content'><div class='modal-header'><button type='button' data-dismiss='modal' aria-label='Close' class='close'><span aria-hidden>&times;</span></button><h4 class='modal-title'>提示</h4></div><div class='modal-body'><img alt='担保交易提示' src='//file.baixing.net/201608/349321fb8d920677ac6feec67dd41363.png' width='100%'></div><div class='tip-container'><div class='p-line tip'>*请保证在百姓网平台上进行支付，以便让百姓网保证您的交易安全</div><div class='p-line tip'>关于百姓网“担保交易”的更多问题，<span><a href='//www.baixing.com/help/feed?id=fd53263' class='red'>点击查看</a></span></div></div></div></div></div><script> _defer.push(function () {  $('.tag-gtrade').on('click', function () {   $('#hint').modal('show');  }); })</script><footer><div><a href='//www.baixing.com/a/bangui/' target='_blank' rel='nofollow'>百姓网公约</a><i class='sep'>|</i><a href='//www.baixing.com/ra/pay/?src=footer' target='_blank' rel='nofollow'>付费推广</a><i class='sep'>|</i><a href='//www.baixing.com/a/company?src=bottom' target='_blank'>客户合作</a><i class='sep'>|</i><a href='//www.baixing.com/xiangyang/post/daoyong/?src=footer' target='_blank' rel='nofollow'>号码被冒用</a><i class='sep'>|</i><a href='//www.baixing.com/help/' target='_blank' data-toggle='tracker' data-source='footer'>联系我们</a><i class='sep'>|</i><a href='http://api.baixing.com.cn/' target='_blank' rel='nofollow'>开放API</a><i class='sep'>|</i><a href='//www.baixing.com/mkt/agents/' target='_blank' rel='nofollow'>诚招代理商</a><i class='sep'>|</i><a href='//www.baixing.com/a/bdad/' target='_blank'>品牌网络推广</a><i class='sep'>|</i><a href='//www.baixing.com/help/feed?id=fd53284' target='_blank'>诚信建设</a><i class='sep'>|</i><a href='//www.baixing.com/v/mobile' rel='nofollow'>手机版</a></div><div><span class='copyright'>&copy; 2017 百姓网股份有限公司 (上海市广元西路55号浩然高科技大厦1808室) 客服电话：400-036-3650或021-61300110（周一至周日，9:00-18:00）</span></div><div><a target='_blank' rel='nofollow' href='http://shwg.dianping.com/index.html'><img height='30' alt='网购大家评' src='http://file.baixing.net/201604/8fa27c5945f2ec31155a36e4a03cc841.png'></a><a target='_blank' rel='nofollow' href='http://www.shjbzx.cn'><img height='30' alt='上海市互联网举报平台' src='//s.baixing.net/d/refashion-home/images/icon_footer03.jpg'></a><a target='_blank' rel='nofollow' href='http://www.sgs.gov.cn/lz/licenseLink.do?method=licenceView&entyId=20111025095406671'><img width='30' alt='上海工商' src='//s.baixing.net/d/refashion-home/images/icon_footer02.png'></a><a target='_blank' rel='nofollow' href='http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31010402000116'><img height='30' alt='网络社会征信网' src='//s.baixing.net/d/refashion-home/images/icon_footer01.png'><span class='beian'>沪公网安备31010402000116号</span></a><span class='at-haojing'>5&nbsp;G:23&nbsp;GM:40</span></div></footer><div id='sidebar-buttons'><a id='weixin-qrcode-login' href='#' title='手机百姓'><i class='icon-side-qrscan'></i></a><a id='feedback-button' href='#' title='我要反馈' class='feedback'><i class='icon-side-feedback'></i></a><a id='back-to-top' href='#' title='返回顶部'><i class='icon-arrow-up'></i></a><div class='qrcode-login-dialog in left fade'><img src='//file.baixing.net/201607/5f583b56bc0d435f0f67c8e67d0a8a96.png'><img src='//file.baixing.net/201607/02b008f4f9a924687e129852191867e4.png'></div><a id='chat-button' href='#' title='系统消息' class='chat-button'><i class='icon-tieba'></i></a></div><div id='feedback-refashion'></div><script id='user-3rd-tag'> window.__is3rdUser = ""; </script><script src="//s.baixing.net/combine/js/d/refashion-libs.min.3f4424c3.js,/d/refashion-common/index.re.2d4b4af4.js,/app/convert/app-download.web.17be6ff0.js,/js/module/banner-track.c1cd96f7.js" onerror="tracker.resErr(this)" crossorigin></script><!--[if (gte IE 9)|!(IE)]><!--><script src="//s.baixing.net/combine/js/js/global/easyXDM.min.f0549ee3.js,/js/module/rongcloud/chat-host.481066e4.js" onerror="tracker.resErr(this)" crossorigin></script><!--<![endif]--><script> window.__isSuperMan = ""; window.__city = "玉树"; </script><script src="//s.baixing.net/combine/js/js/module/jquery-ui-1.9.1.custom.50550ec4.js,/d/refashion-listing/index.re.6e238027.js" onerror="tracker.resErr(this)"></script><div id='xiangyang-feedback-modal' role='dialog' tabindex='-1' class='modal feedback-modal'><div class='modal-dialog'><div class='modal-content'><div class='modal-header'><button type='button' data-dismiss='modal' aria-label='Close' class='close'><span aria-hidden>×</span></button><h4 class='modal-title'>反馈建议</h4></div><div class='modal-body'><form novalidate><span id='desc'></span><input type='hidden' name='labels' value='helpcenter'><div class='p-line'></div><div class='p-line'><label class='p-label'>描述：</label><span class='p-value'><textarea type='text' maxlength='500' name='post[content]' required='required' data-parent='.p-line' value='' placeholder='请尽可能详细地输入您的问题，我们将尽快帮您解决。' style='overflow: hidden; word-wrap: break-word; resize: none; width: 400px;' class='input input-5'></textarea><br><span style='padding-left:0;' class='p-error-empty'>请填写描述</span></span></div><div class='p-line'><label class='p-label'>手机号：</label><span class='p-value'><input name='post[mobile]' maxlength='11' required='required' data-parent='.p-line' type='mobile' value='' class='input'><input id='feedback_ad' name='ad' type='hidden' value=''><input id='feedback_type' name='type' type='hidden' value=''><input id='feedback_bangui' name='bangui' type='hidden' value=''><input id='feedback_source' name='source' type='hidden' value=''><input id='feedback_survey' name='survey_fid' type='hidden' value=''><span class='p-error'>请填写手机号</span><span class='p-error-empty'>请填写手机号</span></span></div><div class='p-line'><label class='p-label'>上传图片：</label><span id='feedback_picture' class='p-value'></span></div><div class='p-line'><label class='p-label'></label><span class='p-value'><input type='submit' value='提交反馈' class='button'><a href='/PublicReview/?src=feedback' target='_blank' class='public-review link'>邀请您参加大众评审</a></span></div></form></div></div></div></div><script> var imageConfig = {"uploadUrl":"http:\/\/v0.api.upyun.com\/bximg\/","uploadParams":{"policy":"eyJidWNrZXQiOiJieGltZyIsInNhdmUta2V5IjoiL3tmaWxlbWQ1fXsuc3VmZml4fSIsImNvbnRlbnQtc2VjcmV0Ijoib3JpZ2luYWwiLCJjb250ZW50LWxlbmd0aC1yYW5nZSI6IjAsMTA0ODU3NjAiLCJ4LWdta2VybC10eXBlIjoiZml4X21heCIsIngtZ21rZXJsLXZhbHVlIjoiNjQwIiwieC1nbWtlcmwtbm9pY2MiOiJ0cnVlIiwieC1nbWtlcmwtcXVhbGl0eSI6Ijc1IiwieC1nbWtlcmwtcm90YXRlIjoiYXV0byIsIngtZ21rZXJsLWV4aWYtc3dpdGNoIjoidHJ1ZSIsIm5vdGlmeS11cmwiOiJodHRwOi8vY2FsbGJhY2suaW1nLmJhaXhpbmcubmV0L3VweXVuLnBocD9idWNrZXQ9YnhpbWciLCJleHBpcmF0aW9uIjoxNDg5MzQ5OTQ2fQ==","signature":"4dfbeead2473eb1651171912b450fa57"},"vendorName":"upyun","imageSuffix":"#up","fileKey":"file","imageHost":null}; _defer.push(["//s.baixing.net/js/guandu/uploader.824150a3.js", function () {  if ( GuanduUploader.isSupported() === true) {   GuanduUploader.init('#feedback_picture', 'bximg')  } else {   $('#feedback_picture').closest('.p-line').remove();  }; }]); _defer.push(["//s.baixing.net/js/module/validator.1d066c49.js", function () {   $('.feedback-modal').validator({   isErrorOnParent: true,   after: function(e) {    var modal = $('.feedback-modal');    e.preventDefault();    var pictures = [];    GuanduUploader.upload({     complete : function (res, fileUrl) {      pictures.push(res.url.slice(1) + imageConfig.imageSuffix);     },     allComplete : function () {      var data = $(e.target).serialize();      if (pictures.length > 0) {       data =  data + '&pictures=' + encodeURIComponent(pictures.join(','));      }      $.post('/xiangyang/post/web?ajax=1', data, function(resp) {       var type = $('#feedback_type').val();       var typeNames = {"feedback":"\u53cd\u9988","jubao":"\u4e3e\u62a5","shensu":"\u7533\u8bc9","tuiguang":"\u63a8\u5e7f","weiquan":"\u7ef4\u6743","chat":"\u79c1\u4fe1","baozhang":"\u4fdd\u969c","lekongkong":"\u4e50\u7a7a\u7a7a","report":"\u4e3e\u62a5\u7533\u8bf7","yinshou":"\u8425\u6536"};       var typeName = '反馈';       $.each(typeNames, function(key, value) {        if (type == key) typeName = value;       });              var modalBody = "谢谢您的反馈！<br />我们将在1个工作日内处理并以电话/短信/站内信方式给您回复。（工作时间：9:00—18:00）<br />您可以在<a href='/w/feedback/'>用户中心——我的反馈</a>中查看问题回复进度";       if (type == 'shensu') {        modalBody = resp == 'true' ? '您的' + typeName + '已提交成功，我们将在24小时内核实处理！' : resp;       }       modal.find('.modal-body').html('<p>' + modalBody + '</p>');       switch (type) {        case 'shensu' :         setTimeout(function() {          window.location.reload();         } ,1500);         break;        default :         setTimeout(function() {          $('.feedback-modal').modal('hide');         } ,3000);       }      });     }    });   }  }); }]); </script><script> feedback("yushu", "riyongpin")</script><div id='promote-weixin-modal' class='fade hide in modal'><div class='modal-dialog'><div class='modal-content'><div class='modal-header'><button type='button' data-dismiss='modal' aria-label='Close' class='close'><span aria-hidden>×</span></button><div class='modal-title'>扫码使用百姓微信公众号</div></div><div class='modal-body'><p>打开微信，扫一扫右侧二维码，即可完成绑定 --></p><img id='promoQrcode' src='//s.baixing.net/img/subscribe/baixing1.jpg' style='float:right;'><div class='promoteWeixinContent'><p>绑定后，您可以：</p><p>1. 立即在手机上收到用户给您的留言</p><p>2. 使用手机快速完成付费推广的续费动作</p><p>3. 第一时间了解到百姓网付费推广最新的促销活动，以及享受微信端独特的促销活动</p><p>4. 更快速地将信息通过微信分享给好友、同事、朋友圈</p><p>5. 如果您是招聘类目用户，还能够第一时间接收到新简历通知</p></div></div></div></div></div><script src='//s.baixing.net/js/global/defer.9fe29b86.js'></script><script type="text/html" id="item_adsense_top_tmpl">
+<li class="media clearfix adsense adsense-oneline">
+	<a class="media-body" target="_blank" href="#{url}" style="text-decoration:none;display:block;" data-act_type="listing-insert" data-hintword="#{hintword}" data-keyword="#{keyword}" data-billing_name="#{billing_name}" data-index="#{index}" data-top="1">
+		<div class="media-body-title">
+		<span>#{line1}</span>
+		</div>
+		<div class="media-body-des">#{line2}</div>
+		<small class="pull-right">广告</small>
+	</a>
+</li>
+</script>
+<script type="text/html" id="item_adsense_tmpl">
+<li class="media clearfix adsense" id="s_i_ad#{index}">
+	<a href="#{url}" target="_blank" class="media-cap" data-act_type="listing-insert" data-hintword="#{hintword}" data-keyword="#{keyword}" data-billing_name="#{billing_name}">
+	<img src="#{imgUrl}" alt="#{line1}">
+	</a>
+	<a class="media-body" target="_blank" href="#{url}" style="text-decoration:none;display:block;" data-act_type="listing-insert" data-hintword="#{hintword}" data-keyword="#{keyword}" data-billing_name="#{billing_name}" data-index="#{index}">
+		<div class="media-body-title">
+			<small class="adsense-label">广告</small>
+			<span>#{line1}</span>
+		</div>
+		<div class="ad-item-detail">#{line2}</div>
+		<div class="ad-item-detail">#{visible_url}</div>
+	</a>
+</li>
+</script>
+
+<script type="text/html" id="table_adsense_tmpl">
+<li class="clearfix table-adsense-item table-view-item adsense">
+	<a target="_blank" href="#{url}" data-act_type="listing-insert" data-hintword="#{hintword}" data-keyword="#{keyword}" data-billing_name="#{billing_name}" data-index="#{index}">
+		<span class="table-view-body">
+			#{line1}
+		</span>
+		<div class="table-view-block">#{line2}</div>
+		<div class="table-view-cap">广告</div>
+	</a>
+</li>
+</script>
+<script type="text/javascript">
+	var totalAds = $('.item-pinned').length + $('.item-regular').length;
+	var viewType = 'item';
+	var keyword = '';
+	var insertSize2 = 18;
+	var insertSize = totalAds > 50 ? 7 : 5; // 当ad不足50条是，每隔5条出一个广告
+	var adSize = 5;
+	// var divide = +tracker.lastPvId.split('-')[0].substr(-4)%6;
+	var divide = 0;
+	var showTopItems = 1;
+	var hardcodeAds = [
+		{
+			tit: '一分钟线上申请，低息快速轻松贷款',
+			desc: '简单快速搞的定',
+			surl: 'jinrong.baixing.com',
+			curl: 'http://jinrong.baixing.com/?src=web-listing-insert5',
+			imgUrl: '//file.baixing.net/201702/f708b98b10406238858ce05c58813f03.png'
+		},
+		{
+			tit: '节后缺钱怎么办？上百姓金融一分钟申请，半天放款',
+			desc: '简单快速搞的定',
+			surl: 'jinrong.baixing.com',
+			curl: 'http://jinrong.baixing.com/?src=web-listing-insert6',
+			imgUrl: '//file.baixing.net/201702/f708b98b10406238858ce05c58813f03.png'
+		}
+	];
+
+	var cproRenderer = function (_ads) {
+		var ads = []
+
+		if (_ads) {
+			for(var i = 0; i < _ads.length; i++) {
+				if (_ads[i].surl.indexOf('58.com') === -1) {
+					ads.push(_ads[i])
+				}
+			}
+		}
+
+		var doubleAds = ads.concat(ads) // 双倍展现
+		if (doubleAds.length > 6) {
+			doubleAds[6] = hardcodeAds[0]
+			doubleAds[7] = hardcodeAds[1]
+		} else {
+			doubleAds = doubleAds.concat(hardcodeAds)
+		}
+
+		$list = viewType == 'item' ? $('.list-ad-items').not('.list-no-ads') : $('.table-view').not('.list-no-ads');
+		$firstList = $list.first();
+		$lastList = $list.last();
+
+		render(doubleAds);
+		if($('.youlanMoreBtn')) {
+			$('.hide + .table-adsense-item').addClass('hide')
+		}
+		function isRealPinned($tags) {
+			var isReal = false;
+			var classes = ['tag-ace','tag-huoji','tag-ding'];
+			$tags.each(function(){
+				var tagName = $(this).attr('class').split(/\s+/)[1];
+				if (classes.indexOf(tagName) != -1) isReal = true;
+			});
+			return isReal;
+		}
+		function render(ads) {
+			var index = 1;
+			if (showTopItems) {
+				if (viewType=='item') {
+					for (var i = 2; i > 0; i--) {
+						$firstList.prepend(renderAd(ads.shift(),'#item_adsense_top_tmpl'));
+					}
+				} else {
+					$list.prepend(renderAd(ads.shift(),'#'+viewType+'_adsense_tmpl'));
+				}
+			}
+
+			var regularItems = $lastList.find('.item-regular').get();
+			var pinnedItems = $lastList.find('.item-pinned:not(.item-youlan)').get();
+
+			var pinnedItemsSize = 0;
+			$(pinnedItems).each(function() {
+				var $tags = $(this).find('.tag');
+				if (isRealPinned($tags)) pinnedItemsSize++;
+			});
+			var vipItems = pinnedItems.splice(pinnedItemsSize,pinnedItems.length-pinnedItemsSize);
+			regularItems = vipItems.concat(regularItems);
+			var $regularItems = $(regularItems);
+
+			var i = 0;
+			var insertIndex = 0;
+			var insertNum = 2;
+			for (; i < ads.length; i++) {
+				insertIndex += (i % insertNum)^1;
+				if (insertIndex > divide) insertNum = 1;
+				if (insertIndex <= divide) {
+					var insertPlace = insertSize2 * insertIndex;
+				} else {
+					var insertPlace = insertSize2 * divide + (insertIndex-divide) * insertSize;
+				}
+				var content = renderAd(ads[i],'#'+viewType+'_adsense_tmpl');
+				var insertNode = $regularItems.eq(insertPlace);
+
+				if (!insertNode.length) break;
+				insertNode.before(content);
+			};
+			// 打点一下展现量
+			if(Math.random() < 0.01) {
+				window.tracker.evt('search_ad_show', {
+					num: $('.clearfix.adsense').length,
+					ad1: !!$('#s_i_ad1').length,
+					ad3: !!$('#s_i_ad3').length,
+					ad5: !!$('#s_i_ad5').length,
+				})
+			}
+						var extra_max = 10;
+			for (; i < ads.length && extra_max>0; i++, extra_max--) {
+				$list.append(renderAd(ads[i],'#'+viewType+'_adsense_tmpl'));
+			}
+						function renderAd(ad, templateHolder) {
+				if (!ad) return;
+				var template = $(templateHolder).html();
+				return $.renderAdsense({
+					url: ad.curl,
+					line1: ad.tit,
+					line2: ad.desc,
+					visible_url: ad.surl,
+					hintword: ad.bid,
+					keyword: keyword,
+					billing_name: '30024088_11_cpr',
+					index: index++,
+					imgUrl: ad.imgUrl || '//file.baixing.net/201508/7e396f2e318dcf731b1d62b615e6b76a.png',
+				},template);
+			}
+		}
+	}
+	var $cproIdRandom = parseInt(Math.random() * 10000);
+	var arrBaiduCproConfig = {};
+
+	arrBaiduCproConfig['n'] = '30024088_11_cpr'; //计费名
+	arrBaiduCproConfig['template'] = 'baiduDEFINE';
+	arrBaiduCproConfig['wn'] = adSize;   //横向广告条数
+	arrBaiduCproConfig['hn'] = 1;   //纵向广告条数
+	arrBaiduCproConfig['tm'] = 30;  //标题长度
+	arrBaiduCproConfig['cm'] = 40;  //描述长度
+	arrBaiduCproConfig['um'] = 28;  //url长度
+	arrBaiduCproConfig['define'] = 'cproRenderer';
+	arrBaiduCproConfig['charset'] = 'utf8';
+	arrBaiduCproConfig['rad'] = 0;  //是否出不相关广告
+	arrBaiduCproConfig['uap'] = 0;  //是否出cpa广告
+	arrBaiduCproConfig['cad'] = 0;  //是否显示公益广告
+	arrBaiduCproConfig['nfr'] = 0;  //是否飘红. 0表示飘红，1表示不飘红。描述不会飘红
+	arrBaiduCproConfig['bu'] = 0;   //是否展现show url
+	arrBaiduCproConfig['channel'] = '13';   //渠道值
+	arrBaiduCproConfig['k'] = '';
+</script>
+<script src="//cpro.baidustatic.com/cpro/ui/ui.js" type="text/javascript"></script>
+<script src="//s.baixing.net/js/module/cookie.81431fea.js"></script>
+<script>
+/* taq 处理 */
+$(document).ready(function () {
+	var data = [];
+	if (_taq.length) {
+		data = _taq;
+	}
+	_taq = {
+		push : function(data) {
+			switch (data[0]) {
+				case 'evt' :
+					var attribute = $.extend({
+						"_pvid": tracker.lastPvId
+						, "_reid": tracker.reid
+						, "_city": tracker.city_name
+						, "_category": tracker.category
+						, "_ad": tracker.adid
+						, "_url": document.location.href.length ? document.location.href.substr(0, 4000) : ''
+						, "_bnid": Cookie.read('kjj_trace_banner_id')
+						, "_clid": Cookie.read('kjj_trace_click_id_new')
+						, "_prof": Cookie.read('kjj_trace_profile_new')
+						, "_refer": document.referrer.length ? document.referrer : ''
+					}, data[2]);
+					$.get('/c/ev/' + encodeURIComponent(data[1]), attribute);
+					break;
+				case 'ic' :
+					$.get( '/c/ic/' + encodeURIComponent(data[1]));
+					break;
+				case 'count' :
+					$.get( '/c/mc/' + encodeURIComponent(data[1]) + '.' + encodeURIComponent(data[2]));
+					break;
+				case 'timing' :
+					$.get('/c/tm/' + encodeURIComponent(data[1]) + '.' + encodeURIComponent(data[2]) +
+					'.' + encodeURIComponent(data[3]))
+					break;
+				case 'klog' :
+					$.get( '/c/klog/' + encodeURIComponent(data[1]), data[2]);
+					break;
+				case 'perf' :
+					$.get('/c/perf/' + encodeURIComponent(data[1]), data[2]);
+					break;
+				case 'manageTrack' :
+					$.get('/c/mt/' + encodeURIComponent(data[1]), data[2]);
+					break;
+			}
+		}
+	};
+	while (data.length) {
+		_taq.push(data.shift());
+	}
+});
+</script>
+<script id="perf2"></script><script id="perflog"></script><script class='collector-bar'></script><script type='text/javascript'>
+(function() {
+	function b64EncodeUnicode(str) {
+		return btoa(encodeURIComponent(str).replace(/%([0-9A-F]{2})/g, function(match, p1) {
+			return String.fromCharCode('0x' + p1);
+		}));
+	}
+
+	$('.ex_re').on('click', function(e) {
+		var $el = $(e.target)
+		var link = $el.attr('href')
+
+		if(!$el.data('url')) $el.data('url', link)
+
+		var extra = { url: $el.data('url'), href: window.location.href }
+		var encodeLink = b64EncodeUnicode($.param({url: link, eventType: 'external_redirect', eventValue: extra})).toString()
+		var redirectUrl = 'http://www.baixing.com/redirect/index?r=' + encodeLink.replace('+', '-').replace('_', '/').replace('=', ',')
+
+		$el.attr('href', redirectUrl)
+	})
+})();
+</script><script type='text/javascript'>
+(function() {
+	var clickedAdsense = []
+
+	$('body').on('adsense_click', function(event, data) {
+		if(!data || !data.id) return false
+
+		var id = '#' + data.id
+		if(clickedAdsense.indexOf(id) === -1) {
+			clickedAdsense.push(id)
+		} else {
+			setTimeout(function() {
+				$(id).remove()
+			}, 1000)
+		}
+	})
+
+	// 暂时检测一下搜索广告点击状况，就不取全量了
+	if (Math.random() < 0.1) {
+		$('body').on('click', '.media.clearfix.adsense', function(e) {
+			var offset = $(e.target).parents('.adsense').offset()
+			var posY = offset.top - $(window).scrollTop()
+			var posX = offset.left - $(window).scrollLeft()
+
+			var result = {
+				x: e.screenX - posX,
+				y: e.screenY - posY - 120
+			}
+
+			tracker.evt('search_ad_click_position', result)
+		})
+	}
+})();
+</script>
+</body></html>
