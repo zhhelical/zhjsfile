@@ -1,1 +1,1 @@
-these are for industrial spc codes, simple and anyone interested, maybe complete these
+these are for industrial spc codes(QT), simple and anyone interested, maybe complete these
